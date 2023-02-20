@@ -1,10 +1,3 @@
----
-const isProd = import.meta.env.PROD
-const baseAssetUrl = isProd
-  ? 'https://craftzdog.global.ssl.fastly.net/uses'
-  : ''
----
-
 <section class="relative mb-6 h-80 flex justify-center items-center">
   <div class="absolute w-full h-full overflow-hidden">
     <video
@@ -15,11 +8,11 @@ const baseAssetUrl = isProd
       loop="loop"
       playsinline
       ><source
-        src={baseAssetUrl + '/masthead.webm'}
+        src={'../../public/video/switch-exploded.webm'}
         type="video/webm; codecs=vp9"
       />
       <source
-        src={baseAssetUrl + '/masthead.m4v'}
+        src={'../../public/switch-exploded.m4v'}
         type="video/mp4; codecs=hvc1"
       />
     </video>
