@@ -6,7 +6,7 @@ layout: ../../layouts/BlogPost.astro
 title: Les formats
 createdAt: 2
 tags:
-  - Computing
+  - Helping
 heroImage: /posts/formatHero.png
 ---
 
