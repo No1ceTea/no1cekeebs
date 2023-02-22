@@ -9,7 +9,7 @@ import addClasses from 'rehype-add-classes';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://uses.craftz.dog/',
+  site: 'https://no1cetea-keyboard.vercel.app/',
   integrations: [sitemap(), react(), image({
     serviceEntryPoint: '@astrojs/image/sharp'
   }), tailwind()],

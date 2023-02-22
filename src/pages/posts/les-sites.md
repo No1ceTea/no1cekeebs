@@ -11,57 +11,33 @@ heroImage: /posts/sitesHero.png
 ---
 
 
-Vous retrouverez ci-dessous les principaux revendeurs européens pour éviter d'avoir des frais de douane et de livraison **astronomique**. Donc privilégié ces liens pour faire vos achats (cette liste n'est pas un classement des revendeurs, juste une liste non exhaustive) :
+Voici une liste des principaux revendeurs situé en Europe pour éviter la confrontation entre les frais de douanes et votre porte feuille. Rien ne vous interdis de commander ailleurs si un produit que vous recherchez ou équivalent n'existe pas dans la liste des revendeurs européens, mais soyez prêt à recevoir des frais de douanes et faire grimper la facture de votre keebs.
+
+Cette page sera tout le temps mise à jour.
+Last update : 22/02/2023
 
 ## EU
 
-- **AkkoGear :** [https://akkogear.de/?ref=u0YmpKLoNb_z](https://akkogear.de/?ref=u0YmpKLoNb_z "https://akkogear.de/?ref=u0YmpKLoNb_z") (Code _CUSTOM TON CLAVIER_ pour avoir 10% de réduction sur tout le site)
-> Type de produit : Tout mais surtout intéressant pour les tapis de souris
+[**DeltaKeyCo**](https://deltakeyco.com/) - Keyboards parts, barebone kit & more
 
-- **KatKoil :** [https://katkoil.com/fr](https://katkoil.com/fr "https://katkoil.com/fr") (Code _CUSTOM TON CLAVIER_ pour avoir 10% de réduction sur tout le site)
-> Provenance : France
-> Type de produit : Câbles enroulés
+[**Keygem**](https://keygem.com/) - Everything
 
-- **CandyKeys :** [https://candykeys.com/](https://candykeys.com/ "https://candykeys.com/")
-> Provenance : Allemagne
-> Type de produit : Tout
+[**MyKeyboard**](https://mykeyboard.eu/) - Everything
 
-- **Mykeyboard.eu :** [https://mykeyboard.eu/](https://mykeyboard.eu/ "https://mykeyboard.eu/") 
-> Provenance : Belgique
-> Type de produit : Tout
+[**Candykeys**](https://candykeys.com/) - Everything
 
-- **Mekanisk :** [https://mekanisk.com/](https://mekanisk.com/ "https://mekanisk.com/")
-> Provenance : Norvège
-> Type de produit : Tout
+[**Mekanisk**](https://mekanisk.com/) - Everything
 
-- **Qlavier :** [https://www.qlavier.com/](https://www.qlavier.com/ "https://www.qlavier.com/")
-> Provenance : Belgique
-> Type de produit : commission pour un full custom personnel
+[**Oblotzky**](https://oblotzky.industries/) - Group-buy, Extra of Group-buy & more
 
-- **Keebwerk :** [https://www.keebwerk.com/](https://www.keebwerk.com/ "https://www.keebwerk.com/")
-> Provenance : Allemagne
-> Type de produit : Leurs claviers custom et switches
+[**ElequentClicks**](https://www.eloquentclicks.com/) - Keyboards & accessories & official dealer of KBDFans
 
-- **Uniqey :** [https://uniqey.net/en/](https://uniqey.net/en/ "https://uniqey.net/en/")
-> Provenance : Allemagne
-> Type de produit : Clavier personnalisé
+[**AkkoGear**](https://akkogear.de/) - Everything
 
-- **Mechbox :** [https://mechbox.co.uk/](https://mechbox.co.uk/ "https://mechbox.co.uk/")
-> Provenance : Angleterre
-> Type de produit : Keycaps originaux, artisans
+[**Qclavier**](https://www.qlavier.com/) - Commission for a personal full custom
 
-- **EloquentClicks :** [https://www.eloquentclicks.com/](https://www.eloquentclicks.com/ "https://www.eloquentclicks.com/")
-> Provenance : Espagne
-> Type de produits : Tout, revendeur officiel KBDFans en Europe
+[**Keebwerk**](https://www.keebwerk.com/) - Keyboards & accessories
 
-- **Oblotzky Industries:** [https://oblotzky.industries/](https://oblotzky.industries/ "https://oblotzky.industries/")
-> Provenance : Allemagne
-> Type de produits : Reste de Group-Buy (IN STOCK) & des Group-Buy et plus
+[**Uniqey**](https://uniqey.net/en/) - Custom keyboard
 
-- **AzertyKeycap github :** [https://azertykeycap.github.io/](https://azertykeycap.github.io/ "https://azertykeycap.github.io/")
-- Pour une liste complète de tous les revendeurs de pièces de clavier en Europe, vous pouvez vous rendre sur [https://keebmap.xyz/](https://keebmap.xyz/ "https://keebmap.xyz/") et cliquer sur l’Europe.
-
-## Hors EU (douaned)
-
-- [Classic, Retro, Beige Keycaps for Mechanical Keyboards - 21KB](https://21kb.com/)
-- 
+[**KatKoil**](https://katkoil.com/fr) - Custom Cables
