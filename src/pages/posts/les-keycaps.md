@@ -50,8 +50,8 @@ combinaison de couleurs pour la touche et la légende.
 
 - **UV coating** : au sens strict, c'est l'application d'un vernis séchant aux UV comme étape de finition/protection. Dans le jargon des fabricants et vendeurs, c'est une caractéristique de certaines touches rétroéclairées : les touches sont réalisées en plastique translucide, peintes, puis les légendes sont gravées au laser pour révéler le plastique translucide qui laissera passer le rétroéclairage. La surface de la touche est ensuite protégée par un vernis UV comme décrit plus haut. A de très rares exceptions près, les touches rétroéclairées sont réalisées uniquement en ABS fin, et leur surface peinte + vernie leur confine une texture plus lisse que de l'ABS classique (et donc la sensations que la surface est grasse, ce qui est souvent perçu comme un défaut).
 
-## Le profile
+## Le profil
 
-Toutes les touches n'ont pas la même forme : l'angle et la hauteur diffèrent selon le profil choisi, et on leur impact sur la sensation de frappe. Il faut bien noter aussi que chaque rangée a souvent une forme différente qui étage le sommet de chaque rangée.
+Toutes les touches n'ont pas la même forme : l'angle et la hauteur diffèrent selon le profil choisi, et on leur impact sur la sensation de frappe. Il faut bien noter aussi que chaque rangée à souvent une forme différente qui étage le sommet de chaque rangée.
 
 ![profile.png](/posts/profile.png)

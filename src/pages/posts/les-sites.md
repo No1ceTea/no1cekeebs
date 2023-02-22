@@ -30,11 +30,11 @@ Last update : 22/02/2023
 
 [**Oblotzky**](https://oblotzky.industries/) - Group-buy, Extra of Group-buy & more
 
-[**ElequentClicks**](https://www.eloquentclicks.com/) - Keyboards & accessories & official dealer of KBDFans
+[**EloquentClicks**](https://www.eloquentclicks.com/) - Keyboards & accessories & official dealer of KBDFans
 
 [**AkkoGear**](https://akkogear.de/) - Everything
 
-[**Qclavier**](https://www.qlavier.com/) - Commission for a personal full custom
+[**Qlavier**](https://www.qlavier.com/) - Commission for a personal full custom
 
 [**Keebwerk**](https://www.keebwerk.com/) - Keyboards & accessories
 
