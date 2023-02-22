@@ -28,9 +28,8 @@ Le **60%** ne comprend que le bloc principal d'un clavier (sans les touches F-
 
 L'appellation **Tsangan** (venant d'un modérateur Geekhack du même nom) provient de ce même modérateur qui demandait sans arrêt un support de barre espace en 7u quand une personne de la communauté proposait un set de keycaps, si bien que depuis, chaque set proposé supportant un kit avec une 7u était plus communément appelé un **"tsangan kit"**
 
-Pareil pour le HHKB, aka le **Happy Hacking Keyboard** qui a été designer par Eiiti Wada. Il a tout simplement décider de créer
-son propre format parce que les nouvelles dispositions étaient de plus en plus complexes avec l'avancement des nouveaux systèmes
-informatiques. Il est d'ailleurs principalement inspiré par le clavier original du Macintosh. Au cours du processus de conception, Wada avait des maquettes du clavier avec des touches imprimées et vierges, il a constaté que ses étudiants aimaient bien les touches vierges et la tradition des HHKB avec des touches vierges se poursuit à ce jour.
+Pareil pour le HHKB, aka le **Happy Hacking Keyboard** qui a été créé par Eiiti Wada. Il a tout simplement décider de créer son propre format parce que les nouvelles dispositions étaient de plus en plus complexes avec l'avancement des nouveaux systèmes informatiques. Il est d'ailleurs principalement inspiré par le clavier original du Macintosh. Au cours du processus de conception, Wada avait des maquettes du clavier avec des touches imprimées et vierges, il a constaté que ses étudiants aimaient bien les touches vierges et la tradition des HHKB avec des touches vierges se poursuit à ce jour.
+
 
 ![tsangan.png](/posts/tsangan.png)
 

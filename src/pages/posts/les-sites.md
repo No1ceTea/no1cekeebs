@@ -40,4 +40,4 @@ Last update : 22/02/2023
 
 [**Uniqey**](https://uniqey.net/en/) - Custom keyboard
 
-[**KatKoil**](https://katkoil.com/fr) - Custom Cables
+[**AzertyKeycaps**](https://www.azertykeycaps.fr/) - Azerty keycaps set
