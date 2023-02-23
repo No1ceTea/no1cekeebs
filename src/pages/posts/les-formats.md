@@ -17,7 +17,13 @@ On peut trouver des claviers de toutes les formes et de toutes les tailles, avec
 Le **full size** ou **100%** : c'est le clavier standard avec pavé numérique
 ![100.png](/posts/100.png)
 
-Le **TKL** ou TenKeyLess : le même, sans pavé numérique.
+Le **96%** : un layout compacté du 100, sans bloqueurs entre les fléches, le pavé numérique et les touches F- pour ne faire qu'un seul bloc.
+![96.png](/posts/96.png) 
+
+Le **1800** : celui-ci comporte des bloqueurs entre les touches fléchées, le pavé numérique et les touches F-, mais beaucoup moins prononcé. Pour le lore le 1800 porte ce nom, car il s'inspire du Cherry G80-1800.
+![1800.png](/posts/1800.png)
+
+Le **TKL** ou TenKeyLess : le même qu'un **100%**, mais sans pavé numérique.
 ![tkl.png](/posts/tkl.png)
 
 Les **75%** sont des 60% avec touches F- et des touches fléchées accolées (ou non pour un exploded) au bloc principal. 
