@@ -6,7 +6,7 @@ layout: ../../layouts/BlogPost.astro
 title: Les keycaps
 createdAt: 3
 tags:
-  - Helping
+  - Ressource
 heroImage: /posts/keycapsHero.png
 ---
 

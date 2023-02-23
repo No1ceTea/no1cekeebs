@@ -6,7 +6,7 @@ layout: ../../layouts/BlogPost.astro
 title: Les switchs
 createdAt: 4
 tags:
-  - Helping
+  - Ressource
 heroImage: /posts/switchsHero.png
 ---
 

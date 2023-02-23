@@ -6,7 +6,7 @@ layout: ../../layouts/BlogPost.astro
 title: Le layout
 createdAt: 1
 tags:
-  - Helping
+  - Ressource
 heroImage: /posts/layoutHero.png
 ---
 
