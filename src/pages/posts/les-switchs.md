@@ -23,7 +23,9 @@ Un switch est déjà la premiere raison sur le fait que nous donner l’appellat
 
 **Spring** : Comme son nom l'indique c'est le ressort, il permet de renvoyer le stem après une pression sur le switch.
 
-### Type de switch
+![switch.png](/posts/switch.png)
+
+## Type de switch
 
 Il existe 3 types majeurs de switch : 
 
