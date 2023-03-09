@@ -1,5 +1,5 @@
 ---
-description: 
+description: Un style rétro futuriste
 slug: new-retro66
 public: true
 layout: ../../layouts/BlogPost.astro
