@@ -48,7 +48,7 @@ Nous pouvons donc retrouver un layout en **65%** qui supporte aussi bien l'ANSI 
 
 ## Specification
 
-L'angle de frappe sera de **6.5 degrés** et aura une hauteur de face de **19.2mm**
+L'angle de frappe sera de **6.5 degrés** et aura une hauteur de face de **19.2mm**.
 
 ## Plate
 
