@@ -1,5 +1,5 @@
 ---
-description: Un style rétro futuriste
+description: Un style rétro futuriste - PRE-ORDER NOW
 slug: new-retro66
 public: true
 layout: ../../layouts/BlogPost.astro
@@ -15,7 +15,7 @@ heroImage: /groupbuy/new-retro66/retro66Hero.jpg
 
 ![new-retro66.png](/groupbuy/new-retro66/new-retro66.jpg)
 
-Ici, **trois coloris** seront à retenir et ont été un choix de la communauté parmi 5 coloris, les deux coloris qui n'ont pas été retenus et que je ne montrerais pas ici étaient le noir et l'orange.
+Ici, **5 coloris** seront disponible : 
 
 On peut retrouver une couleur **cream** que j'adore personnellement.
 ![cream66.jpg](/groupbuy/new-retro66/cream66.jpg)
@@ -23,8 +23,18 @@ On peut retrouver une couleur **cream** que j'adore personnellement.
 Un **silver** assez classique, mais qui fait très bien le café.
 ![silver66.jpg](/groupbuy/new-retro66/silver66.jpg)
 
-Et enfin du **violet** pour ce qui aime voir adore les GMK vaporwave qui feront un très bon combo entre les deux.
+Du **violet** pour ce qui aime voir adore les GMK vaporwave qui feront un très bon combo entre les deux.
 ![purple66.jpg](/groupbuy/new-retro66/purple66.jpg)
+
+Du **orange** pour une couleur assez unique.
+![orange66.jpg](/groupbuy/new-retro66/orange66.jpg)
+
+Et enfin du noir sur un bleu ultra profond pour ce qui font le choix de la simplicité.
+![black66.jpg](/groupbuy/new-retro66/black66.jpg)
+
+Vous pourrez choisir entre deux front pack, avec soit une inscription en anglais ou en japonais pour les mots **NEW RETRO**.
+
+![frontpack.png](/groupbuy/new-retro66/frontpack.png)
 
 ## Layout
 
@@ -34,17 +44,29 @@ Le PCB fourni sera **hotswap** et en **daughterboard**, dessiner et fabrique par
 
 ![pcbnearof66.jpg](/groupbuy/new-retro66/pcbnearof66.jpg)
 
-Les deux 1u à l'extrême droite peuvent être dessoudés et le bouton **EC11** peut donc être soudé après le retrait du socle hotswap, tout cela pour choisir entre une touche classique, soit mettre en place un **knob** sur deux et avoir une autre touche classique avec le knob ou directement les **deux knobs** sur ces boutons (**EC11** je le rappelle). Vous pourrez avoir le choix sur le même clavier de le passer soit en **WK** soit en **WKL** mais malheureusement le Tsangan ne sera pas disponible sur ses différents layouts.
+Les deux 1u à l'extrême droite peuvent être dessoudés et le bouton **EC11** peut donc être soudé après le retrait du socle hotswap, tout cela pour choisir entre une touche classique, soit mettre en place un **knob** sur deux et avoir une autre touche classique avec le knob ou directement les **deux knobs** sur ces boutons (**EC11** je le rappelle). 
+
+![knob2.jpg](/groupbuy/new-retro66/knob2.jpg)
+
+Vous pourrez avoir le choix sur le même clavier de le passer soit en **WK** soit en **WKL** mais malheureusement le Tsangan ne sera pas disponible sur ses différents layouts.
+
+![wk.jpg](/groupbuy/new-retro66/wk.jpg)
+
+![wkl.jpg](/groupbuy/new-retro66/wkl.jpg)
 
 ![layout.png](/groupbuy/new-retro66/layout.png)
 
 ## Specification
 
-L'angle de frappe sera de **7 degrés** et une hauteur de face de **22.5 mm**. Je n'ai pas plus de données dessus, une mise à jour sera faites si de nouvelles informations me parviennent.
+L'angle de frappe sera de **7 degrés** et une hauteur de face de **22.5 mm**.
+
+![angle.png](/groupbuy/new-retro66/angle.png)
 
 ## Plate
 
-Pour le moment, une seule plate est proposée depuis l'IC et c'est la plate en **FR4**. Néanmoins les flex cuts sont différentes sur chaque plate et ont été pensé selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layouts.
+Les plates disponibles seront aux nombres de 4 : **FR4** (directement inclus), **PC**, **Brass PVD** et **Brass Anodized**. Les flex cuts sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layout.
+
+![plate.png](/groupbuy/new-retro66/plate.png)
 
 ## Kit
 
@@ -96,6 +118,41 @@ Kit list：
 
 ![everything.png](/groupbuy/new-retro66/everything.png)
 
-Nous n'avons pas plus d'informations sur l'exactitude du prix de ce petit joujou, donc encore une fois si de plus amples informations me parviennent, ça sera update dans les 24h qui suivront update du côté de Deadline studio.
+Vous pourrez aussi profiter d'extra, le tout en image !
+
+![trianglebracket.png](/groupbuy/new-retro66/trianglebracket.png)
+
+![connectrods.png](/groupbuy/new-retro66/connectrod.png)
+
+![pcbdecorationblock.png](/groupbuy/new-retro66/pcbdecorationblock.png)
+
+![knob.png](/groupbuy/new-retro66/knob.png)
+
+
+En raison du grand angle de frappe, ils ont creer un repose-poignet uniquement a prendre en tant qu'extra avec le clavier.
+
+![renderwrist.jpg](/groupbuy/new-retro66/renderwrist.jpg)
+
+![wristrest.png](/groupbuy/new-retro66/wristrest.png)
+
+## IRL Pictures 
+
+Pour finir, voici quelque rendu des produits finaux.
+
+![realshot1.jpg](/groupbuy/new-retro66/realshot1.jpg)
+![realshot2.jpg](/groupbuy/new-retro66/realshot2.jpg)
+![realshot3.jpg](/groupbuy/new-retro66/realshot3.jpg)
+![realshot4.jpg](/groupbuy/new-retro66/realshot4.jpg)
+![realshot5.jpg](/groupbuy/new-retro66/realshot5.jpg)
+![realshot6.jpg](/groupbuy/new-retro66/realshot6.jpg)
+
+
+## Pre-order
+
+**Actuellement en pre-order sur Keygem jusqu'au 16 avril 2023 !!!**
+
+**Pre-order - Keygem** : https://keygem.com/products/group-buy-new-retro-66-keyboard-kit
+
+**Pre-order extra - Keygem** : https://keygem.com/products/group-buy-new-retro-66-extras
 
 **Source** : https://geekhack.org/index.php?topic=118291.0
