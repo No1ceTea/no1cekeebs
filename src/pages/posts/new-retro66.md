@@ -110,7 +110,7 @@ Kit list：
 
 **Ixpe pad**
 
-**Fr4 plate** （TBD）
+**Fr4 plate**
 
 **Hotswap PCB**
 
