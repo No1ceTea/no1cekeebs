@@ -56,4 +56,4 @@ Les plates disponibles seront aux nombres de 6 : **aluminium**, **FR4**, **PC**,
 
 Plus d'informations vous seront communiquées ici-même selon les mises à jour du produit.
 
-**Source** : https://geekhack.org/index.php?topic=118837.0
+**Source** : [Vanguard65](https://geekhack.org/index.php?topic=118837.0)

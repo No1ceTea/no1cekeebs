@@ -87,4 +87,4 @@ Enfin, voici quelque rendu du prototype ainsi que des rendus 3D.
 
 Le prototype est terminé est et prêt à être manufacturé en volume de production. En cours de recherche pour des fournisseurs fiables.
 
-**Source** : https://geekhack.org/index.php?topic=119447.0
+**Source** : [Sisyphus65 by Maniac Rabbit studio](https://geekhack.org/index.php?topic=119447.0)

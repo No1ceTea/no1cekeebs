@@ -155,4 +155,4 @@ Pour finir, voici quelque rendu des produits finaux.
 
 **Pre-order extra - Keygem** : https://keygem.com/products/group-buy-new-retro-66-extras
 
-**Source** : https://geekhack.org/index.php?topic=118291.0
+**Source** : [NewRetro66 by Deadline Studio](https://geekhack.org/index.php?topic=118291.0)
