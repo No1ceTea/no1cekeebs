@@ -20,10 +20,10 @@
   "resolved" "https://registry.npmjs.org/@astrojs/compiler/-/compiler-0.31.4.tgz"
   "version" "0.31.4"
 
-"@astrojs/compiler@^1.0.0", "@astrojs/compiler@^1.1.0", "@astrojs/compiler@>=0.27.0":
-  "integrity" "sha512-JRDEARnuUUOlKUE4XVu8+NoeNWpOHtYQW39uWjqTbpefMjL95og54vTKLHqeUajXWeY115zZtO7jIVdOmQ1IPQ=="
-  "resolved" "https://registry.npmjs.org/@astrojs/compiler/-/compiler-1.1.1.tgz"
-  "version" "1.1.1"
+"@astrojs/compiler@^1.0.0", "@astrojs/compiler@^1.3.0", "@astrojs/compiler@>=0.27.0":
+  "integrity" "sha512-VxSj3gh/UTB/27rkRCT7SvyGjWtuxUO7Jf7QqDduch7j/gr/uA5P/Q5I/4zIIrZjy2yQAKyKLoox2QI2mM/BSA=="
+  "resolved" "https://registry.npmjs.org/@astrojs/compiler/-/compiler-1.3.0.tgz"
+  "version" "1.3.0"
 
 "@astrojs/image@^0.15.0":
   "integrity" "sha512-Dw47TNCF1dkX3gM1jEmtov4aLR/N5XNzTyToRv99OJZmAAY7J19DN+FUaCHYj3gsiF9N5FekhgOeKu1v4A5DgA=="
@@ -55,12 +55,12 @@
     "vscode-languageserver-types" "^3.17.1"
     "vscode-uri" "^3.0.3"
 
-"@astrojs/markdown-remark@^2.0.1":
-  "integrity" "sha512-xQF1rXGJN18m+zZucwRRtmNehuhPMMhZhi6HWKrtpEAKnHSPk8lqf1GXgKH7/Sypglu8ivdECZ+EGs6kOYVasQ=="
-  "resolved" "https://registry.npmjs.org/@astrojs/markdown-remark/-/markdown-remark-2.0.1.tgz"
-  "version" "2.0.1"
+"@astrojs/markdown-remark@^2.1.2":
+  "integrity" "sha512-rYkmFEv2w7oEk6ZPgxHkhWzwcxSUGc1vJU0cbCu5sHF8iFNnc1cmMsjXWa5DrU5sCEf8VVYE1iFlbbnFzvHQJw=="
+  "resolved" "https://registry.npmjs.org/@astrojs/markdown-remark/-/markdown-remark-2.1.2.tgz"
+  "version" "2.1.2"
   dependencies:
-    "@astrojs/prism" "^2.0.0"
+    "@astrojs/prism" "^2.1.0"
     "github-slugger" "^1.4.0"
     "import-meta-resolve" "^2.1.0"
     "rehype-raw" "^6.1.1"
@@ -74,10 +74,10 @@
     "unist-util-visit" "^4.1.0"
     "vfile" "^5.3.2"
 
-"@astrojs/prism@^2.0.0":
-  "integrity" "sha512-YgeoeEPqsxaEpg0rwe/bUq3653LqSQnMjrLlpYwrbQQMQQqz6Y5yXN+RX3SfLJ6ppNb4+Fu2+Z49EXjk48Ihjw=="
-  "resolved" "https://registry.npmjs.org/@astrojs/prism/-/prism-2.0.0.tgz"
-  "version" "2.0.0"
+"@astrojs/prism@^2.1.0":
+  "integrity" "sha512-Gnwnlb1lGJzCQEg89r4/WqgfCGPNFC7Kuh2D/k289Cbdi/2PD7Lrdstz86y1itDvcb2ijiRqjqWnJ5rsfu/QOA=="
+  "resolved" "https://registry.npmjs.org/@astrojs/prism/-/prism-2.1.1.tgz"
+  "version" "2.1.1"
   dependencies:
     "prismjs" "^1.28.0"
 
@@ -115,10 +115,10 @@
     "postcss" "^8.4.14"
     "postcss-load-config" "^4.0.1"
 
-"@astrojs/telemetry@^2.0.0":
-  "integrity" "sha512-RnWojVMIsql3GGWDP5pNWmhmBQVkCpxGNZ8yPr2cbmUqsUYGSvErhqfkLfro9j2/STi5UDmSpNgjPkQmXpgnKw=="
-  "resolved" "https://registry.npmjs.org/@astrojs/telemetry/-/telemetry-2.0.0.tgz"
-  "version" "2.0.0"
+"@astrojs/telemetry@^2.1.0":
+  "integrity" "sha512-P3gXNNOkRJM8zpnasNoi5kXp3LnFt0smlOSUXhkynfJpTJMIDrcMbKpNORN0OYbqpKt9JPdgRN7nsnGWpbH1ww=="
+  "resolved" "https://registry.npmjs.org/@astrojs/telemetry/-/telemetry-2.1.0.tgz"
+  "version" "2.1.0"
   dependencies:
     "ci-info" "^3.3.1"
     "debug" "^4.3.4"
@@ -126,15 +126,15 @@
     "dset" "^3.1.2"
     "is-docker" "^3.0.0"
     "is-wsl" "^2.2.0"
-    "undici" "^5.14.0"
+    "undici" "^5.20.0"
     "which-pm-runs" "^1.1.0"
 
-"@astrojs/webapi@^2.0.0":
-  "integrity" "sha512-aOOHa86W5Ux77A3dS91YrVlSxtBSJsVK4UhvcXHY0gAl0ZrOStSKSBO45gZ6tFi2AiHu3bzpMtZjwrPHtl+cyg=="
-  "resolved" "https://registry.npmjs.org/@astrojs/webapi/-/webapi-2.0.1.tgz"
-  "version" "2.0.1"
+"@astrojs/webapi@^2.1.0":
+  "integrity" "sha512-sbF44s/uU33jAdefzKzXZaENPeXR0sR3ptLs+1xp9xf5zIBhedH2AfaFB5qTEv9q5udUVoKxubZGT3G1nWs6rA=="
+  "resolved" "https://registry.npmjs.org/@astrojs/webapi/-/webapi-2.1.0.tgz"
+  "version" "2.1.0"
   dependencies:
-    "undici" "5.18.0"
+    "undici" "5.20.0"
 
 "@babel/code-frame@^7.18.6":
   "integrity" "sha512-TDCmlK5eOvH+eH7cdAFlNXeVJqWIQ7gW9tY1GJIpUtFb6CmjVyq2VM3u71bOyR8CRihcCgMUYoDNyLXao3+70Q=="
@@ -365,6 +365,11 @@
   "resolved" "https://registry.npmjs.org/@emmetio/scanner/-/scanner-1.0.0.tgz"
   "version" "1.0.0"
 
+"@esbuild/linux-x64@0.16.17":
+  "integrity" "sha512-mdPjPxfnmoqhgpiEArqi4egmBAMYvaObgn4poorpUaqmvzzbvqbowRllQ+ZgzGVMGKaPkqUmPDOOFQRUFDmeUw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.16.17.tgz"
+  "version" "0.16.17"
+
 "@eslint/eslintrc@^1.4.1":
   "integrity" "sha512-XXrH9Uarn0stsyldqDYq8r++mROmWRI1xKMXa640Bb//SY1+ECYX6VzT6Lcx5frD0V30XieqJ0oX9I2Xj5aoMA=="
   "resolved" "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.4.1.tgz"
@@ -550,9 +555,9 @@
   "version" "0.0.30"
 
 "@types/mdast@^3.0.0":
-  "integrity" "sha512-W864tg/Osz1+9f4lrGTZpCSO5/z4608eUp19tbozkq2HJK6i3z1kT0H9tlADXuYIb1YYOBByU4Jsqkk75q48qA=="
-  "resolved" "https://registry.npmjs.org/@types/mdast/-/mdast-3.0.10.tgz"
-  "version" "3.0.10"
+  "integrity" "sha512-Y/uImid8aAwrEA24/1tcRZwpxX3pIFTSilcNDKSPn+Y2iDywSEachzRuvgAYYLR3wpGXAsMbv5lvKLDZLeYPAw=="
+  "resolved" "https://registry.npmjs.org/@types/mdast/-/mdast-3.0.11.tgz"
+  "version" "3.0.11"
   dependencies:
     "@types/unist" "*"
 
@@ -819,16 +824,16 @@
     "eslint-visitor-keys" "^3.0.0"
     "espree" "^9.0.0"
 
-"astro@^2.0.12", "astro@^2.0.13", "astro@^2.0.2", "astro@^2.0.4":
-  "integrity" "sha512-TyRFn6VpWiiYKhogt3W7O3eU05YQ61rlOU/Vwr/USZkHVLFXnEtWYFVcBYXoQ8cKXfEdc4JIZMmk923UzsMlZg=="
-  "resolved" "https://registry.npmjs.org/astro/-/astro-2.0.13.tgz"
-  "version" "2.0.13"
+"astro@^2.0.12", "astro@^2.0.4", "astro@^2.1.5", "astro@^2.1.7":
+  "integrity" "sha512-Eaq8/mJTx+kbghfW5ZEJ8rKiEduo03Rn6R/fp/gJGpBSRm/0FiVxVsrpq5SV4kUPrttEi1zMEnEc2GP6JWfXeg=="
+  "resolved" "https://registry.npmjs.org/astro/-/astro-2.1.7.tgz"
+  "version" "2.1.7"
   dependencies:
-    "@astrojs/compiler" "^1.1.0"
+    "@astrojs/compiler" "^1.3.0"
     "@astrojs/language-server" "^0.28.3"
-    "@astrojs/markdown-remark" "^2.0.1"
-    "@astrojs/telemetry" "^2.0.0"
-    "@astrojs/webapi" "^2.0.0"
+    "@astrojs/markdown-remark" "^2.1.2"
+    "@astrojs/telemetry" "^2.1.0"
+    "@astrojs/webapi" "^2.1.0"
     "@babel/core" "^7.18.2"
     "@babel/generator" "^7.18.2"
     "@babel/parser" "^7.18.4"
@@ -839,6 +844,7 @@
     "@types/yargs-parser" "^21.0.0"
     "acorn" "^8.8.1"
     "boxen" "^6.2.1"
+    "chokidar" "^3.5.3"
     "ci-info" "^3.3.1"
     "common-ancestor-path" "^1.0.1"
     "cookie" "^0.5.0"
@@ -872,7 +878,7 @@
     "typescript" "*"
     "unist-util-visit" "^4.1.0"
     "vfile" "^5.3.2"
-    "vite" "^4.0.3"
+    "vite" "^4.1.2"
     "vitefu" "^0.2.4"
     "yargs-parser" "^21.0.1"
     "zod" "^3.17.3"
@@ -1982,9 +1988,9 @@
     "resolve-from" "^4.0.0"
 
 "import-meta-resolve@^2.1.0":
-  "integrity" "sha512-C6lLL7EJPY44kBvA80gq4uMsVFw5x3oSKfuMl1cuZ2RkI5+UJqQXgn+6hlUew0y4ig7Ypt4CObAAIzU53Nfpuw=="
-  "resolved" "https://registry.npmjs.org/import-meta-resolve/-/import-meta-resolve-2.2.1.tgz"
-  "version" "2.2.1"
+  "integrity" "sha512-f8KcQ1D80V7RnqVm+/lirO9zkOxjGxhaTC1IPrBGd3MEfNgmNG67tSUO9gTi2F3Blr2Az6g1vocaxzkVnWl9MA=="
+  "resolved" "https://registry.npmjs.org/import-meta-resolve/-/import-meta-resolve-2.2.2.tgz"
+  "version" "2.2.2"
 
 "imurmurhash@^0.1.4":
   "integrity" "sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA=="
@@ -3841,17 +3847,17 @@
   "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
   "version" "4.9.5"
 
-"undici@^5.14.0":
-  "integrity" "sha512-YiZ61LPIgY73E7syxCDxxa3LV2yl3sN8spnIuTct60boiiRaE1J8mNWHO8Im2Zi/sFrPusjLlmRPrsyraSqX6A=="
-  "resolved" "https://registry.npmjs.org/undici/-/undici-5.19.1.tgz"
-  "version" "5.19.1"
+"undici@^5.20.0":
+  "integrity" "sha512-HOjK8l6a57b2ZGXOcUsI5NLfoTrfmbOl90ixJDl0AEFG4wgHNDQxtZy15/ZQp7HhjkpaGlp/eneMgtsu1dIlUA=="
+  "resolved" "https://registry.npmjs.org/undici/-/undici-5.21.0.tgz"
+  "version" "5.21.0"
   dependencies:
     "busboy" "^1.6.0"
 
-"undici@5.18.0":
-  "integrity" "sha512-1iVwbhonhFytNdg0P4PqyIAXbdlVZVebtPDvuM36m66mRw4OGrCm2MYynJv/UENFLdP13J1nPVQzVE2zTs1OeA=="
-  "resolved" "https://registry.npmjs.org/undici/-/undici-5.18.0.tgz"
-  "version" "5.18.0"
+"undici@5.20.0":
+  "integrity" "sha512-J3j60dYzuo6Eevbawwp1sdg16k5Tf768bxYK4TUJRH7cBM4kFCbf3mOnM/0E3vQYXvpxITbbWmBafaDbxLDz3g=="
+  "resolved" "https://registry.npmjs.org/undici/-/undici-5.20.0.tgz"
+  "version" "5.20.0"
   dependencies:
     "busboy" "^1.6.0"
 
@@ -3985,7 +3991,7 @@
     "unist-util-stringify-position" "^3.0.0"
     "vfile-message" "^3.0.0"
 
-"vite@^3.0.0 || ^4.0.0", "vite@^4.0.3":
+"vite@^3.0.0 || ^4.0.0", "vite@^4.1.2":
   "integrity" "sha512-0Zqo4/Fr/swSOBmbl+HAAhOjrqNwju+yTtoe4hQX9UsARdcuc9njyOdr6xU0DDnV7YP0RT6mgTTOiRtZgxfCxA=="
   "resolved" "https://registry.npmjs.org/vite/-/vite-4.1.3.tgz"
   "version" "4.1.3"

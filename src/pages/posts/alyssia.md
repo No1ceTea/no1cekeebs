@@ -45,10 +45,6 @@ Les plates disponibles seront aux nombres de 2 : **aluminium** et **PC**. Toutes
 
 Le créateur essaiera de tenir sont projets pour un prix abordable autour des 430 euros. Nous aurons peut-être aussi un kit avec juste la case et sans le PCB pour ce qui aurait déjà un PCB d'alice pour réduire le prix.
 
-Vous pouvez suivre toutes les mises à jours ici-même, ainsi que le page source sur Geekhack et enfin sur leur discord qui sera dans l'article de la source.
-
-## Render
-
-
+Vous pouvez suivre toutes les mises à jours ici-même, ainsi que sur la page source Geekhack et enfin sur leur discord qui sera dans l'article de la source.
 
 **Source** : [Alyssia](https://geekhack.org/index.php?topic=119547.0)
