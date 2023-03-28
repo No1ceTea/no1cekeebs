@@ -8,14 +8,14 @@ import Content from '../components/Content.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
 import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
-import CreatedWithSection from '../components/CreatedWithSection.astro'
+import PreOrders from '../components/PreOrders.astro'
 
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
     new Date(b.frontmatter.createdAt).valueOf() -
     new Date(a.frontmatter.createdAt).valueOf()
 )
----
+--- 
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -65,6 +65,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
                 </li>
               ))
             }
+            ))
           </ul>
         </section>
 			</Content>
