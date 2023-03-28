@@ -1,5 +1,5 @@
 ---
-description: Un alice tout en finesse
+description: Tout dans la finesse
 slug: alyssia
 public: true
 layout: ../../layouts/BlogPost.astro

@@ -1,5 +1,5 @@
 ---
-description: Un alice qui retranscris le temps
+description: Un alice qui courbe le temps
 slug: sandglassergo
 public: true
 layout: ../../layouts/BlogPost.astro
