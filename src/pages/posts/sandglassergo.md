@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 description: Un alice qui retranscris le temps
+=======
+description: Soon
+>>>>>>> master
 slug: sandglassergo
 public: true
 layout: ../../layouts/BlogPost.astro
@@ -11,6 +15,7 @@ heroImage: /groupbuy/sandglassergo/sandglassergoHero.jpg
 ---
 
 
+<<<<<<< HEAD
 Fox Lab nous on preparer un nouveau petit bébé, un alice en 70% qui se nomme Sand Glass FRL. Après le succés du premier Alice en 80% (Sand Glass 80%), il réutilise les lignes de son predecesseurs en retirant la ligne de F-. Sur ce format plus compact, les longueurs et largeurs globales ont ete ajuste et disposé les touches de manières plus compact en fonction donc de la disposition, ce qui rend le tout plus harmonieux et unfiés. Le tout pour un rendu exquis et coordonné.
 
 ![sandglassergoInspiration.png](/groupbuy/sandglassergo/sandglassergoInspiration.png)
@@ -26,5 +31,8 @@ Il utilisera donc une conception a trois couches, avec des couleurs contrastées
 ## Layout
 
 
+=======
+Cet article arrive bientôt !
+>>>>>>> master
 
 **Source** : [Sand Glass Ergo by Fox Lab](https://geekhack.org/index.php?topic=119902)

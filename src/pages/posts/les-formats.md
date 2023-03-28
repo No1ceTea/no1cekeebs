@@ -1,5 +1,5 @@
 ---
-description: Une taille selon vos besoins et envies, 
+description: Une taille selon vos besoins et envies
 slug: les-formats
 public: true
 layout: ../../layouts/BlogPost.astro

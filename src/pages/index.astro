@@ -10,8 +10,6 @@ import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
 import CreatedWithSection from '../components/CreatedWithSection.astro'
 
-import { Analytics } from '@vercel/analytics/react';
-
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
     new Date(b.frontmatter.createdAt).valueOf() -
@@ -70,8 +68,8 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
           </ul>
         </section>
 			</Content>
-			<Analytics />
 		</main>
 		<Footer />
+    <script defer src="/_vercel/insights/script.js"></script>
 	</Body>
 </html>
