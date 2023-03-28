@@ -24,7 +24,7 @@ La **disposition physique** est la façon dont les touches sont disposées les u
 L'ANSI se trouve généralement une disposition trouvée principalement sur les claviers américains, et l'ISO sur les claviers européens.  
    
 Mais la disposition physique est une chose, encore faut-il savoir quelle touche correspond à quel caractère, et c'est pour ça qu'une fois la disposition physique considérée, on doit aborder...  
-   
+
 ## **La disposition logique**  
    
 La **disposition logique** correspond à la répartition des caractères sur un clavier : c'est là qu'on parle d'azerty, de qwerty, mais ces appellations ont le défaut d'être vagues et d'entretenir une certaine confusion : le qwerty US est différent du qwerty UK et a une touche en moins, l'azerty belge est différent de l'azerty français... Pour éviter cette confusion, il vaut mieux,
