@@ -1,9 +1,6 @@
-# Custom Keyboard 
-
 En tant que développeur, je passe des heures et des heures sur mon bureau, et une des pièce importante de celui-ci, c'est le clavier. En construisant mon premier custom, je me suis découvert une nouvelle passion autour des claviers customs.
 
 https://no1cetea-keyboard.vercel.app/
-
 
 ## Stack
 
