@@ -12,4 +12,4 @@ heroImage: /groupbuy/derivativer1/derivativeHero.jpg
 
 Cet article arrive bientôt !
 
-**Source** : [Riva](https://oblotzky.industries/products/riva?variant=43740536307980)
+**Source** : [Derivative R1](https://keygem.com/products/derivative-r1)

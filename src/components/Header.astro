@@ -5,6 +5,7 @@ import { IoLogoGithub } from 'react-icons/io5/index.js'
 import NoiceteaIcon from './icons/noiceteaicons'
 import ThemeToggle from './ThemeToggleButton'
 import DropdownMenu from './DropdownMenu'
+import UseReadingProgress from './UseReadingProgress';
 
 const allPosts = await Astro.glob('../pages/posts/*.md')
 const allTags = new Set<string>()
@@ -36,3 +37,4 @@ allPosts.map(post => {
     </nav>
   </div>
 </header>
+<UseReadingProgress client:load/>
