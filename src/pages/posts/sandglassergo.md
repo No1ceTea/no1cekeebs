@@ -11,19 +11,19 @@ heroImage: /groupbuy/sandglassergo/sandglassergoHero.jpg
 ---
 
 
-Fox Lab nous on préparer un nouveau petit bébé, un alice en 70% qui se nomme Sand Glass FRL. Après le succès du premier Alice en 80% (Sand Glass 80%), il réutilise les lignes de son prédécesseur en retirant la ligne de F-. Sur ce format plus compact, les longueurs et largeurs globales ont été ajustées et les touches sont disposées de manières plus compact en fonction donc de la disposition, ce qui rend le tout plus harmonieux et unifiés. Le tout pour un rendu exquis et coordonné.
+Fox Lab nous on préparer un nouveau petit bébé, un **alice** en 70% qui se nomme **Sand Glass FRL**. Après le succès du premier Alice en 80% (Sand Glass 80%), il réutilise les lignes de son prédécesseur en retirant la ligne de F-. Sur ce format plus compact, les longueurs et largeurs globales ont été **ajustées** et les touches sont disposées de manières plus compact en fonction donc de la disposition, ce qui rend le tout plus **harmonieux et unifiés**. Le tout pour un rendu **exquis et coordonné**.
 
 ![sandglassergoInspiration.png](/groupbuy/sandglassergo/sandglassergoInspiration.png)
 
-En terme de design, on aborde clairement un sablier pour un rendu tout à fait harmonieux sur la disposition des touches. La forme générale semble plus coordonnée et plate, et avec l'image "沙漏" (sablier en chinois) et son repose poignet qui épouse les lignes et gardes cette courbure pour ne pas gacher le resultat final.
+En terme de design, on aborde clairement un **sablier** pour un rendu tout à fait harmonieux sur la disposition des touches. La forme générale semble plus **coordonnée et plate**, et avec l'image "沙漏" (sablier en chinois) et son repose poignet qui **épouse les lignes** et gardes cette courbure pour ne pas gacher le resultat final.
 
 ![sandglassergoDesign.png](/groupbuy/sandglassergo/sandglassergoDesign.png)
 
-Il utilisera donc une conception à trois couches, avec des couleurs contrastées entre le middle layer, le repose poignet et la top case pour avoir une hiérarchie des couleurs sur le clavier. La bottom case ne possède aucune vis pour un rendu plus propre et simple. Une couche de foam pourra venir se loger entre la bottom case et le middle layer.
+Il utilisera donc une conception à **trois couches**, avec des couleurs contrastées entre le middle layer, le repose poignet et la top case pour avoir une **hiérarchie des couleurs** sur le clavier. La bottom case ne possède aucune vis pour un rendu plus propre et simple. Une couche de foam pourra venir se loger entre la bottom case et le middle layer.
 
 ![sandglassergoStructure.png](/groupbuy/sandglassergo/sandglassergoStructure.png)
 
-Il sera disponible sous 6 coloris differents :
+Il sera disponible sous **6 coloris** differents :
 
 - ### Cream
 
@@ -52,11 +52,11 @@ Il sera disponible sous 6 coloris differents :
 
 ## Layout
 
-Nous aborderons ici un format alice contre toute attente, avec un PCB hotswap en ANSI qui n'aura pas énormément de swap possible voir pas du tout et compatible QMK/VIA.
+Nous aborderons ici un format **alice** contre toute attente, avec un **PCB hotswap** en **ANSI** qui n'aura pas énormément de swap possible voir pas du tout et compatible QMK/VIA.
 
 ![sandglassergoPCBhotswap.jpg](/groupbuy/sandglassergo/sandglassergoPCBhotswap.jpg)
 
-Et enfin un PCB solder et est aussi en ANSI. Elle possèdera plus de swap si l'envie vous prend et si vous avez le courage de faire de la soudure. Les touches que vous pourrez modifier sont d'un coloris plus foncé. Il sera évidemment compatible QMK/VIA lui aussi.
+Et enfin un **PCB solder** et est aussi en **ANSI**. Elle possèdera plus de swap si l'envie vous prend et si vous avez le courage de faire de la soudure. Les touches que vous pourrez modifier sont d'un coloris plus foncé. Il sera évidemment compatible QMK/VIA lui aussi.
 
 ![sandglassergoPCBsolder.jpg](/groupbuy/sandglassergo/sandglassergoPCBsolder.jpg)
 
@@ -68,13 +68,13 @@ L'angle de frappe sera de **8 degrés**, une hauteur de face de **20.66mm** et f
 
 ## Plate
 
-Aucune information n'a été diffusée sur ce sujet, juste une petite photo qui pourrait présumer une plate en FR4 ou aluminium. Les flex cuts sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layout.
+Aucune information n'a été diffusée sur ce sujet, juste une petite photo qui pourrait présumer une plate en **FR4** ou **aluminium**. Les flex cuts sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layout.
 
 ![sandglassergoPlate.jpg](/groupbuy/sandglassergo/sandglassergoPlate.jpg)
 
 ## Prix
 
-Pour le moment, le prix est estimé à 435$ et est sujet a changé. Une option sera potentiellement disponible pour ne pas avoir le repose-poignet dans le kit est alléger la note autour des 405$. Sinon si ce n'est pas assez pour vous, un repose-poignet avec des fragments de fibre de carbone sera disponible pour une note totale estimée à 475$.
+Pour le moment, le prix est estimé à **435$** et est sujet a changé. Une option sera potentiellement disponible pour ne pas avoir le **repose-poignet** dans le kit est alléger la note autour des **405$**. Sinon si ce n'est pas assez pour vous, un repose-poignet avec des fragments de fibre de carbone sera disponible pour une note totale estimée à **475$**.
 
 
 ![sandglassergocarbonfiberwrist1.jpg](/groupbuy/sandglassergo/sandglassergocarbonfiberwrist1.jpg)
@@ -82,7 +82,7 @@ Pour le moment, le prix est estimé à 435$ et est sujet a changé. Une option s
 
 ## IRL Pictures and render
 
-Pour terminer sur une note plus douce, voici des photos du réel produit (sûrement des prototypes).
+Pour terminer sur une note plus douce, voici des photos du réel produit (sûrement des **prototypes**).
 
 ### Cream - IRL
 ![sandglassergoBeige1.jpg](/groupbuy/sandglassergo/sandglassergoBeige1.jpg)
