@@ -1,5 +1,5 @@
 ---
-description: Soon
+description: Comme un poisson dans l'eau
 slug: kohakur2
 public: true
 layout: ../../layouts/BlogPost.astro
