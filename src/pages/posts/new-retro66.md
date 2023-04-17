@@ -1,5 +1,5 @@
 ---
-description: Un style rétro futuriste - PRE-ORDER NOW
+description: Un style rétro futuriste
 slug: new-retro66
 public: true
 layout: ../../layouts/BlogPost.astro
@@ -145,14 +145,5 @@ Pour finir, voici quelque rendu des produits finaux.
 ![realshot4.jpg](/groupbuy/new-retro66/realshot4.jpg)
 ![realshot5.jpg](/groupbuy/new-retro66/realshot5.jpg)
 ![realshot6.jpg](/groupbuy/new-retro66/realshot6.jpg)
-
-
-## Pre-order
-
-**Actuellement en pre-order sur Keygem jusqu'au 16 avril 2023 !!!**
-
-**Pre-order - Keygem** : https://keygem.com/products/group-buy-new-retro-66-keyboard-kit
-
-**Pre-order extra - Keygem** : https://keygem.com/products/group-buy-new-retro-66-extras
 
 **Source** : [NewRetro66 by Deadline Studio](https://geekhack.org/index.php?topic=118291.0)
