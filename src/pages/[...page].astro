@@ -10,11 +10,19 @@ import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
 import CreatedWithSection from '../components/CreatedWithSection.astro'
 
-const posts = (await Astro.glob('./posts/*.md')).sort(
+export async function getStaticPaths({ paginate }) {
+  const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
     new Date(b.frontmatter.createdAt).valueOf() -
     new Date(a.frontmatter.createdAt).valueOf()
 )
+
+  return paginate(posts, {
+    pageSize: 16,
+  })
+}
+
+const { page } = Astro.props
 --- 
 
 <!DOCTYPE html>
@@ -43,7 +51,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
 				<section>
           <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
             {
-              posts.map(post => (
+              page.data.map(post => (
                 <li class="text-center mb-4">
                   <a href={post.url}>
                     <Image
@@ -67,6 +75,25 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             }
           </ul>
         </section>
+        <div class="flex flex-col items-center">
+          <span class="text-sm text-gray-700 dark:text-gray-400">
+            Showing <span class="font-medium text-gray-900 dark:text-white">{page.currentPage}</span> of <span class="font-semibold text-gray-900 dark:text-white">{page.lastPage}</span> Pages
+          </span>
+          <div class="inline-flex mt-2 xs:mt-0">
+            {page.url.prev ? <a href={page.url.prev}>
+              <button class="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md border border-zinc-400 dark:border-zinc-700 hover:bg-orange-200 dark:hover:bg-zinc-800 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-100 transition-all">
+                <svg aria-hidden="true" class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path></svg>
+                Retour        
+              </button>
+            </a> : null}
+            {page.url.next ? <a href={page.url.next}>
+              <button class="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md border border-zinc-400 dark:border-zinc-700 hover:bg-orange-200 dark:hover:bg-zinc-800 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-100 transition-all">
+                Suivant
+                <svg aria-hidden="true" class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+              </button>
+            </a> : null}
+          </div>
+        </div>
         <CreatedWithSection />
 			</Content>
 		</main>

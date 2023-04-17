@@ -4,7 +4,7 @@ slug: riva
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Riva
-createdAt: 15
+createdAt: 16
 tags:
   - GroupBuy - InterestCheck
 heroImage: /groupbuy/riva/rivaHero.jpg

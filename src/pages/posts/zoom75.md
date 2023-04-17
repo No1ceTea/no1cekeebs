@@ -4,7 +4,7 @@ slug: zoom75
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Zoom75
-createdAt: 16
+createdAt: 15
 tags:
   - GroupBuy - InterestCheck
 heroImage: /groupbuy/zoom75/zoom75Hero.jpg
