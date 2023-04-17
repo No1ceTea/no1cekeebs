@@ -87,8 +87,4 @@ Vous pourrez retrouver ici les images des rendus 3d du produit ainsi que des pho
 ![kohakur2Lilac2.jpg](/groupbuy/kohakur2/kohakur2Black2.jpg)
 ![kohakur2Lilac3.jpg](/groupbuy/kohakur2/kohakur2Black3.jpg)
 
-## Pre-order
-
-**Il sera disponible de participer à la raffle le 15 avril de 12:00 CEST a 15:00 CEST. Pour être prêt, rien de plus simple que d'avoir un compte sur [Oblotzky Industries](https://oblotzky.industries/) edt une adresse par défaut de prêt. Les tentatives d'entrée multiples sont totalement prohibées et se soldera d'une disqualification directe de la raffle.**
-
 **Source** : [Kohaku R2 by SingaKBD](https://singakbd.com/blogs/groupbuy-and-updates/kohaku-r2-groupbuy)
