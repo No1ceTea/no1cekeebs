@@ -1,13 +1,13 @@
 ---
 description: Soon
-slug: think65v3
+slug: mkc75
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Think6.5 V3
-createdAt: 17
+title: MKC75
+createdAt: 18
 tags:
   - GroupBuy - InterestCheck
-heroImage: /groupbuy/think65v3/think65v3_Hero.jpg
+heroImage: /groupbuy/mkc75/mkc75_Hero.jpg
 ---
 
 Cet article arrive bientôt !
