@@ -6,7 +6,7 @@ layout: ../../layouts/BlogPost.astro
 title: Riva
 createdAt: 16
 tags:
-  - GroupBuy - InterestCheck
+  - Review
 heroImage: /groupbuy/riva/rivaHero.jpg
 ---
 
