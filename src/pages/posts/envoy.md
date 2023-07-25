@@ -10,6 +10,6 @@ tags:
 heroImage: /groupbuy/envoy/envoyHero.jpg
 ---
 
-Cet article arrive bientôt !
+Cet article arrive bientôt sous forme de review ! (J'attend juste que le clavier sois livrer)
 
 **Source** : [Envoy](https://modedesigns.com/pages/envoy)
