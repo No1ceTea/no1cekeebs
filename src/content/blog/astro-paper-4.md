@@ -51,6 +51,3 @@ Si vous ne savez toujours pas quelle direction prendre, ce petit flowchart peut 
 ![layouts2.png](/posts/layouts2.png)
 
 Merci aux grands sages Shunfry, Nuage & Mantalekra de m'avoir apporté la sainte lumière à ces questions existentielles.
-
-[Sat Naing](https://satnaing.dev) <br/>
-Creator of AstroPaper
