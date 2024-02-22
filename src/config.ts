@@ -5,7 +5,6 @@ export const SITE: Site = {
   author: "No1ceTea",
   desc: "Petit site autour des claviers customs.",
   title: "No1ceKeebs",
-  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
