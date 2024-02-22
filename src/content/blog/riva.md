@@ -7,6 +7,7 @@ featured: false
 tags:
   - Review
 description: "Un choix solide by @Mantalekra."
+heroImage: /review/riva/rivaHero.jpg
 ---
 
 Le Riva est un clavier 60% designé par Furki (actuellement en train de travailler sur un autre design de 65% WKL appelé le Berceste : https://geekhack.org/index.php?topic=120025.0) proposé à 330€ TTC hors livraison en collaboration avec langerhans qui s'est occupé du PCB.

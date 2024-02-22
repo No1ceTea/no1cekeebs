@@ -7,6 +7,7 @@ featured: true
 tags:
   - ressource
 description: "Le style, no cap."
+heroImage: /posts/keycapsHero.png
 ---
 
 Les touches ont leur importance : le **matériau** et la façon dont les légendes sont inscrites déterminent leur durabilité, le matériau joue un rôle essentiel au niveau du son, même son **profile**.

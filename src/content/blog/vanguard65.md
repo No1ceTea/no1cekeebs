@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Un clavier au ligne de Porsche Cayman."
+heroImage: /groupbuy/vanguard65/vanguard65Hero.jpg
 ---
 
 Le Vanguard65 ou VG65 est un kit barebone qui allie des lignes **nobles** tout en comprenant des fonctionnalités que vous trouverez nulles par ailleurs sur un clavier. L'alliance d'un knob et d'un slider feront leurs différences. Comme vous avez pu peut-être le remarquer, les lignes sont tirées tout droit de la **Porsche Cayman**, qui est une représentation d'un **chef-d'œuvre intemporel** créer par la marque. Le Vanguard se veut donc être lui aussi une représentation d'**un objet utile et intemporel**.

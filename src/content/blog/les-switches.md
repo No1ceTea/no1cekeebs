@@ -7,6 +7,7 @@ featured: true
 tags:
   - ressource
 description: "Le style, no cap."
+heroImage: /posts/switchsHero.png
 ---
 
 Il existe de nombreuses options de switch, même pour quelqu'un qui s'y connaît et fait de nombreuses recherches activement sur le sujet, il est difficile de donner un avis sur le ressenti et sur le son car beaucoup de paramètres entrent en jeu et surtout que cela représente les goûts et les couleurs de chacun.

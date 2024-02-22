@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Brave comme un lapin."
+heroImage: /groupbuy/magic3/magic3Hero.jpg
 ---
 
 Pour la **Pâques** 2023, Matrix lab on redessiné avec un design exclusif basé sur le **8XV 3.0**. Pour le rappel à la fête, un **petit lapin** est venue se loger sur le milieu de la weight en PVD. Vous pourrez retrouver plusieurs empiècements en **PVD** sur l'ensemble du clavier comme sur l'image ci-dessous, ici les pièces en **bleu** sont en PVD.

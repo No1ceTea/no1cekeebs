@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Un alice qui courbe le temps."
+heroImage: /groupbuy/sandglassergo/sandglassergoHero.jpg
 ---
 
 Fox Lab on préparer un nouveau petit bébé, un **alice** en 70% qui se nomme **Sand Glass FRL**. Après le succès du premier Alice en 80% (Sand Glass 80%), il réutilise les lignes de son prédécesseur en retirant la ligne de F-. Sur ce format plus compact, les longueurs et largeurs globales ont été **ajustées** et les touches sont disposées de manières plus compact en fonction donc de la disposition, ce qui rend le tout plus **harmonieux et unifiés**. Le tout pour un rendu **exquis et coordonné**.

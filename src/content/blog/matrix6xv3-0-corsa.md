@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Bienvenue dans la matrice."
+heroImage: /groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaHero.jpg
 ---
 
 **Matrix Lab** nous délivre un nouveau produit sur un format en **65%** avec comme particularité d'avoir un **petit écran LCD** avec une excellente résolution en haut sur le côté droit du clavier ainsi qu'une drôle de façon sur la fermeture et l'ouverture de la case.

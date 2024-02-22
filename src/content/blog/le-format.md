@@ -7,6 +7,7 @@ featured: true
 tags:
   - ressource
 description: "Le format d'un clavier, toute une histoire."
+heroImage: /posts/formatHero.png
 ---
 
 On peut trouver des claviers de toutes les formes et de toutes les tailles, avec un nombre variable de touches. En voici :

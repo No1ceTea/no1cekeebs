@@ -8,6 +8,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Tout dans la finesse."
+heroImage: /groupbuy/alyssia/alyssiaHero.png
 ---
 
 Après quelques années dans le hobby, un utilisateur de Geekhack souhaite développer son propre design sur un **Alice**. Est nées donc le **Alyssia**, une case avec une **finesse inouïe** et un typing angle très léger avec une valeur égale à **4 degrés**.

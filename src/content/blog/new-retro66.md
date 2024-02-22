@@ -8,6 +8,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Un style retro futuriste."
+heroImage: /groupbuy/new-retro66/retro66Hero.jpg
 ---
 
 **Deadline Studio** vous présente un projet qui a été réfléchi avant même la conception de la marque brand Deadline Studio. Avec des lignes qui se rapprochent d'un style **Cyberpunk** et **déstructuré** qui peut rappeler la collection **"The ten"** entre Nike et Virgil sur des paires qui ont été totalement déstructurées par ce dernier. Ce clavier sera donc je présume **très personnalisable** avec tous les petits éléments qui y sont attachés. On se retrouve donc avec des lignes qui allient la modernité et le style rétro avec une touche de déconstruction, ce que je trouve pour ma part **totalement incroyable**.

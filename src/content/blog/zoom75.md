@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Abordable."
+heroImage: /groupbuy/zoom75/zoom75Hero.jpg
 ---
 
 Le **Zoom75** est un 75% qui exploite richesse tout en restant le plus accessible, avec un potentiel de configuration **infine** pour se discerner facilement de la masse et se retrouver avec un produit presque unique. Il disposera d'une case en aluminium, en gasket-mount et un choix de couleur à en perdre la tête.

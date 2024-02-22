@@ -7,6 +7,7 @@ featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Comme un poisson dans l'eau."
+heroImage: /groupbuy/kohakur2/kohakur2Hero.jpg
 ---
 
 **Singa**, basé en Malaisie, habitué à livrer des customs des plus premiums, Singa repars sur le **Kohaku** pour une deuxième re-édition. Seuls **700 exemplaires** seront disponibles ! Donc l'acquisition de ce custom se fera sous forme de **raffle**.
