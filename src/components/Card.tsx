@@ -32,9 +32,8 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
       <div className="mb-2">
         {heroImage && (
           <img
-            className="border border-slate-300 dark:border-zinc-700 rounded-xl"
-            width={720}
-            height={360}
+            className="border border-slate-300 rounded-xl"
+            style={{ width: "720px", height: "360px", objectFit: "cover" }}
             src={heroImage}
             alt=""
           />
