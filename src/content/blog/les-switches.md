@@ -6,7 +6,7 @@ slug: "les-switches"
 featured: true
 tags:
   - ressource
-description: "Le style, no cap."
+description: "3 types, un millier de différence."
 heroImage: /posts/switchsHero.png
 ---
 
