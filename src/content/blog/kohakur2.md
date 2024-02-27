@@ -40,7 +40,7 @@ Il se déclinera sous **4 coloris** différents :
 
 ## Layout
 
-Vous pourrez avoir le choix entre un **PCB Solder** ou un **PCB Hotswap**. Ils seront en **FR4** sur 1.6mm, profitent d'une connexion USB au centre et possèdent 16Mbit flash memory.
+Vous pourrez avoir le choix entre un **PCB Solder** ou un **PCB Hotswap**. Ils seront en **FR4** sur 1.6mm, profitent d'une connexion USB au centre et possèdent 16Mbit de mémoire flash.
 
 Ici, dans un premier temps, vous pourrez retrouver les changements possibles que vous pouvez faire sur le PCB solder avec le schéma ci-dessous :
 
