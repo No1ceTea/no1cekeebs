@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-02-27T15:49:10Z
 title: Evolv
 slug: "evolv"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Algorithme génératifs."
