@@ -18,13 +18,13 @@ Trois types de plastiques sont utilisés pour la fabrication de keycaps : l'ABS,
 
 **L'ABS** (acrylonitrile butadiène styrène) est le matériau le plus commun et est disponible en plusieurs épaisseurs. Les keycaps en ABS fin sont les plus faciles (et les moins chers) à fabriquer, et donc les plus répandues. Une critique à l'encontre des touches en ABS concerne leur tendance à "briller", à voir leur texture se lisser avec le temps, ce qui peut donner au bout de quelques mois (quelques semaines dans le pire des cas) une impression que la surface est grasse en permanence. Leurs légendes peuvent être *pad-printed*, *laser-etched*/_engraved_, *doubleshot* ou *uv-printed* (voir plus bas). A de très rares exceptions près, les touches en ABS fin sont les seules à permettre d'avoir des légendes rétroéclairées.
 
-![abs.png](/posts/abs.png)
+![abs](/posts/abs.png)
 
 ABS fin rétroéclairé (Ducky), ABS épais doubleshot (Cherry), ABS fin doubleshot (Signature Plastics)
 
 **Le PBT** (polybutylène téréphtalate) Bien plus résistant à l'usure, ce qui lui permet, grâce à sa texture légèrement granuleuse au toucher, de ne pas être affecté par le phénomène de "brillance" propre à l'ABS qui lui est plus lisse. Les touches PBT sont parfois disponibles en PBT fin, mais plus souvent en PBT épais, qui sont plus appréciées du fait de la sonorité plus profonde qu'elles confèrent. Les légendes peuvent être *dyesub* ou *laser-etched*/_engraved_, le *doubleshot* est possible mais bien moins aisé à fabriquer (le PBT tend à se rétracter en se refroidissant, son moulage est plus contraignant que l'ABS) donc moins répandu.
 
-![pbt.png](/posts/pbt.png)
+![pbt](/posts/pbt.png)
 
 _PBT épais laser-etched (Leopold)_
 
@@ -53,4 +53,4 @@ Les légendes peuvent être inscrites sur les touches de différentes façons, c
 
 Toutes les touches n'ont pas la même forme : l'**angle** et la **hauteur** diffèrent selon le profil choisi, et on leur impact sur la sensation de frappe. Il faut bien noter aussi que chaque rangée à souvent une forme différente qui étage le sommet de chaque rangée.
 
-![profile.png](/posts/profile.png)
+![profile](/posts/profile.png)

@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-03-04T20:00:08Z
 title: Event Horizon
 slug: "event-horizon"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "La prison éternelle."
@@ -43,7 +43,7 @@ Designer par Yiancar, le PCB se déclinera entre un **PCB Solder** ou un **PCB H
 
 ![eventhorizonpcb](/groupbuy/eventhorizon/eventhorizonpcb.jpeg)
 
-**PCB Hotswap**
+### PCB Hotswap
 
 ![eventhorizonPCBHotswap](/groupbuy/eventhorizon/eventhorizonhotswap.png)
 
@@ -53,7 +53,7 @@ Designer par Yiancar, le PCB se déclinera entre un **PCB Solder** ou un **PCB H
 - Regular left shift
 - 7u spacebar
 
-**PCB Solder**
+### PCB Solder
 
 ![eventhorizonPCBSolder](/groupbuy/eventhorizon/eventhorizonsolder.png)
 

@@ -18,25 +18,25 @@ heroImage: /groupbuy/kohakur2/kohakur2Hero.jpg
 
 Le Kohaku est un 65% en **gasket mount**, une case en **aluminium 6063** et deux magnifique weight en **acier inoxydable** ou **brass** avec une magnifique **carpe** qui vient se dessiner dessus, le tout recouvert d'une plaque en verre trempé.
 
-![kohakur2Grey1.jpg](/groupbuy/kohakur2/kohakur2Grey1.jpg)
+![kohakur2Grey1](/groupbuy/kohakur2/kohakur2Grey1.jpg)
 
 Il se déclinera sous **4 coloris** différents :
 
 - ### Autumn lilac
 
-![kohakur2Lilac1.jpg](/groupbuy/kohakur2/kohakur2Lilac1.jpg)
+![kohakur2Lilac1](/groupbuy/kohakur2/kohakur2Lilac1.jpg)
 
 - ### British racing green
 
-![kohakur2Green1.jpg](/groupbuy/kohakur2/kohakur2Green1.jpg)
+![kohakur2Green1](/groupbuy/kohakur2/kohakur2Green1.jpg)
 
 - ### Smoke grey
 
-![kohakur2Grey2.jpg](/groupbuy/kohakur2/kohakur2Grey2.jpg)
+![kohakur2Grey2](/groupbuy/kohakur2/kohakur2Grey2.jpg)
 
 - ### Lunar Black
 
-![kohakur2Lilac1.jpg](/groupbuy/kohakur2/kohakur2Black1.jpg)
+![kohakur2Lilac1](/groupbuy/kohakur2/kohakur2Black1.jpg)
 
 ## Layout
 
@@ -44,11 +44,11 @@ Vous pourrez avoir le choix entre un **PCB Solder** ou un **PCB Hotswap**. Ils s
 
 Ici, dans un premier temps, vous pourrez retrouver les changements possibles que vous pouvez faire sur le PCB solder avec le schéma ci-dessous :
 
-![kohakur2Solder.jpg](/groupbuy/kohakur2/kohakur2Solder.jpg)
+![kohakur2Solder](/groupbuy/kohakur2/kohakur2Solder.jpg)
 
 Enfin, dans un second temps, vous pourrez faire des changements comme sur le schéma ci-dessous sur le PCB hotswap :
 
-![kohakur2Hotswap.jpg](/groupbuy/kohakur2/kohakur2Hotswap.jpg)
+![kohakur2Hotswap](/groupbuy/kohakur2/kohakur2Hotswap.jpg)
 
 ## Specification
 
@@ -70,24 +70,24 @@ Vous pourrez retrouver ici les images des rendus 3d du produit ainsi que des pho
 
 ### Autumn lilac
 
-![kohakur2Lilac2.jpg](/groupbuy/kohakur2/kohakur2Lilac2.jpg)
-![kohakur2Lilac3.jpg](/groupbuy/kohakur2/kohakur2Lilac3.jpg)
+![kohakur2Lilac2](/groupbuy/kohakur2/kohakur2Lilac2.jpg)
+![kohakur2Lilac3](/groupbuy/kohakur2/kohakur2Lilac3.jpg)
 
 ### British racing green
 
-![kohakur2Green2.jpg](/groupbuy/kohakur2/kohakur2Green2.jpg)
-![kohakur2Green3.jpg](/groupbuy/kohakur2/kohakur2Green3.jpg)
-![kohakur2Green4.jpg](/groupbuy/kohakur2/kohakur2Green4.jpg)
+![kohakur2Green2](/groupbuy/kohakur2/kohakur2Green2.jpg)
+![kohakur2Green3](/groupbuy/kohakur2/kohakur2Green3.jpg)
+![kohakur2Green4](/groupbuy/kohakur2/kohakur2Green4.jpg)
 
 ### Smoke grey
 
-![kohakur2Grey2.jpg](/groupbuy/kohakur2/kohakur2Grey1.jpg)
-![kohakur2Grey3.jpg](/groupbuy/kohakur2/kohakur2Grey3.jpg)
-![kohakur2Grey4.jpg](/groupbuy/kohakur2/kohakur2Grey4.jpg)
+![kohakur2Grey2](/groupbuy/kohakur2/kohakur2Grey1.jpg)
+![kohakur2Grey3](/groupbuy/kohakur2/kohakur2Grey3.jpg)
+![kohakur2Grey4](/groupbuy/kohakur2/kohakur2Grey4.jpg)
 
 ### Lunar Black
 
-![kohakur2Lilac2.jpg](/groupbuy/kohakur2/kohakur2Black2.jpg)
-![kohakur2Lilac3.jpg](/groupbuy/kohakur2/kohakur2Black3.jpg)
+![kohakur2Lilac2](/groupbuy/kohakur2/kohakur2Black2.jpg)
+![kohakur2Lilac3](/groupbuy/kohakur2/kohakur2Black3.jpg)
 
 **Source** : [Kohaku R2 by SingaKBD](https://singakbd.com/blogs/groupbuy-and-updates/kohaku-r2-groupbuy)

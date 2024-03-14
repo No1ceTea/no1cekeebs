@@ -16,7 +16,7 @@ Après 4 ans d'IC, inspiré par l'intersection entre la nature et l'humanité, E
 
 ## Description
 
-![evolv75.jpg](/groupbuy/evolv/evolv75.jpg)
+![evolv75](/groupbuy/evolv/evolv75.jpg)
 
 Evolv bénéficie d'une case en exploded 75% en **gasket mount**, avec au choix **6 coloris** pré-configurer, et vous pouvez configurer le vôtre via le site [Archetype | Evolv - Heritage](https://archetypemade.com/product/evolv-design-your-own/) en mixant le top, le bottom case et les "tendrils".
 
@@ -24,15 +24,15 @@ Les 6 coloris par défaut sont les suivants :
 
 - ### Artifact
 
-![evolvArtifact.png](/groupbuy/evolv/evolvArtifact.png)
+![evolvArtifact](/groupbuy/evolv/evolvArtifact.png)
 
 - ### Heirloom
 
-![evolvHeirloom.jpg](/groupbuy/evolv/evolvHeirloom.jpg)
+![evolvHeirloom](/groupbuy/evolv/evolvHeirloom.jpg)
 
 - ### Heritage
 
-![evolvHeritage.png](/groupbuy/evolv/evolvHeritage.png)
+![evolvHeritage](/groupbuy/evolv/evolvHeritage.png)
 
 - ### Memento
 
@@ -56,7 +56,7 @@ Conçu par Gondolindrim, le PCB est simple et élégant. Des LED RGB sont situé
 
 Dans les deux cas, vous pourrez swipe entre ces deux layout comme le montre l'image ci-dessous :
 
-![evolv-ic-layout.png](/groupbuy/evolv/evolv-ic-layout.png)
+![evolv-ic-layout](/groupbuy/evolv/evolv-ic-layout.png)
 
 ## Specification
 
