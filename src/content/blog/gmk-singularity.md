@@ -1,9 +1,9 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-03-15T09:03:32Z
+pubDatetime: 2024-04-18T14:55:07Z
 title: GMK Singularity
 slug: "gmk-singularity"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Plongée dans l'obscurité."
