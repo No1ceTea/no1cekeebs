@@ -6,7 +6,7 @@ slug: "gmk-nerve"
 featured: true
 tags:
   - GroupBuy InterestCheck
-description: "Innovation."
+description: "Innovation & Y2K."
 heroImage: /groupbuy/gmknerve/gmknerveHero.png
 ---
 
@@ -52,10 +52,11 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 
 ## Price
 
-Base kits : $125
-Novelties : $65
-Numpad : $45
-Deskmats : $25
+- Base kits : $125
+- Novelties : $65
+- Numpad : $45
+- Deskmats : $25
+
 Veuillez noter que les prix peuvent varier en fonction de votre région géographique.
 
 ## Vendor list
