@@ -1,5 +1,5 @@
 ---
-author: No1ceTea
+author: Mantalekra
 pubDatetime: 2023-05-18T22:17:09Z
 title: Riva
 slug: "riva"
@@ -10,7 +10,7 @@ description: "Un choix solide by @Mantalekra."
 heroImage: /review/riva/rivaHero.jpg
 ---
 
-Le Riva est un clavier 60% designé par Furki (actuellement en train de travailler sur un autre design de 65% WKL appelé le Berceste : https://geekhack.org/index.php?topic=120025.0) proposé à 330€ TTC hors livraison en collaboration avec langerhans qui s'est occupé du PCB.
+Le Riva est un clavier 60% designé par Furki (actuellement en train de travailler sur un autre design de 65% WKL appelé le [Berceste](https://geekhack.org/index.php?topic=120025.0)) proposé à 330€ TTC hors livraison en collaboration avec langerhans qui s'est occupé du PCB.
 
 De ce que j'ai compris, le Riva était un clavier censé être un petit projet à part sur le discord Allemand des claviers customs et donc un petit GB privé, mais vu qu'Oblotzky s'occupait de la partie Vente en ayant fait la page sur son site pour que les personnes puissent commander le clavier, ils ont donc décidé d'en faire un GB public, ce dernier ayant eu lieu en Novembre 2022 dernier avec une livraison prévue pour fin Mars 2023, un temps d’attente de 5 mois, des extras seront aussi disponible une fois que toutes les commandes de GB auront été honorées.
 

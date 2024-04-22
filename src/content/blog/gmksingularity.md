@@ -1,9 +1,10 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-03-15T09:03:32Z
+pubDatetime: 2024-04-18T14:55:07Z
+modDatetime: 2024-04-22T09:33:46Z
 title: GMK Singularity
 slug: "gmk-singularity"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Plongée dans l'obscurité."
@@ -58,7 +59,7 @@ Suite à divers ajustements, y compris le changement du nom du kit en GMK Singul
 
 En outre, il convient également de mentionner les remerciements particuliers adressés à Mario pour son assistance précieuse, dotNick pour avoir contribué au confort lors du processus de conception du jeu ; SpikedSynapse, Beesley et tous les autres passionnés participant activement sur le Discord Keycap Designer ; Imperfect Link pour leur produit exceptionnel et leur support technique remarquable ; sans oublier tous ceux ayant participé via Discord avec leurs commentaires constructifs.
 
-## Prix
+## Price
 
 TBD
 
@@ -97,3 +98,5 @@ TBD
 ### GMK Singularity | 8XMKii
 
 ![gmksingularity8XMKii](/groupbuy/gmksingularity/gmksingularity8XMKii.png)
+
+**Source** : [GMK Singularity](https://geekhack.org/index.php?topic=122469.0)
