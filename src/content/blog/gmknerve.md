@@ -55,7 +55,7 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 Base kits : $125
 Novelties : $65
 Numpad : $45
-Deskmats : $25 et également divers articles complémentaires tels que des logos artisanaux Nebula ou des vêtements à l'effigie du projet.
+Deskmats : $25
 Veuillez noter que les prix peuvent varier en fonction de votre région géographique.
 
 ## Vendor list
@@ -79,4 +79,15 @@ Le GB se tiendra du 15 avril au 6 mai, offrant aux passionnés une opportunité 
 
 ## Render
 
-### GMK Nerve |
+### GMK Nerve | Synovia by Baionlenja
+
+![gmknervesynovia1](/groupbuy/gmknerve/gmknervesynovia1.jfif)
+![gmknervesynovia2](/groupbuy/gmknerve/gmknervesynovia2.jfif)
+![gmknervesynovia3](/groupbuy/gmknerve/gmknervesynovia3.jfif)
+
+### GMK Nerve | Optica
+
+![gmknerveoptica1](/groupbuy/gmknerve/gmknerveoptica1.jfif)
+![gmknerveoptica2](/groupbuy/gmknerve/gmknerveoptica2.jfif)
+
+**Source** : [GMK Nerve](https://geekhack.org/index.php?topic=122475.0)
