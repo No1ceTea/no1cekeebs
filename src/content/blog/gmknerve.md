@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-04-22T13:14:48Z
 title: GMK Nerve
 slug: "gmk-nerve"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Innovation & Y2K."

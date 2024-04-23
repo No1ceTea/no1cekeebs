@@ -10,7 +10,7 @@ description: "Chat pas content."
 heroImage: /groupbuy/cat/catHero.jpg
 ---
 
-Soon:( créer par CtrlFrek est un clavier 60%. Cat:( est un clavier de la collection Cat:3, qui est composé de deux autres clavier customs qui apparaitra plus tard dans l'année. La collection Cat:3 est une collaboration entre CtrlFrek en tant que designer et Wuqi comme fabriquant, Wuqi qui a été le fabriquant du Stello65.
+Créer par CtrlFrek est un clavier 60%. Cat:( est un clavier de la collection Cat:3, qui est composé de deux autres clavier customs qui apparaitra plus tard dans l'année. La collection Cat:3 est une collaboration entre CtrlFrek en tant que designer et Wuqi comme fabriquant, Wuqi qui a été le fabriquant du Stello65.
 
 ## Table of contents
 
