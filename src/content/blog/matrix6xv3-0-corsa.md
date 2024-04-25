@@ -62,7 +62,7 @@ Sinon, pour avoir du changement, vous pourrez vous procurer chez votre marchand 
 
 ## Plate
 
-La seule plate disponible dans le kit sera une plate en **aluminium** avec des **flex cuts**, les couleurs de la plate seront en accord avec la couleur de la case choisie. Les **flex cuts** sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layout.
+La seule plate disponible dans le kit sera une plate squelettique en **aluminium** avec des **flex cuts**, les couleurs de la plate seront en accord avec la couleur de la case choisie. Les **flex cuts** sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layout.
 
 ![matrix6xv3.0corsaPlate](/groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaPlate.png)
 

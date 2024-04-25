@@ -10,7 +10,7 @@ description: "Chat pas content."
 heroImage: /groupbuy/cat/catHero.jpg
 ---
 
-Soon:( créer par CtrlFrek est un clavier 60%. Cat:( est un clavier de la collection Cat:3, qui est composé de deux autres clavier customs qui apparaitra plus tard dans l'année. La collection Cat:3 est une collaboration entre CtrlFrek en tant que designer et Wuqi comme fabriquant, Wuqi qui a été le fabriquant du Stello65.
+Créer par CtrlFrek est un clavier 60%. Cat:( est un clavier de la collection Cat:3, qui est composé de deux autres clavier customs qui apparaitra plus tard dans l'année. La collection Cat:3 est une collaboration entre CtrlFrek en tant que designer et Wuqi comme fabriquant, Wuqi qui a été le fabriquant du Stello65.
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Le cat:( est un custom 60% en **o-ring mount** et en **aluminium 6061**. La part
 
 ## Layout
 
-Le PCB sera est actuellement disponible uniquement en **PCB Solder** compatible **VIA** et **QMK**. Un potentiel**PCB Hotswap** est en cours de conception.
+Le PCB est actuellement disponible uniquement en **PCB Solder** compatible **VIA** et **QMK**. Un potentiel**PCB Hotswap** est en cours de conception.
 
 ![catPCB](/groupbuy/cat/catPCB.jpg)
 
@@ -36,7 +36,7 @@ Le PCB sera est actuellement disponible uniquement en **PCB Solder** compatible 
 
 L'angle de frappe sera de **7 degrés**, une hauteur de face de **20mm** (sans pieds), une hauteur de dos de **35,7mm**, fera **300mm** de long sur **110mm** de large et fera autour des **2,6kg**.
 
-### Plate
+## Plate
 
 Seulement une plate en **aluminium** a été prévue.
 
