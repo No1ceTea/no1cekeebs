@@ -1,6 +1,6 @@
 {
   "name": "no1cetea-keebs",
-  "version": "4.6.2",
+  "version": "4.7.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -19,7 +19,7 @@
     "@astrojs/rss": "^4.0.5",
     "@resvg/resvg-js": "^2.6.2",
     "@vercel/speed-insights": "^1.0.10",
-    "astro": "^4.6.4",
+    "astro": "^4.7.0",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
     "remark-collapse": "^0.1.2",
