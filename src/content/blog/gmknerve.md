@@ -44,7 +44,7 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 ### GMK Nerve Artisan
 
 ![gmknerveartisan1](/groupbuy/gmknerve/gmknerveartisan1.png)
-![gmknerveartisan2](/groupbuy/gmknerve/gmknerveartisan2png)
+![gmknerveartisan2](/groupbuy/gmknerve/gmknerveartisan2.png)
 ![gmknerveartisan3](/groupbuy/gmknerve/gmknerveartisan3.png)
 ![gmknerveartisan4](/groupbuy/gmknerve/gmknerveartisan4.png)
 ![gmknerveartisan5](/groupbuy/gmknerve/gmknerveartisan5.png)
