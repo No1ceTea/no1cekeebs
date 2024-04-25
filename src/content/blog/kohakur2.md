@@ -58,7 +58,7 @@ L'angle de frappe sera de **8 degrés** et une hauteur de face de **19mm**.
 
 Les plates disponibles seront aux nombres de 3 : **aluminium**, **carbon fiber** et **PC**. Le kit de base comprendra une plate en aluminium, libre à vous de prendre une autre plate en extra d'une autre matière pour vos envies personnelles. Les flex cuts sont différentes sur chaque plate et ont été pensés selon la fermeté de la matière de la plate. Toutes les plates sont universelles pour les différents layouts.
 
-## Prix
+## Price
 
 Deux kits seront disponibles pour les heureux sélectionnes pendant la raffle : le premier kit à **609 euros** hors fdp profitera du PCB solder. Quant au deuxième kit, il profitera du PCB hotswap pour la somme dérisoire de **619 euros**.
 
