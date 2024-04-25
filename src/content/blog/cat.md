@@ -24,7 +24,7 @@ Le cat:( est un custom 60% en **o-ring mount** et en **aluminium 6061**. La part
 
 ## Layout
 
-Le PCB sera est actuellement disponible uniquement en **PCB Solder** compatible **VIA** et **QMK**. Un potentiel**PCB Hotswap** est en cours de conception.
+Le PCB est actuellement disponible uniquement en **PCB Solder** compatible **VIA** et **QMK**. Un potentiel**PCB Hotswap** est en cours de conception.
 
 ![catPCB](/groupbuy/cat/catPCB.jpg)
 
@@ -36,7 +36,7 @@ Le PCB sera est actuellement disponible uniquement en **PCB Solder** compatible 
 
 L'angle de frappe sera de **7 degrés**, une hauteur de face de **20mm** (sans pieds), une hauteur de dos de **35,7mm**, fera **300mm** de long sur **110mm** de large et fera autour des **2,6kg**.
 
-### Plate
+## Plate
 
 Seulement une plate en **aluminium** a été prévue.
 
