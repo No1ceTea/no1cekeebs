@@ -1,6 +1,6 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-04-25T16:44:10Z
+pubDatetime: 2024-04-27T01:12:30Z
 title: Lily HHKB
 slug: "lilyhhkb"
 featured: true
@@ -10,7 +10,7 @@ description: "Élégance."
 heroImage: /groupbuy/lilyhhkb/lilyhhkbHero.jpeg
 ---
 
-Je suis absolument subjugué par la beauté de ce custom 60% HHKB, qui est sans doute l'un des plus élégants que j'ai eu le plaisir de voir. Les lignes sont tout simplement époustouflantes, révélant un design d'une grande sobriété et d'une beauté intemporelle. les images parlent d'elle-même. (Rendez-vous directement dans la catégorie IRL Picture)
+Je suis absolument subjugué par la beauté de ce custom 60% HHKB, qui est sans doute l'un des plus élégants que j'ai eu le plaisir de voir. Les lignes sont tout simplement époustouflantes, révélant un design d'une grande sobriété et d'une beauté intemporelle. Les images parlent d'elle-même. Rendez-vous directement dans la catégorie IRL Picture, il y en a pas mal :)
 
 ## Table of contents
 
@@ -83,6 +83,66 @@ Malgré la fin du groupbuy, les prix retail sont de :
 ![lilyhhkbpresentation7](/groupbuy/lilyhhkb/lilyhhkbpresentation7.jpeg)
 ![lilyhhkbpresentation8](/groupbuy/lilyhhkb/lilyhhkbpresentation8.jpg)
 ![lilyhhkbpresentation9](/groupbuy/lilyhhkb/lilyhhkbpresentation9.jpg)
+
+### Lily HHKB & PBTFans Untamed
+
+![lilyhhkbpbtfansuntamed1](/groupbuy/lilyhhkb/lilyhhkbpbtfansuntamed1.jpg)
+![lilyhhkbpbtfansuntamed2](/groupbuy/lilyhhkb/lilyhhkbpbtfansuntamed2.jpg)
+![lilyhhkbpbtfansuntamed3](/groupbuy/lilyhhkb/lilyhhkbpbtfansuntamed3.jpg)
+![lilyhhkbpbtfansuntamed4](/groupbuy/lilyhhkb/lilyhhkbpbtfansuntamed4.jpg)
+![lilyhhkbpbtfansuntamed5](/groupbuy/lilyhhkb/lilyhhkbpbtfansuntamed5.jpg)
+
+### Lily HHKB & PBTFans Ryokan
+
+![lilyhhkbpbtfansryokan1](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan1.jpg)
+![lilyhhkbpbtfansryokan2](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan2.jpg)
+![lilyhhkbpbtfansryokan3](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan3.jpg)
+![lilyhhkbpbtfansryokan4](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan4.jpg)
+![lilyhhkbpbtfansryokan5](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan5.jpg)
+![lilyhhkbpbtfansryokan6](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan6.jpg)
+![lilyhhkbpbtfansryokan7](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan7.jpg)
+![lilyhhkbpbtfansryokan8](/groupbuy/lilyhhkb/lilyhhkbpbtfansryokan8.jpg)
+
+### Lily HHKB & PBTFans Retro 100
+
+![lilyhhkbpbtfansretro1001](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1001.jpg)
+![lilyhhkbpbtfansretro1002](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1002.jpg)
+![lilyhhkbpbtfansretro1003](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1003.jpg)
+![lilyhhkbpbtfansretro1004](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1004.jpg)
+![lilyhhkbpbtfansretro1005](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1005.jpg)
+![lilyhhkbpbtfansretro1006](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1006.jpg)
+![lilyhhkbpbtfansretro1007](/groupbuy/lilyhhkb/lilyhhkbpbtfansretro1007.jpg)
+
+### Lily HHKB & GMK Purlpe night
+
+![lilyhhkbgmkpurplenight1](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight1.jpg)
+![lilyhhkbgmkpurplenight2](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight2.jpg)
+![lilyhhkbgmkpurplenight3](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight3.jpg)
+![lilyhhkbgmkpurplenight4](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight4.jpg)
+![lilyhhkbgmkpurplenight5](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight5.jpg)
+![lilyhhkbgmkpurplenight6](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight6.jpg)
+![lilyhhkbgmkpurplenight7](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight7.jpg)
+![lilyhhkbgmkpurplenight8](/groupbuy/lilyhhkb/lilyhhkbgmkpurplenight8.jpg)
+
+### Lily HHKB & Keykobo Retro Mixed light
+
+![lilyhhkbkeykoboretromixedlight1](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight1.jpg)
+![lilyhhkbkeykoboretromixedlight2](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight2.jpg)
+![lilyhhkbkeykoboretromixedlight3](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight3.jpg)
+![lilyhhkbkeykoboretromixedlight4](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight4.jpg)
+![lilyhhkbkeykoboretromixedlight5](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight5.jpg)
+![lilyhhkbkeykoboretromixedlight6](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight6.jpg)
+![lilyhhkbkeykoboretromixedlight7](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight7.jpg)
+![lilyhhkbkeykoboretromixedlight8](/groupbuy/lilyhhkb/lilyhhkbkeykoboretromixedlight8.jpg)
+
+### Lily HHKB & Keykobo WOB
+
+![lilyhhkbkeykobowobjindoalpha1](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha1.jpg)
+![lilyhhkbkeykobowobjindoalpha2](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha2.jpg)
+![lilyhhkbkeykobowobjindoalpha3](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha3.jpg)
+![lilyhhkbkeykobowobjindoalpha4](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha4.jpg)
+![lilyhhkbkeykobowobjindoalpha5](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha5.jpg)
+![lilyhhkbkeykobowobjindoalpha6](/groupbuy/lilyhhkb/lilyhhkbkeykobowobjindoalpha6.jpg)
 
 ## Build video
 
