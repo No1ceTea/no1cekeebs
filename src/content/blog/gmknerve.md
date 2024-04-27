@@ -20,26 +20,26 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 
 ### GMK Nerve Acero
 
-![gmknerveacero](/groupbuy/gmknerve/gmknerveacero.jfif)
+![gmknerveacero](/groupbuy/gmknerve/gmknerveacero.jpg)
 
 ### GMK Nerve Neon
 
-![gmknerveneon](/groupbuy/gmknerve/gmknerveneon.jfif)
+![gmknerveneon](/groupbuy/gmknerve/gmknerveneon.jpg)
 
 ### GMK Nerve Novelties
 
-![gmknervenovelties](/groupbuy/gmknerve/gmknervenovelties.jfif)
+![gmknervenovelties](/groupbuy/gmknerve/gmknervenovelties.jpg)
 
 ### GMK Nerve Numpad
 
-![gmknervenumpad](/groupbuy/gmknerve/gmknervenumpad.jfif)
+![gmknervenumpad](/groupbuy/gmknerve/gmknervenumpad.jpg)
 
 ### GMK Nerve Deskmats
 
-![gmknervedeskmats1](/groupbuy/gmknerve/gmknervedeskmats1.jfif)
-![gmknervedeskmats2](/groupbuy/gmknerve/gmknervedeskmats2.jfif)
-![gmknervedeskmats3](/groupbuy/gmknerve/gmknervedeskmats3.jfif)
-![gmknervedeskmats4](/groupbuy/gmknerve/gmknervedeskmats4.jfif)
+![gmknervedeskmats1](/groupbuy/gmknerve/gmknervedeskmats1.jpg)
+![gmknervedeskmats2](/groupbuy/gmknerve/gmknervedeskmats2.jpg)
+![gmknervedeskmats3](/groupbuy/gmknerve/gmknervedeskmats3.jpg)
+![gmknervedeskmats4](/groupbuy/gmknerve/gmknervedeskmats4.jpg)
 
 ### GMK Nerve Artisan
 
@@ -82,13 +82,13 @@ Le GB se tiendra du 15 avril au 6 mai, offrant aux passionnés une opportunité 
 
 ### GMK Nerve | Synovia by Baionlenja
 
-![gmknervesynovia1](/groupbuy/gmknerve/gmknervesynovia1.jfif)
-![gmknervesynovia2](/groupbuy/gmknerve/gmknervesynovia2.jfif)
-![gmknervesynovia3](/groupbuy/gmknerve/gmknervesynovia3.jfif)
+![gmknervesynovia1](/groupbuy/gmknerve/gmknervesynovia1.jpg)
+![gmknervesynovia2](/groupbuy/gmknerve/gmknervesynovia2.jpg)
+![gmknervesynovia3](/groupbuy/gmknerve/gmknervesynovia3.jpg)
 
 ### GMK Nerve | Optica
 
-![gmknerveoptica1](/groupbuy/gmknerve/gmknerveoptica1.jfif)
-![gmknerveoptica2](/groupbuy/gmknerve/gmknerveoptica2.jfif)
+![gmknerveoptica1](/groupbuy/gmknerve/gmknerveoptica1.jpg)
+![gmknerveoptica2](/groupbuy/gmknerve/gmknerveoptica2.jpg)
 
 **Source** : [GMK Nerve](https://geekhack.org/index.php?topic=122475.0)
