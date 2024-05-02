@@ -60,9 +60,11 @@ Dans ce build, il n'y a pas de plate ; il s'agit d'une configuration dites plate
 
 Malgré la fin du groupbuy, les prix retail sont de :
 
-- Base kit : $450
-- Upgrade to polished weight : +$80
-- Extra PCB : $60
+| Item                       | Price |
+| -------------------------- | ----- |
+| Base kit                   | $450  |
+| Upgrade to polished weight | $80   |
+| Extra PCB + daughterboard  | $60   |
 
 ### Vendor list
 

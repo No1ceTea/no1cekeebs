@@ -76,45 +76,25 @@ Voici une liste des différents éléments qui seront compris dans le pack, nous
 Kit list：
 
 - **Top case**（Aluminum anodized/E-coating）
-
 - **Bottom case** （Aluminum anodized/E-coating）
-
 - **Front pack**（PC）
-
 - **Back pack** （PC）
-
 - **Left pack** （Aluminum anodized）
-
 - **Right pack** （Aluminum anodized）
-
 - **Decoration block** (Aluminum anodized/E-coating)
-
 - **Internal weight** （PVD）
-
 - **Weight badge** （PVD）
-
 - **0.25u decoration block** （Aluminum anodized/E-coating、PC）
-
 - **Connecting rod** （Aluminum anodized/E-coating）
-
 - **Triangle bracket** （Aluminum anodized/E-coating）
-
 - **PCB decoration block** （Aluminum anodized）
-
 - **Knob\*2** （Aluminum anodized/E-coating）
-
 - **Poron bottom** （cotton）
-
 - **Poron sandwich** （cotton）
-
 - **Poron vibration-absorbing** （cotton）
-
 - **Ixpe pad**
-
 - **Fr4 plate**
-
 - **Hotswap PCB**
-
 - **Silicone foot-stickers**
 
 ![everything](/groupbuy/new-retro66/everything.png)

@@ -10,7 +10,7 @@ description: "Sisyphe, le roi de Corinthe."
 heroImage: /groupbuy/sisyphus-65/sisyphus-65Hero.jpg
 ---
 
-Le Sisyphus 65, deuxième produit de Maniac Rabbit studio, nous propose un clavier en **Gasket Mount** et qui s'inspire de la **mythologie grecque**. Ici, Maniac Rabbit Studio s'inspire clairement de **Sisyphe**, fils d'Éole et d'Énarété et fondateur mythique de Corinthe. La mythologie raconte que Hadès l'aurait puni pour avoir trompé la mort deux fois, et devra faire rouler un **rocher immense** jusqu'au sommet de la **montagne**, et après avoir atteint le sommet et que le rocher dévale l'autre cote de la montagne il devra refaire la même chose jusqu'à l'**éternité**.
+Le Sisyphus 65, deuxième produit de Maniac Rabbit studio, nous propose un clavier en **Gasket Mount**, qui s'inspire de la **mythologie grecque**. Ici, Maniac Rabbit Studio s'inspire clairement de **Sisyphe**, fils d'Éole et d'Énarété et fondateur mythique de Corinthe. La mythologie raconte que Hadès l'aurait puni pour avoir trompé la mort deux fois, et devra faire rouler un **rocher immense** jusqu'au sommet de la **montagne**, et après avoir atteint le sommet et que le rocher dévale l'autre cote de la montagne il devra refaire la même chose jusqu'à l'**éternité**.
 
 ## Table of contents
 

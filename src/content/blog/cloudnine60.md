@@ -56,7 +56,7 @@ Le groupbuy commencera le 4 mai.
 
 Ces prix sont extraits directement de la source. À noter qu'une plate en aluminium et un wire 6u seront fournis dans le kit.
 
-| Cloundnine 60 Case                                         | Price |
+| Item                                                       | Price |
 | ---------------------------------------------------------- | ----- |
 | Anodized Top Case + Full Brass Bottom Case (clear coated)  | $100  |
 | Anodized Top Case + Full Copper Bottom Case (clear coated) | $120  |
