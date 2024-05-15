@@ -52,6 +52,13 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 
 ## Price
 
+| Item      | Price |
+| --------- | ----- |
+| Base kit  | $125  |
+| Novelties | $65   |
+| Numpad    | $45   |
+| Deskmats  | $25   |
+
 - Base kits : $125
 - Novelties : $65
 - Numpad : $45
