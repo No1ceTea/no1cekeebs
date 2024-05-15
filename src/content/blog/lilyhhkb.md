@@ -1,6 +1,7 @@
 ---
 author: No1ceTea
 pubDatetime: 2024-04-27T01:12:30Z
+modDatetime: 2024-05-15T13:25:34Z
 title: Lily HHKB
 slug: "lilyhhkb"
 featured: true
@@ -16,7 +17,7 @@ Je suis absolument subjugué par la beauté de ce custom 60% HHKB, qui est sans 
 
 ## Description
 
-Le Lily HHKB est un 60% en HHKB (obvisously), le top ainsi que le mid seront des pièces en **anodised aluminium**, et le bottom sera au choix **polished SS** ou **sandblasted SS**.
+Le Lily HHKB est un 60% en HHKB (obviously), le top ainsi que le mid seront des pièces en **anodised aluminium**, et le bottom sera au choix **polished SS** ou **sandblasted SS**.
 Il est décliné en 5 coloris :
 
 ### Lily HHKB Blue-grey
@@ -41,7 +42,7 @@ Il est décliné en 5 coloris :
 
 ## Layout
 
-Designer par Ai03, le PCB sera **Hotswap**, sans **flex-cut** et compatible **VIA** et **QMK**.
+Designer par Ai03, le PCB sera **Solder only**, sans **flex-cut** et compatible **VIA** et **QMK**.
 
 ### PCB Hotswap
 
@@ -50,7 +51,7 @@ Designer par Ai03, le PCB sera **Hotswap**, sans **flex-cut** et compatible **VI
 
 ## Specification
 
-Je ne peux pas fournir beaucoup de détails car je ne dispose pas des données, mais l'angle de frappe sera de **7 degrés**.
+L'angle de frappe sera de **7 degrés** fera environ **1.2kg** unbuilt et **1.5kg** built (d'après la vidéo de Markerchun).
 
 ## Plate
 
@@ -60,17 +61,19 @@ Dans ce build, il n'y a pas de plate ; il s'agit d'une configuration dites plate
 
 Malgré la fin du groupbuy, les prix retail sont de :
 
-- Base kit : $450
-- Upgrade to polished weight : +$80
-- Extra PCB : $60
+| Lily                                  | Price   |
+| ------------------------------------- | ------- |
+| Base kit                              | €503,20 |
+| Base kit + upgrade to polished weight | €593,95 |
+| Extra PCB                             | €59,50  |
 
 ### Vendor list
 
-- US : Novelkeys
-- EU : Oblotzky Industries
-- KR : Geonworks
-- OCE : Daily clack
-- CN & ASIA : TypePlus
+- EU : [Oblotzky Industries](https://oblotzky.industries/products/lily)
+- US : [Novelkeys](https://novelkeys.com/products/lily-keyboard)
+- KR : [Geonworks](https://geon.works/products/gb-lily-hhkb-barebone-kit)
+- OCE : [Daily clack](https://dailyclack.com/products/lily-keyboard-kit)
+- CN & ASIA : [TypePlus](https://typeplus.net/collections/lily)
 
 ## IRL Picture
 
