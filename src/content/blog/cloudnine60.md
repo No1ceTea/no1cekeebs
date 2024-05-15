@@ -1,9 +1,10 @@
 ---
 author: No1ceTea
 pubDatetime: 2024-04-25T16:44:10Z
+modDatetime: 2024-05-15T13:26:34Z
 title: Cloudnine 60%
 slug: "cloudnine60"
-featured: false
+featured: true
 tags:
   - GroupBuy InterestCheck
 description: "Comme sur un Nuage :)."
@@ -36,7 +37,7 @@ Le Cloudnine60 est basé sur le typing feeling et le son de l'Orbit. Des parties
 
 ## Layout
 
-Le PCB sera disponible en **PCB MX** et **PCB EC**.
+Le PCB sera disponible en **PCB Hotswap** et **PCB Solder**. Vous aurez le choix aussi selon la case de prendre entre du HHKB, WKL ou WK.
 
 ### PCB
 
@@ -48,7 +49,7 @@ L'angle de frappe sera de **7 degrés** et une hauteur de face de **18mm** (sans
 
 ## Plate
 
-Seulement une plate en **aluminium** a été prévue.
+Seulement une plate en **aluminium** a été prévue. Mais vous pouvez prendre en extra pour €30 une plate en **PC**, **FR4**, **PP** ou **POM** et pour €36 une plate en **aluminum** ou en **CF**.
 
 ## Price
 
@@ -58,17 +59,22 @@ Ces prix sont extraits directement de la source. À noter qu'une plate en alumin
 
 | Item                                                       | Price |
 | ---------------------------------------------------------- | ----- |
-| Anodized Top Case + Full Brass Bottom Case (clear coated)  | $100  |
-| Anodized Top Case + Full Copper Bottom Case (clear coated) | $120  |
-| Anodized Top Case + Full Stainless Steel Bottom Case (RAW) | $80   |
-| PCB Hotswap                                                | +$10  |
-| E-coat                                                     | +$20  |
+| Anodized Top Case + Full Brass Bottom Case (clear coated)  | €435  |
+| Anodized Top Case + Full Copper Bottom Case (clear coated) | €485  |
+| Anodized Top Case + Full Stainless Steel Bottom Case (RAW) | €590  |
+| E-Coated Top Case + Full Brass Bottom Case (clear coated)  | €460  |
+| E-Coated Top Case + Full Copper Bottom Case (clear coated) | €510  |
+| E-Coated Top Case + Full Stainless Steel Bottom Case (RAW) | €510  |
+| Extra PCB Hotswap                                          | €60   |
+| Extra PCB Solder                                           | €48   |
+| Extra plate (PC or FR4 or PP or POM)                       | €30   |
+| Extra plate (Aluminium or CF)                              | €36   |
 
 ### Vendor list
 
-- AU & Reste du monde : Machina
-- KR : Geonworks
-- EU : En recherche
+- EU : [Deltakeyco](https://deltakeyco.com/collections/cloudnine-60/products/group-buy-cloudnine-60)
+- AU & Reste du monde : [Machina](https://machina.mx/products/cloudnine)
+- KR : [Geonworks](https://geon.works/products/gb-cloud-nine)
 
 ## IRL Picture
 
