@@ -1,7 +1,7 @@
 ---
 author: No1ceTea
 pubDatetime: 2024-04-18T14:55:07Z
-modDatetime: 2024-04-22T09:33:46Z
+modDatetime: 2024-05-15T16:28:19Z
 title: GMK Singularity
 slug: "gmk-singularity"
 featured: false
@@ -65,10 +65,10 @@ TBD
 
 ## Vendor list
 
-- US : TBD
+- EU : KeyGem
+- US : NovelKeys
 - CA : Desk[H]ero
 - UK : ProtoTypist
-- Euro : KeyGem
 - CN : KBDFans
 - SA : Fancy Customs
 
