@@ -22,13 +22,11 @@ Last update : _15/05/2024_
 
 - [**Keygem**](https://keygem.com/) - Groupbuy, keycaps, claviers customs, switches et accessoires.
 
-- [**MyKeyboard**](https://mykeyboard.eu/) - Keyboards & accessories.
+- [**Oblotzky**](https://oblotzky.industries/) - Group-buy, Extra des Group-buy & plus.
 
 - [**Candykeys**](https://candykeys.com/) - Keyboards & accessories.
 
 - [**Mekanisk**](https://mekanisk.com/) - Keyboards & accessories.
-
-- [**Oblotzky**](https://oblotzky.industries/) - Group-buy, Extra des Group-buy & plus.
 
 - [**EloquentClicks**](https://www.eloquentclicks.com/) - Keyboards & accessories & official dealer of KBDFans.
 
