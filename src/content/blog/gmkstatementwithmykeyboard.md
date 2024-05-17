@@ -6,7 +6,7 @@ slug: "gmkstatementwithmykeyboard"
 featured: false
 tags:
   - News
-description: "Une description est nécessaire."
+description: "Mykeyboard.eu en chute libre?"
 ---
 
 Après des efforts considérables, GMK se voit dans l'obligation d'annuler les commandes en cours avec son fournisseur Mykeyboard.eu. Malgré les diligences de l'équipe, ils n'ont malheureusement pas pu trouver de solution satisfaisante concernant les obligations contractuelles pour toutes les commandes en attente et déjà produites.
