@@ -23,7 +23,3 @@ Oblotzky (un fournisseur de keycaps européen non affilié à Mykeyboard.eu) ven
 Mise à jour : Si vous êtes concerné par Mykeyboard, Jae (Prototypist, un acteur important du hobby, non affilié à Mykeyboard) propose de vendre des articles non reçus mais encore en stock chez Prototypist au prix du Groupbuy. Plus d'infos sur son [Discord](https://discord.gg/3VFa3zbqPF).
 
 Le site (mykeyboard.eu) est désormais hors ligne maintenant.
-
-En résumé :
-
-**N'achetez PAS sur Mykeyboard.eu**
