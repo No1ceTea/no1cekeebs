@@ -12,11 +12,11 @@ heroImage: /review/nuage-matrixnavi/matrixnaviHero.jpg
 
 Je suis Nuage, j'ai 24 ans et je m'intéresse au hobby depuis maintenant près de 5 ans ! Je stream occasionnellement mes builds sur [Twitch](https://www.twitch.tv/nunuch) et je commence à avoir une bonne collection de claviers en tout genre et tout layout.
 
-Le clavier que Nuage nous présente est le Matrix Navi.
+_Le clavier que Nuage nous présente est le Matrix Navi._
 
 ![matrixnavi1](/review/nuage-matrixnavi/matrixnavi1.jpg)
 
-Voici la configuration de son clavier :
+_Voici la configuration de son clavier :_
 
 - Edition : Matrix Navi Pacific Route
 - Couleur : White flash
