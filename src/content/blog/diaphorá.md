@@ -34,7 +34,7 @@ Pour le moment, le Diaphorá n'est qu'à l'étape de finalisation des renders et
 
 Quant au prix, il est encore trop tôt pour le déterminer. Ils souhaitent d'abord finaliser tous les aspects techniques et de design avant de se pencher sur la question des coûts.
 
-Ce projet est une véritable aventure pour leur équipe, et chaque contribution est précieuse. N'hésitez pas à partager vos suggestions ou à nous indiquer des informations supplémentaires que vous jugeriez importantes dans le [Discord de DeltaKeyco.Discord de DeltaKeyCo](https://discord.gg/7yzDSrsT6A).
+Ce projet est une véritable aventure pour leur équipe, et chaque contribution est précieuse. N'hésitez pas à partager vos suggestions ou à nous indiquer des informations supplémentaires que vous jugeriez importantes dans le [Discord de DeltaKeyco](https://discord.gg/7yzDSrsT6A).
 
 ## Render picture
 
