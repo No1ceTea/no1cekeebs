@@ -109,13 +109,14 @@ const socialImageURL = new URL(
     <ViewTransitions />
 
     <script is:inline src="/toggle-theme.js"></script>
-    <script
-      src="https://vitals.vercel-insights.com/v1/vitals.js"
-      data-strategy="afterInteractive"></script>
   </head>
   <body>
     <meta name="google-site-verification" content={googleSiteVerification} />
     <SpeedInsights />
     <slot />
+    <script
+      src="https://vitals.vercel-insights.com/v1/vitals.js"
+      data-strategy="afterInteractive"
+    ></script>
   </body>
 </html>
