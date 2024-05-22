@@ -3,7 +3,6 @@ import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 import SpeedInsights from "@vercel/speed-insights/astro";
-import { Analytics } from "@vercel/analytics/react";
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
@@ -114,7 +113,6 @@ const socialImageURL = new URL(
   <body>
     <meta name="google-site-verification" content={googleSiteVerification} />
     <SpeedInsights />
-    <Analytics />
     <slot />
   </body>
 </html>
