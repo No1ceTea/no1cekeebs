@@ -5,10 +5,18 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
+import vercelStatic from "@astrojs/vercel/static";
 
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
+  output: "static",
+  adapter: vercelStatic({
+    imageService: true,
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
   integrations: [
     tailwind({
       applyBaseStyles: false,
