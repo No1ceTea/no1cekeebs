@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-05-16T15:09:06Z
 title: Matrix Faukwaa
 slug: "matrixfaukwaa"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Dans la démesure."
@@ -86,7 +86,7 @@ Le groupbuy était du 3 au 5 novembre, mais vous pouvez d'ores et déjà le retr
 | LIBERTY (white) with flex cut plate     | ≃€771,93 |
 | LIBERTY (white) with non flex cut plate | ≃€771,93 |
 
-## IRL Picture
+## IRL picture
 
 ### Faukwaa by Alexotos
 
