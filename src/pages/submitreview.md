@@ -5,7 +5,7 @@ title: "Soumettre une review"
 
 ## Partagez votre passion avec notre communauté de passionnés
 
-Êtes-vous un adepte des claviers mécaniques ou un amateur de claviers personnalisés ? Que vous soyez enchanté par votre clavier actuel ou légèrement déçu, nous aimerions beaucoup connaître votre expérience ! En partageant votre avis, vous contribuez à enrichir notre communauté spécialisée et à aider les autres passionnés à faire les meilleurs choix.
+Êtes-vous un adepte des claviers customs ? Que vous soyez enchanté par votre clavier actuel ou légèrement déçu, nous aimerions beaucoup connaître votre expérience ! En partageant votre avis, vous contribuez à enrichir notre communauté spécialisée et à aider les autres passionnés à faire les meilleurs choix.
 
 ## Cliquez ici pour accéder au formulaire de review
 
