@@ -5,9 +5,9 @@ title: Le Cherry MX Black, injustement mal compris
 slug: "cherrymxvintageblack"
 featured: true
 tags:
-  - Analyse
+  - Review
 description: "Une analyse complète des Cherry MX Black (Du vintage au moderne)."
-heroImage: /analyse/cherrymxvintageblack/cherrymxvintblackHero.jpg
+heroImage: /review/cherrymxvintageblack/cherrymxvintblackHero.jpg
 ---
 
 Les switchs Cherry MX Black sont un choix populaire parmi les amateurs de claviers mécaniques en raison de leur disponibilité et de leur réputation. Cependant, l'arrivée de nouveaux switchs linéaires a suscité des débats sur leur qualité. Cet article se penche sur les Cherry MX "Vintage" Black et nous allons les comparer aux Cherry MX "New" Black, en abordant la controverse entourant les switchs vintage.
