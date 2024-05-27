@@ -36,6 +36,8 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
             style={{ width: "720px", height: "360px", objectFit: "cover" }}
             src={heroImage}
             alt=""
+            decoding="async"
+            loading="lazy"
           />
         )}
       </div>
