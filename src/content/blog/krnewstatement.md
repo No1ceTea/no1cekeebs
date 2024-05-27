@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-05-18T11:42:48Z
 title: Nouvelle réglementation Sud-Coréenne
 slug: "krnewstatement"
-featured: true
+featured: false
 tags:
   - News
 description: "Interdiction des achats directs à l'étranger sans Certificat KC"

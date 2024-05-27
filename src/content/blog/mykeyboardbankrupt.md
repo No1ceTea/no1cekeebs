@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-05-18T11:21:10Z
 title: Faillite de Mykeyboard.eu
 slug: "mykeyboardbankrupt"
-featured: true
+featured: false
 tags:
   - News
 description: "Guide pour les clients touchés par la faillite de Mykeyboard.eu et les alternatives disponibles."
