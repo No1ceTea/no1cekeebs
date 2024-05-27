@@ -36,13 +36,13 @@ Le stem des Vintage Blacks est le point fort de ces switchs. Elle est nettement 
 
 ### Analyse de la Rugosité / Douceur
 
-Une bonne combinaison housing/stem peut compenser la rugosité de l'un ou de l'autre. Les stems des Vintage Blacks compensent la rugosité du housing. Les ressorts des New Blacks (75g) sont plus légers que ceux des Vintage Blacks (90g), ce qui peut aussi influencer la perception de la douceur.
+Une bonne combinaison housing/stem peut compenser la rugosité de l'un ou de l'autre. Les stems des Vintage Blacks compensent la rugosité du housing. Les springs des New Blacks (75g) sont plus légers que ceux des Vintage Blacks (90g), ce qui peut aussi influencer la perception de la douceur.
 Dans leur état neuf, les Vintage Blacks sont aussi doux que les New Blacks. Cependant, les utilisateurs rapportent que les Vintage Blacks usés peuvent être encore plus smooth, grâce à l'effet du rodage(break-in).
 
 ### Son
 
 Le son des switchs est influencé par le jeu entre le bottom housing et top housing. Les films peuvent réduire ce jeu et améliorer le son en éliminant les cliquetis et en abaissant la tonalité.
-Dans leur forme stock, les interrupteurs MX ont un son distinct, souvent décrit comme poudreux. Les Vintage Blacks, avec leurs ressorts plus lourds, peuvent produire un son de frappe plus faible.
+Dans leur forme stock, les interrupteurs MX ont un son distinct, souvent décrit comme poudreux. Les Vintage Blacks, avec leurs springs plus lourds, peuvent produire un son de frappe plus faible.
 
 ### Divers
 
@@ -55,9 +55,9 @@ Les Cherry MX Vintage Blacks sont souvent mal compris. Bien qu'ils puissent êtr
 
 **Évaluation finale** :
 
-- Smoothness (stock) : 6.0/10 (jusqu'à 9.5/10 avec rodage et lubrification)
-- Poids : 5.0/10 (jusqu'à 10/10 selon le ressort)
-- Son : 5.0/10 (jusqu'à 8.0/10 avec lubrification et filmage)
-- Note globale : 5.4/10 (Potentiel : 9.3/10)
+- Smoothness (stock) : 6/10 (jusqu'à 9/10 avec rodage et lubrification)
+- Poids : 4/10 (jusqu'à 10/10 selon le spring)
+- Son : 4/10 (jusqu'à 9.5/10 avec L+F)
+- Note globale : 4.7/10 (Potentiel : 9.5/10)
 
 Les Cherry MX Vintage Blacks sont aimés pour le modding. Ils ont un potentiel énorme, mais nécessitent du travail pour atteindre leur point culminant.
