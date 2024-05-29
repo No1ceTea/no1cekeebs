@@ -1,6 +1,7 @@
 ---
 author: No1ceTea
 pubDatetime: 2024-05-29T08:32:58Z
+modDatetime: 2024-05-29T11:13:34Z
 title: Le lexique du clavier mécanique
 slug: "glossaire"
 featured: true
@@ -142,6 +143,8 @@ description: "Pour mieux comprendre le monde fascinant des claviers mécaniques 
 **QMK Firmware** : Firmware open-source populaire qui permet une personnalisation avancée des claviers mécaniques.
 
 ## R
+
+**Render** : Image ou animation créée à l'aide de logiciels de modélisation et de rendu 3D pour visualiser un objet, concept ou scène avant sa réalisation physique.
 
 **RGB** : Rétroéclairage avec une gamme de couleurs personnalisables pour l'esthétique et la visibilité.
 
