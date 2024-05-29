@@ -74,4 +74,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## ✨ Feedback & Suggestions
 
-If you have any suggestions/feedback, you can contact me via [my email](mailto:jacquot.thai@gmail.com). Alternatively, feel free to open an issue if you find bugs or want to request new features.
+If you have any suggestions/feedback, you can contact me via [my email](mailto:jacquot.thai@gmail.com). Alternatively, feel free to open an issue if you find bugs or want to request new features or new article.
