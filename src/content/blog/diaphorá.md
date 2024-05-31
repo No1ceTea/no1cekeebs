@@ -22,7 +22,7 @@ Pour ce projet, ils ont opté pour des PCB offrant à la fois des versions hotsw
 
 ![diaphora3](/groupbuy/diaphorá/diaphora3.png)
 
-La fabrication sera assurée par VTX, un partenaire reconnu dans le domaine des customs. Sur le plan du management, Manu a apporté un soutien précieux, rendant ce projet réalisable. Étant donné le peu d'expérience dans la création de claviers, son aide a été essentielle pour surmonter les défis initiaux. Le design du clavier est confié à Bowl, dont la créativité et l'expertise apportent une valeur ajoutée indéniable à ce projet.
+La fabrication sera assurée par **VTX**, un partenaire reconnu dans le domaine des customs. Sur le plan du management, Manu a apporté un soutien précieux, rendant ce projet réalisable. Étant donné le peu d'expérience dans la création de claviers, son aide a été essentielle pour surmonter les défis initiaux. Le design du clavier est confié à Bowl, dont la créativité et l'expertise apportent une valeur ajoutée indéniable à ce projet.
 
 ![diaphora2](/groupbuy/diaphorá/diaphora2.png)
 
@@ -38,7 +38,7 @@ Ce projet est une véritable aventure pour leur équipe, et chaque contribution 
 
 ## Render picture
 
-Vous pourrez retrouver ici quelques renders de la communauté. Cet article sera mis à jour lorsque de nouvelles couleurs officielles et informations seront disponibles.
+**Attention**, les rendus sont uniquement des participations à un giveaway pour élire la dernière couleur au choix. Ce ne sont donc pas des couleurs officielles. Cet article sera mis à jour lorsque de nouvelles couleurs officielles et informations seront disponibles.
 
 ![diaphora4](/groupbuy/diaphorá/diaphora4.png)
 ![diaphora5](/groupbuy/diaphorá/diaphora5.png)
