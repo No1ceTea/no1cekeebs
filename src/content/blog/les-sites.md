@@ -6,7 +6,7 @@ title: Les sites
 slug: "les-sites"
 featured: true
 tags:
-  - ressource
+  - Ressource
 description: "Être riche ce n'est pas avoir de l'argent, c'est en dépenser."
 heroImage: /posts/sitesHero.png
 ---
