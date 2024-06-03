@@ -10,4 +10,4 @@ description: "Le Matrix Navi : Une Expérience Unique de Clavier TKL FRL par Nua
 heroImage: /review/nuage-matrixnavi/matrixnaviHero.jpg
 ---
 
-Il existe de nombreuse option de style de montage, qui vont affecter beaucoup de paramètre lorsque
+Le style de montage d'un clavier est la manière dont la plate et le PCB est fixé dans le boîtier.
