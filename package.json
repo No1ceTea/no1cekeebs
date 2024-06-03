@@ -12,7 +12,6 @@
     "format": "prettier --write . --plugin=prettier-plugin-astro",
     "jampack": "jampack ./dist",
     "cz": "cz",
-    "prepare": "husky",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -44,7 +43,6 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.57.0",
     "eslint-plugin-astro": "^1.2.0",
-    "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
     "prettier": "^3.3.1",
     "prettier-plugin-astro": "^0.14.0",
