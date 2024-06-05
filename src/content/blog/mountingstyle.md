@@ -1,6 +1,6 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-06-06T00:53:12Z
+pubDatetime: 2024-06-06T22:53:12Z
 title: Le style de montage
 slug: "mountingstyle"
 featured: true
