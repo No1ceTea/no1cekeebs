@@ -16,24 +16,19 @@ Tout d'abord, je voudrais remercier Nuage pour m'avoir aidé à élaborer cet ar
 
 ![tray_mount](/posts/tray_mount.jpg)
 
-Le tray mount signifie que le PCB est fixé sur la partie inférieure interne de la case sur plusieurs "piliers" à visser.
-
-_Nuage : ressenti très dur avec aucun flex, généralement peu apprécié (après j'écris ça sur un clavier tray mount qui est un de mes claviers préférés, comme quoi y a des exceptions)_
+Le tray mount signifie que le PCB est fixé sur la partie inférieure interne de la case sur plusieurs "piliers" à visser. Souvent, le feeling sur un tray mount est très dur avec aucun flex.
 
 ## Top Mount
 
 ![top_mount](/posts/top_mount.jpg)
 
-Le top mount est l'un des montages les plus répandus. La plaque est vissée dans la partie supérieure de la case.
-
-_Nuage : ressenti dur mais plus homogène dans la frappe que le tray (possible d'avoir un petit peu de flex en fonction de la plate)_
-\_
+Le top mount est l'un des montages les plus répandus. La plaque est vissée dans la partie supérieure de la case. Un feeling un peu plus rond que le tray mais toujours dur.
 
 ## Bottom Mount
 
 ![bottom_mount](/posts/bottom_mount.jpg)
 
-À l'inverse du top mount, la plaque est fixée dans la partie inférieure de la case.
+À l'inverse du top mount, la plaque est vissée dans la partie inférieure de la case.
 
 ## Sandwich Mount
 
@@ -47,14 +42,10 @@ La plaque est maintenue par les deux parties de la case, comme le milieu d'un sa
 
 La plaque et la partie supérieure de la case sont fabriquées en une seule et unique pièce. Cela donne une sensation très rigide et dure.
 
-_Nuage : ressenti très dur, aucun flex_
-
 ## Gasket Mount
 
 ![gasket_mount](/posts/gasket_mount.jpg)
 
 Ce type de montage utilise souvent de petits bouts de caoutchouc qui maintiennent la plaque sur les côtés supérieurs et inférieurs de la case. Cela donne au clavier une sensation plus douce et plus "flex" puisque la plaque n'est pas en contact direct avec les autres composants du clavier, mais ce scénario n'est pas vrai pour TOUT les claviers avec ce style de montage. On peut aussi noté que ce style de montage aide à avoir un son plus rond et moins "métallique", sans doute parce que la plate ne touche pas la case.
-
-_Nuage : ressenti qui peut aller de plutôt dur à très léger. On peut avoir une frappe presque rebondissante en fonction du gasket utilisé_
 
 J'aimerais avoir votre ressenti ainsi que celui de Nuage sur l'un des styles de montage que nous avons abordés dans cet article. Envoyez un DM sur Discord (No1ceTea) pour me donner votre ressenti, et si vous êtes d'accord, elle apparaîtra dans cet article. Merci d'avance à tous !
