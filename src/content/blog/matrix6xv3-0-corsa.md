@@ -18,7 +18,7 @@ heroImage: /groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaHero.jpg
 
 ![matrix6xv3.0corsaOLED](/groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaOLED.jpg)
 
-Le **Matrix 6XV 3.0 Corsa** dispose d'une case en aluminium qui se déclinera sous **26 coloris different**, dont 2 (Ano silver et Ano black) pour la version standard et 24 coloris pour la version avec les parties en PVD qui seront présents sur les parties **rouges**, **vert** et **bleu** de ce schéma.
+Le **Matrix 6XV 3.0 Corsa** dispose d'une case en aluminium qui se déclinera sous **26 coloris différents**, dont 2 (Ano silver et Ano black) pour la version standard et 24 coloris pour la version avec les parties en PVD qui seront présents sur les parties **rouges**, **vert** et **bleu** de ce schéma.
 
 ![matrix6xv3.0corsaSchema](/groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaSchema.jpg)
 
@@ -68,7 +68,7 @@ La seule plate disponible dans le kit sera une plate squelettique en **aluminium
 
 ## Prix
 
-Le group-buy étant terminer, il faudra prévoir pour les extras un peu plus de **580 euros** pour la version standard, et un peu plus de **650 euros** pour le kit PVD et compter aussi **90 euros** pour le PCB solder. Les extras seront disponibles du côté EU chez [Oblotzky industries](https://oblotzky.industries/products/matrix-6xv-3-0-corsa?variant=43748099129612) une fois que ceux du groupbuy seront envoyés. Les stocks seront **extrêmement limité**, alors soyez à l'affût directement sur le serveur de Oblotzky.
+Le group-buy étant terminer, il faudra prévoir pour les extras un peu plus de **580 euros** pour la version standard, et un peu plus de **650 euros** pour le kit PVD et compter aussi **90 euros** pour le PCB solder. Les extras seront disponibles du côté EU chez [Oblotzky industries](https://oblotzky.industries/products/matrix-6xv-3-0-corsa) une fois que ceux du groupbuy seront envoyés. Les stocks seront **extrêmement limité**, alors soyez à l'affût directement sur le serveur de Oblotzky.
 
 ## Render
 
