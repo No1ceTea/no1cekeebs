@@ -10,7 +10,6 @@ description: "Exploration des différents styles de montage de clavier custom."
 heroImage: /posts/mountingstyleHero.jpg
 ---
 
-
 Tout d'abord, je voudrais remercier Nuage pour m'avoir aidé à élaborer cet article. Les boîtiers (case) des claviers mécaniques customs se présentent sous différentes formes et tailles. Bien que chaque boîtier ait ses propres qualités et caractéristiques uniques, la manière dont les composants du clavier sont montés se résume souvent à plusieurs styles différents. Certains concepteurs peuvent combiner des éléments de différents styles de montage.
 
 ## Tray Mount
@@ -28,7 +27,8 @@ _Nuage : ressenti très dur avec aucun flex, généralement peu apprécié (apr�
 Le top mount est l'un des montages les plus répandus. La plaque est vissée dans la partie supérieure de la case.
 
 _Nuage : ressenti dur mais plus homogène dans la frappe que le tray (possible d'avoir un petit peu de flex en fonction de la plate)_
-_
+\_
+
 ## Bottom Mount
 
 ![bottom_mount](/posts/bottom_mount.jpg)
