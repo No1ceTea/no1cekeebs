@@ -5,7 +5,7 @@ title: Le layout
 slug: "le-layout"
 featured: true
 tags:
-  - ressource
+  - Ressource
 description: "Une disposition qui change tout."
 heroImage: /posts/layoutHero.png
 ---

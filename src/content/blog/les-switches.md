@@ -5,7 +5,7 @@ title: Les switches
 slug: "les-switches"
 featured: true
 tags:
-  - ressource
+  - Ressource
 description: "3 types, un millier de différence."
 heroImage: /posts/switchsHero.png
 ---
@@ -18,7 +18,7 @@ Un switch est déjà la premiere raison sur le fait que nous donner l’appellat
 
 - **Stem** : C'est la partie sur laquelle le keycap est monté, la plupart des switches utilisent une tige standard + cherry afin que les keycaps du marché fonctionnent avec eux.
 
-- **Switch housing** : La "boite" qui englobe tout les élément du switch, qui elle est composé en deux parties, le **top** et le **bottom**.
+- **Switch housing** : La "boite" qui englobe tout les élément du switch, qui elle est composé en deux parties, le **top**(partie du haut) et le **bottom**(partie du bas).
 
 - **Spring** : Comme son nom l'indique c'est le ressort, il permet de renvoyer le stem après une pression sur le switch.
 

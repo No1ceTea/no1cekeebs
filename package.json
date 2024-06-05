@@ -1,6 +1,6 @@
 {
   "name": "no1cetea-keebs",
-  "version": "4.9.1",
+  "version": "4.9.2",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,8 +10,8 @@
     "astro": "astro",
     "format:check": "prettier --check . --plugin=prettier-plugin-astro",
     "format": "prettier --write . --plugin=prettier-plugin-astro",
+    "jampack": "jampack ./dist",
     "cz": "cz",
-    "prepare": "husky install",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -43,7 +43,6 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.57.0",
     "eslint-plugin-astro": "^1.2.0",
-    "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
     "prettier": "^3.3.1",
     "prettier-plugin-astro": "^0.14.0",
