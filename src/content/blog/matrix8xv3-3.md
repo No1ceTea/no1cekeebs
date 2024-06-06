@@ -1,12 +1,7 @@
 ---
 author: No1ceTea
-<<<<<<< HEAD
-pubDatetime: 2024-05-24T13:38:36Z
-title: Matrix 8xv3.3
-=======
 pubDatetime: 2024-06-05T14:43:28Z
 title: Matrix 8xv3 ⅓
->>>>>>> 89b1a59 (feat: develop posts)
 slug: "matrix 8xv3.3"
 featured: true
 tags:
@@ -14,8 +9,6 @@ tags:
 description: "Encore, ça fait beaucoup la non ?"
 heroImage: /groupbuy/matrix8xv3-3/matrix8xv3-3Hero.jpg
 ---
-<<<<<<< HEAD
-=======
 
 Matrix Lab ne cesse de nous surprendre avec des designs très audacieux et très avant-gardistes. Le Matrix 8xv3 ⅓ représente une évolution naturelle de son prédécesseur, le 8vx3.0.
 
@@ -66,4 +59,3 @@ Le group-buy étant terminé, vous devrez vous tourner vers le marché de l'occa
 ## IRL Picture
 
 ###
->>>>>>> 89b1a59 (feat: develop posts)
