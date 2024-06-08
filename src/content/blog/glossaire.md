@@ -193,3 +193,5 @@ description: "Pour mieux comprendre le monde fascinant des claviers mécaniques 
 **Wireless** : Claviers fonctionnant sans fil, soit par Bluetooth, soit via un dongle sans fil.
 
 **Winkey (WK), Winkeyless (WKL)** : Termes désignant la présence (Winkey) ou l'absence (Winkeyless) de la touche Windows sur un clavier, impactant l'esthétique et parfois la fonctionnalité.
+
+Le contenu a été récupérer sur le site [Deskup](https://deskup.io/blog/lexique-clavier-custom)
