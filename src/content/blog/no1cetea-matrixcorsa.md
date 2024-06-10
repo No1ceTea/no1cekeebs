@@ -1,6 +1,6 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-05-18T16:44:42Z
+pubDatetime: 2024-06-10T14:34:11Z
 title: Matrix 6XV 3.0 Corsa by No1ceTea
 slug: "no1cetea-matrixcorsa"
 featured: true
@@ -33,8 +33,8 @@ Le Matrix 6XV3.0 Corsa m'a été livrer avec un PCB 1.2mm hotswap, mais qui est 
 Matrix propose toujours un coating d'une excellente qualité texturé et paillettés.
 
 - Frappe : La sensation de frappe est unique. Le bottom mount est ultra-soft et cela constamment partout sur le clavier, j'aime beaucoup.
-- Son : Le son n'est pas celui qui m'a satisfait le plus, mais je ne suis pas déçu. Une légère resonnance peut ce faire entendre sur un build sans foam. J'ai pu aussi tester avec une full plate en aluminium (sans trou), le son deviens plus rond, mais il faut dire que c'est grâce au long-pole que le clavier "Clack".
+- Son : Le son n'est pas le point qui m'a satisfait le plus, mais il reste très satisfaisant. Une légère resonnance peut ce faire entendre sur un build sans foam. J'ai pu aussi tester avec une full plate en aluminium (sans trou), le son deviens plus rond, mais il faut dire que c'est grâce au long-pole que le clavier "Clack".
 - Apparence : Rien à dire. J'aime beaucoup les design osés de Matrix et celui-ci en fait parti, il n'est pas agressive non plus. Ce qui est vraiment sympa aussi sur le Corsa est la gamme de couleur qui est proposé, y'en a vraiment pour tout les goûts.
 - L'écran : C'est génial de pouvoir afficher ce que l'on veut sur un petit écran dans le coin, cela donne un aspect vivant au clavier.
 
-Je pense que le Matrix 6XV3.0 Corsa peut prendre un 8/10. C'est un clavier excellent avec un look unique, un écran au top, un typing feel vraiment unique et soft et un profil sonore vraiment correct. Ma note va s'appuyer plus sur l'esthétique que le son, et puis il possède tout les points que je voulais qui définissait mon endgame (mais c'est jamais fini). J'ai hâte de pouvoir tester d'autre board de Matrix !
+Je pense que le Matrix 6XV3.0 Corsa vaut un bon 8/10. C'est un clavier excellent avec un look unique, un écran au top, un typing feel vraiment unique et soft et un profil sonore vraiment correct. Ma note va s'appuyer plus sur l'esthétique que le son, et puis il possède tout les points que je voulais qui définissait mon endgame (mais c'est jamais fini). J'ai hâte de pouvoir tester d'autre board de Matrix !
