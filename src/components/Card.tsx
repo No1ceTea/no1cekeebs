@@ -9,7 +9,7 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, modDatetime, description, heroImage } =
+  const { title, pubDatetime, modDatetime, description, heroImage, readingTime } =
     frontmatter;
 
   const headerProps = {
@@ -39,7 +39,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           />
         )}
       </div>
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
+      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} readingTime={readingTime} />
       <p>{description}</p>
     </li>
   );

@@ -1,5 +1,6 @@
 import { SITE } from "@config";
 import { defineCollection, z } from "astro:content";
+import readingTime from "reading-time";
 
 const blog = defineCollection({
   type: "content",
@@ -21,6 +22,7 @@ const blog = defineCollection({
       description: z.string(),
       heroImage: z.string().optional(),
       canonicalURL: z.string().optional(),
+      readingTime: z.string().optional(),
     }),
 });
 
