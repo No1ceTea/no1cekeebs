@@ -49,3 +49,5 @@ La plaque et la partie supérieure de la case sont fabriquées en une seule et u
 Ce type de montage utilise souvent de petits bouts de caoutchouc qui maintiennent la plaque sur les côtés supérieurs et inférieurs de la case. Cela donne au clavier une sensation plus douce et plus "flex" puisque la plaque n'est pas en contact direct avec les autres composants du clavier, mais ce scénario n'est pas vrai pour TOUT les claviers avec ce style de montage. On peut aussi noté que ce style de montage aide à avoir un son plus rond et moins "métallique", sans doute parce que la plate ne touche pas la case.
 
 J'aimerais avoir votre ressenti ainsi que celui de Nuage sur l'un des styles de montage que nous avons abordés dans cet article. Envoyez un DM sur Discord (No1ceTea) pour me donner votre ressenti, et si vous êtes d'accord, elle apparaîtra dans cet article. Merci d'avance à tous !
+
+**Note : Cet article n'est qu'une synthèse de [Keyboard University](https://www.keyboard.university/200-courses/keyboard-mounting-styles-4lpp7) avec une touche personnelle.**

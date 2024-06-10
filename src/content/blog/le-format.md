@@ -50,3 +50,5 @@ Si vous ne savez toujours pas quelle direction prendre, ce petit flowchart peut 
 ![layouts2](/posts/layouts2.png)
 
 Merci aux grands sages **Shunfry**, **Nuage** & **Mantalekra** de m'avoir apporté la sainte lumière à ces questions existentielles.
+
+**Note : Une partie de cet article n'est qu'une synthèse de [Forum Hardware](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).**

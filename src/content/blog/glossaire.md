@@ -194,4 +194,4 @@ description: "Pour mieux comprendre le monde fascinant des claviers mécaniques 
 
 **Winkey (WK), Winkeyless (WKL)** : Termes désignant la présence (Winkey) ou l'absence (Winkeyless) de la touche Windows sur un clavier, impactant l'esthétique et parfois la fonctionnalité.
 
-Le contenu a été récupérer sur le site [Deskup](https://deskup.io/blog/lexique-clavier-custom)
+**Note : Cet article n'est qu'une synthèse de [Deskup](https://deskup.io/blog/lexique-clavier-custom) avec une touche personnelle.**

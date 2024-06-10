@@ -45,3 +45,5 @@ On notera que la partie colorée qui glisse contre le contact en métal (le *sl
 ![clicky](/posts/clicky.gif)
 
 Il faut noter que ces switchs clicky sont affectés par un phénomène d'hystérésis assez prononcé : après avoir appuyé sur un switch, il faut remonter bien au-dessus du point d'actuation pour qu'une frappe puisse à nouveau être prise en compte. C'est ce qui conduit certains utilisateurs à les déconseiller pour le jeu, où il est parfois intéressant de spammer une touche en "flottant" autour du point d'actuation (répéter un appui très vite sans remonter jusqu'en haut). Ceux qui ont l'habitude de laisser la touche remonter complètement avant d'appuyer à nouveau ne seront cependant pas gênés par ce phénomène.
+
+**Note : Cet article n'est qu'une synthèse de [Forum Hardware](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).**

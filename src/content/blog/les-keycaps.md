@@ -54,3 +54,5 @@ Les légendes peuvent être inscrites sur les touches de différentes façons, c
 Toutes les touches n'ont pas la même forme : l'**angle** et la **hauteur** diffèrent selon le profil choisi, et on leur impact sur la sensation de frappe. Il faut bien noter aussi que chaque rangée à souvent une forme différente qui étage le sommet de chaque rangée.
 
 ![profile](/posts/profile.png)
+
+**Note : Cet article n'est qu'une synthèse de [Forum Hardware](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).**

@@ -48,3 +48,5 @@ Il existe une disposition dédiée au format ANSI (104 touches), qui permet de s
 ![apostrophe](/posts/apostrophe.png)
 
 Les caractères rouges sur le modèle ci-dessus représentent ce que vous obtenez en combinaison avec la touche Alt droite (AltGr sur azerty), et les caractères rouges sont des touches mortes en combinaison avec la lettre suivante (comme ^ sur les mises en page azerty).
+
+**Note : Cet article n'est qu'une synthèse de [Forum Hardware](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).**
