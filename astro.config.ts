@@ -5,7 +5,6 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
-import { remarkReadingTime } from "./src/utils/remark-reading-time.mjs";
 import vercelStatic from "@astrojs/vercel/static";
 
 // https://astro.build/config
@@ -28,7 +27,6 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       remarkToc,
-      remarkReadingTime,
       [
         remarkCollapse,
         {
