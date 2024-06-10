@@ -8,6 +8,7 @@ interface DatetimesProps {
 interface Props extends DatetimesProps {
   size?: "sm" | "lg";
   className?: string;
+  readingTime?: string;
 }
 
 export default function Datetime({
@@ -15,6 +16,7 @@ export default function Datetime({
   modDatetime,
   size = "sm",
   className,
+  readingTime,
 }: Props) {
   return (
     <div className={`flex items-center space-x-2 opacity-80 ${className}`}>
@@ -40,6 +42,7 @@ export default function Datetime({
           pubDatetime={pubDatetime}
           modDatetime={modDatetime}
         />
+        <span> ({readingTime})</span> {/* display reading time */}
       </span>
     </div>
   );
@@ -47,7 +50,7 @@ export default function Datetime({
 
 const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
   const myDatetime = new Date(
-    modDatetime && modDatetime > pubDatetime ? modDatetime : pubDatetime,
+    modDatetime && modDatetime > pubDatetime ? modDatetime : pubDatetime
   );
 
   const date = myDatetime.toLocaleDateString(LOCALE.langTag, {
