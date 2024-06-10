@@ -22,31 +22,31 @@ Le tray mount signifie que le PCB est fixé sur la partie inférieure interne de
 
 ![top_mount](/posts/top_mount.jpg)
 
-Le top mount est l'un des montages les plus répandus. La plaque est vissée dans la partie supérieure de la case. Un feeling un peu plus rond que le tray mais toujours dur.
+Le top mount est l'un des montages les plus répandus. La plate est vissée dans la partie supérieure de la case. Un feeling un peu plus rond que le tray mais toujours dur.
 
 ## Bottom Mount
 
 ![bottom_mount](/posts/bottom_mount.jpg)
 
-À l'inverse du top mount, la plaque est vissée dans la partie inférieure de la case.
+À l'inverse du top mount, la plate est vissée dans la partie inférieure de la case.
 
 ## Sandwich Mount
 
 ![sandwich_mount](/posts/sandwich_mount.jpg)
 
-La plaque est maintenue par les deux parties de la case, comme le milieu d'un sandwich. Les vis traversent entièrement le boîtier de la partie inférieure jusqu'à la partie supérieure.
+La plate est maintenue par les deux parties de la case, comme le milieu d'un sandwich. Les vis traversent entièrement le boîtier de la partie inférieure jusqu'à la partie supérieure.
 
 ## Integrated Plate
 
 ![integrated_mount](/posts/integrated_mount.jpg)
 
-La plaque et la partie supérieure de la case sont fabriquées en une seule et unique pièce. Cela donne une sensation très rigide et dure.
+La plate et la partie supérieure de la case sont fabriquées en une seule et unique pièce. Cela donne une sensation très rigide et dure.
 
 ## Gasket Mount
 
 ![gasket_mount](/posts/gasket_mount.jpg)
 
-Ce type de montage utilise souvent de petits bouts de caoutchouc qui maintiennent la plaque sur les côtés supérieurs et inférieurs de la case. Cela donne au clavier une sensation plus douce et plus "flex" puisque la plaque n'est pas en contact direct avec les autres composants du clavier, mais ce scénario n'est pas vrai pour TOUT les claviers avec ce style de montage. On peut aussi noté que ce style de montage aide à avoir un son plus rond et moins "métallique", sans doute parce que la plate ne touche pas la case.
+Ce type de montage utilise souvent de petits bouts de caoutchouc qui maintiennent la plate sur les côtés supérieurs et inférieurs de la case. Cela donne au clavier une sensation plus douce et plus "flex" puisque la plate n'est pas en contact direct avec les autres composants du clavier, mais ce scénario n'est pas vrai pour TOUT les claviers avec ce style de montage. On peut aussi noté que ce style de montage aide à avoir un son plus rond et moins "métallique", sans doute parce que la plate ne touche pas la case.
 
 J'aimerais avoir votre ressenti ainsi que celui de Nuage sur l'un des styles de montage que nous avons abordés dans cet article. Envoyez un DM sur Discord (No1ceTea) pour me donner votre ressenti, et si vous êtes d'accord, elle apparaîtra dans cet article. Merci d'avance à tous !
 
