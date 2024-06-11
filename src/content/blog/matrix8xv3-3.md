@@ -1,6 +1,6 @@
 ---
 author: No1ceTea
-pubDatetime: 2024-06-05T14:43:28Z
+pubDatetime: 2024-06-11T08:58:24Z
 title: Matrix 8xv3 ⅓
 slug: "matrix 8xv3.3"
 featured: true
@@ -25,8 +25,6 @@ Le Matrix 8xv3 ⅓ est doté d'un boîtier en aluminium et sera disponible dans 
 Voici les 10 coloris disponibles :
 
 ![matrix8xv3-3allcolor](/groupbuy/matrix8xv3-3/matrix8xv3-3allcolor.jpg)
-
-Une particularité importante de ce clavier
 
 ## Layout
 
