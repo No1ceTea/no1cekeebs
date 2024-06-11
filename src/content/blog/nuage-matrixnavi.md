@@ -52,3 +52,5 @@ une plate foam, PE foam et 2 foams case.
 ![matrixnavi5](/review/nuage-matrixnavi/matrixnavi5.jpg)
 
 Pour moi, Le Matrix Navi mérite un 7/10. C'est un très bon clavier qui a un profil sonore assez plaisant, une frappe modifiable grâce aux différentes manières de monter le top mount et un style unique. C'est un des meilleurs Matrix que j'ai pu essayer et clairement une bonne surprise !
+
+**Photographié par Nuage**

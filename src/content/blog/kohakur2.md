@@ -10,7 +10,7 @@ description: "Comme un poisson dans l'eau."
 heroImage: /groupbuy/kohakur2/kohakur2Hero.jpg
 ---
 
-**Singa**, basé en Malaisie, habitué à livrer des customs des plus premiums, Singa repars sur le **Kohaku** pour une deuxième re-édition. Seuls **700 exemplaires** seront disponibles ! Donc l'acquisition de ce custom se fera sous forme de **raffle**.
+**SINGAKBD**, basé en Malaisie, habitué à livrer des customs des plus premiums, Singa repars sur le **Kohaku** pour une deuxième re-édition. Seuls **700 exemplaires** seront disponibles ! Donc l'acquisition de ce custom se fera sous forme de **raffle**.
 
 ## Table of contents
 
@@ -91,3 +91,5 @@ Vous pourrez retrouver ici les images des rendus 3d du produit ainsi que des pho
 ![kohakur2Lilac3](/groupbuy/kohakur2/kohakur2Black3.jpg)
 
 **Source** : [Kohaku R2 by SingaKBD](https://singakbd.com/blogs/groupbuy-and-updates/kohaku-r2-groupbuy)
+
+**Toutes les photos sont créditées à SINGAKBD.**
