@@ -75,7 +75,7 @@ L'angle de frappe sera de **8 degrés**, une hauteur de face de **15mm**, une ha
 
 La seule plate disponible sera par défaut en **fibre de carbone** (CF). Mais les fichiers de la plate seront partagés pendant le group buy, mais il ne recommande pas d'utiliser des matières ultra flexibles telles que **PP**, **POM** ou encore **PC**.
 
-## Price
+## Prix
 
 Les prix lors du GB commenceront à partir de **$372** (full aluminium) et sont uniquement disponible sur le site de [Archetype](https://archetypemade.com/evolv-is-here/), donc attention au frais de douane.
 

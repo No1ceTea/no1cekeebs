@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-05-23T13:56:31Z
 title: Holy60
 slug: "holy60"
-featured: true
+featured: false
 tags:
   - GroupBuy InterestCheck
 description: "Symbiote keebs."
@@ -52,11 +52,11 @@ L'angle de frappe sera de **7 degrés**, une hauteur de face de **18.6mm** et fe
 
 Vous pourrez choisir en option parmis 3 plates : **FR4**, **aluminium** et **CF**.
 
-## Price
+## Prix
 
 Vous pouvez encore précommander le vôtre sur [Keygem](https://keygem.com/products/holy-60-pre-order), voici les prix :
 
-| Holy60                               | Price  |
+| Holy60                               | Prix  |
 | ------------------------------------ | ------ |
 | Kit e-white                          | €320   |
 | Kit anodized black                   | €320   |

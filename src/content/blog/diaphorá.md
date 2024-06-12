@@ -18,7 +18,7 @@ heroImage: /groupbuy/diaphorá/diaphoraHero.png
 
 ![diaphora1](/groupbuy/diaphorá/diaphora1.png)
 
-Pour ce projet, ils ont opté pour des PCB offrant à la fois des versions hotswap (HS) et à souder (Solder), avec des dispositions ANSI et ISO. Les spécifications techniques incluent un angle d'inclinaison de 6,5° et une hauteur frontale de 20 mm, garantissant un confort d'utilisation optimal et une ergonomie soignée.
+Pour ce projet, ils ont opté pour des PCB offrant à la fois une version Hotswap (HS) et à souder (Solder), avec des dispositions ANSI et ISO. Les spécifications techniques incluent un angle d'inclinaison de 6,5° et une hauteur frontale de 20 mm, garantissant un confort d'utilisation optimal et une ergonomie soignée.
 
 ![diaphora3](/groupbuy/diaphorá/diaphora3.png)
 

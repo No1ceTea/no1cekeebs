@@ -57,11 +57,11 @@ L'angle de frappe sera de **7 degrés** fera environ **1.2kg** unbuilt et **1.5k
 
 Dans ce build, il n'y a pas de plate ; il s'agit d'une configuration dites plateless avec gaskets uniquement pour assurer une stabilité optimale.
 
-## Price
+## Prix
 
 Malgré la fin du groupbuy, les prix retail sont de :
 
-| Lily                                  | Price   |
+| Lily                                  | Prix   |
 | ------------------------------------- | ------- |
 | Base kit                              | €503,20 |
 | Base kit + upgrade to polished weight | €593,95 |
