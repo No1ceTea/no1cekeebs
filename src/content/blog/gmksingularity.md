@@ -6,7 +6,7 @@ title: GMK Singularity
 slug: "gmk-singularity"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Plongée dans l'obscurité."
 heroImage: /groupbuy/gmksingularity/gmksingularityHero.png
 ---

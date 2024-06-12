@@ -5,7 +5,7 @@ title: Nouvelle réglementation Sud-Coréenne
 slug: "krnewstatement"
 featured: false
 tags:
-  - News
+- News
 description: "Interdiction des achats directs à l'étranger sans Certificat KC"
 ---
 

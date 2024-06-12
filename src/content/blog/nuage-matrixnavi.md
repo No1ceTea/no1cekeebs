@@ -5,7 +5,7 @@ title: Matrix Navi by Nuage
 slug: "nuage-matrixnavi"
 featured: false
 tags:
-  - Review
+- Review
 description: "Le Matrix Navi : Une Expérience Unique de Clavier TKL FRL par Nuage."
 heroImage: /review/nuage-matrixnavi/matrixnaviHero.jpg
 ---

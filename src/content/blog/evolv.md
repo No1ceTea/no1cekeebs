@@ -5,7 +5,7 @@ title: Evolv
 slug: "evolv"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Algorithme génératifs."
 heroImage: /groupbuy/evolv/evolvHero.jpg
 ---

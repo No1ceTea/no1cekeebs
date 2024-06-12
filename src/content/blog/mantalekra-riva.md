@@ -5,7 +5,7 @@ title: Riva by Mantalekra
 slug: "mantalekra-riva"
 featured: false
 tags:
-  - Review
+- Review
 description: "Un choix solide by @Mantalekra."
 heroImage: /review/mantalekra-riva/rivaHero.jpg
 ---

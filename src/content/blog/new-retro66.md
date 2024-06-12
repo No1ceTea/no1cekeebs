@@ -6,7 +6,7 @@ title: New Retro 66
 slug: "new-retro66"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Un style retro futuriste."
 heroImage: /groupbuy/new-retro66/retro66Hero.jpg
 ---

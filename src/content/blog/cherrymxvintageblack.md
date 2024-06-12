@@ -6,7 +6,7 @@ title: Le Cherry MX Black, injustement mal compris
 slug: "cherrymxvintageblack"
 featured: false
 tags:
-  - Review
+- Review
 description: "Une analyse complète des Cherry MX Black (Du vintage au moderne)."
 heroImage: /review/cherrymxvintageblack/cherrymxvintblackHero.jpg
 ---

@@ -5,7 +5,7 @@ title: Vanguard65
 slug: "vanguard65"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Un clavier au ligne de Porsche Cayman."
 heroImage: /groupbuy/vanguard65/vanguard65Hero.jpg
 ---

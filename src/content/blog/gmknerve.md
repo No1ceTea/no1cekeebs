@@ -5,7 +5,7 @@ title: GMK Nerve
 slug: "gmk-nerve"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Innovation & Y2K."
 heroImage: /groupbuy/gmknerve/gmknerveHero.png
 ---

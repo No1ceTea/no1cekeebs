@@ -5,7 +5,7 @@ title: Zoom75
 slug: "zoom75"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Abordable."
 heroImage: /groupbuy/zoom75/zoom75Hero.jpg
 ---

@@ -5,7 +5,7 @@ title: Kohaku R2
 slug: "kohakur2"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Comme un poisson dans l'eau."
 heroImage: /groupbuy/kohakur2/kohakur2Hero.jpg
 ---

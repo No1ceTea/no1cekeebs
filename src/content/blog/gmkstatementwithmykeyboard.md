@@ -5,7 +5,7 @@ title: GMK met fin aux collaborations avec Mykeyboard.eu pour les projets de key
 slug: "gmkstatementwithmykeyboard"
 featured: false
 tags:
-  - News
+- News
 description: "Mykeyboard.eu en chute libre?"
 ---
 

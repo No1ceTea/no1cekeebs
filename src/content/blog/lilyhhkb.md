@@ -6,7 +6,7 @@ title: Lily HHKB
 slug: "lilyhhkb"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Élégance."
 heroImage: /groupbuy/lilyhhkb/lilyhhkbHero.jpeg
 ---

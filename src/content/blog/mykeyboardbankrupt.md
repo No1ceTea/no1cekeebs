@@ -5,7 +5,7 @@ title: Faillite de Mykeyboard.eu
 slug: "mykeyboardbankrupt"
 featured: false
 tags:
-  - News
+- News
 description: "Guide pour les clients touchés par la faillite de Mykeyboard.eu et les alternatives disponibles."
 ---
 

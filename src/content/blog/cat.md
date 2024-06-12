@@ -5,7 +5,7 @@ title: Cat:(
 slug: "cat"
 featured: false
 tags:
-  - GroupBuy-InterestCheck
+- GroupBuy-InterestCheck
 description: "Chat pas content."
 heroImage: /groupbuy/cat/catHero.jpg
 ---
