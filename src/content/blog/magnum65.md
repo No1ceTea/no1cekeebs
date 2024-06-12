@@ -55,7 +55,9 @@ Les prix sont calculés avec le prix original convertie eu euros + x1.2 pour inc
 | Magnum65                                               | Prix     |
 | ------------------------------------------------------ | -------- |
 | Any colors + any plate + any PCB                       | ≃€423,33 |
+
 | Magnum65 Extra                                         | Prix     |
+| ------------------------------------------------------ | -------- |
 | PCB 1.2mm avec flex-cut [EXTRA]                        | ≃€+55,74 |
 | PCB 1.6mm sans flex-Gold side-mounted magazine [EXTRA] | ≃€+55,74 |
 | Flex-cut aluminium plate [EXTRA]                       | ≃€+22,29 |
