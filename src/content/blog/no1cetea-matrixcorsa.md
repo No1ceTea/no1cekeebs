@@ -52,4 +52,4 @@ Matrix propose toujours un coating d'une excellente qualité texturé et paillet
 
 Je pense que le Matrix 6XV3.0 Corsa vaut un bon 8/10. C'est un clavier excellent avec un look unique, un écran au top, un typing feel vraiment unique et soft et un profil sonore vraiment correct. Ma note va s'appuyer plus sur l'esthétique que le son, et puis il possède tout les points que je voulais qui définissait mon endgame (mais c'est jamais fini). J'ai hâte de pouvoir tester d'autre board de Matrix !
 
-**Merci beaucoup à (Valentin)[https://www.instagram.com/valentin.chr_photos/] pour les photos !**
+**Merci beaucoup à [Valentin](https://www.instagram.com/valentin.chr_photos/) pour les photos !**
