@@ -73,3 +73,5 @@ Les prix sont calculés avec le prix original convertie eu euros + x1.2 pour inc
 | Gold side-mounted magazine                     | ≃€+11,14 |
 
 **Toutes les photos sont créditées à CarryWorks.**
+
+**Source : [Magnum65](https://geekhack.org/index.php?topic=122697.0)**
