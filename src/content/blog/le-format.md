@@ -5,7 +5,7 @@ title: Le format
 slug: "le-format"
 featured: true
 tags:
-  - Ressource
+- Ressource
 description: "Le format d'un clavier, toute une histoire."
 heroImage: /posts/formatHero.png
 ---

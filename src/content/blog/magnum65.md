@@ -4,8 +4,8 @@ pubDatetime: 2024-06-12T12:36:06Z
 title: Magnum65
 slug: "magnum65"
 featured: true
-tags:
-  - GroupBuy InterestCheck
+tags: 
+- GroupBuy-InterestCheck
 description: "Piou piou."
 heroImage: /groupbuy/magnum65/magnum65Hero.jpg
 ---

@@ -5,7 +5,7 @@ title: Sand Glass Ergo - 70% FRL Alice
 slug: "sandglassergo"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Un alice qui courbe le temps."
 heroImage: /groupbuy/sandglassergo/sandglassergoHero.jpg
 ---

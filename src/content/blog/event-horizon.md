@@ -5,7 +5,7 @@ title: Event Horizon
 slug: "event-horizon"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "La prison éternelle."
 heroImage: /groupbuy/eventhorizon/eventhorizonHero.jpg
 ---

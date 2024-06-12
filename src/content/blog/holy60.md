@@ -5,7 +5,7 @@ title: Holy60
 slug: "holy60"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Symbiote keebs."
 heroImage: /groupbuy/holy60/holy60Hero.jpg
 ---

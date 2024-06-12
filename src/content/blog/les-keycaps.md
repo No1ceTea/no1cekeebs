@@ -5,7 +5,7 @@ title: Les keycaps
 slug: "les-keycaps"
 featured: true
 tags:
-  - Ressource
+- Ressource
 description: "Le style, no cap."
 heroImage: /posts/keycapsHero.png
 ---

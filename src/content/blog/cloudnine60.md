@@ -6,7 +6,7 @@ title: Cloudnine 60%
 slug: "cloudnine60"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Comme sur un Nuage :)."
 heroImage: /groupbuy/cloudnine60/cloudnine60Hero.jpg
 ---

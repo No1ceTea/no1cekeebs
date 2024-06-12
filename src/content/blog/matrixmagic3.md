@@ -5,7 +5,7 @@ title: Matrix Magic 3
 slug: "matrixmagic3"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Brave comme un lapin."
 heroImage: /groupbuy/matrixmagic3/magic3Hero.jpg
 ---

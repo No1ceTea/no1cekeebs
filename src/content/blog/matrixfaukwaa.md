@@ -5,7 +5,7 @@ title: Matrix Faukwaa
 slug: "matrixfaukwaa"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Dans la démesure."
 heroImage: /groupbuy/faukwaa/faukwaaHero.jpg
 ---

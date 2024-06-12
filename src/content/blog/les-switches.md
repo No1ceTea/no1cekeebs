@@ -5,7 +5,7 @@ title: Les switches
 slug: "les-switches"
 featured: true
 tags:
-  - Ressource
+- Ressource
 description: "3 types, un millier de différence."
 heroImage: /posts/switchsHero.png
 ---

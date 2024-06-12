@@ -5,7 +5,7 @@ title: Matrix 6XV 3.0 Corsa
 slug: "matrix6xv3.0corsa"
 featured: false
 tags:
-  - GroupBuy InterestCheck
+  - GroupBuy-InterestCheck
 description: "Bienvenue dans la matrice."
 heroImage: /groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaHero.jpg
 ---
