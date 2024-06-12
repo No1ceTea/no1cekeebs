@@ -26,10 +26,8 @@ Voici la configuration de mon clavier :
 - Keycaps : PBTFans Cookies'n'Cream
 - Badge en résine pour l'écran : Custom pour aller avec le set Cookies'n'Cream
 
-
 ![matrixcorsa3](/review/no1cetea-matrixcorsa/matrixcorsa3.jpg)
 ![matrixcorsa4](/review/no1cetea-matrixcorsa/matrixcorsa4.jpg)
-
 
 Le Matrix 6XV3.0 Corsa est un clavier de 65%, qui a la particularité d'avoir un écran LCD 128x128 à droite du clavier, avec une luminosité plus que satisfaisante pour y placer ses meilleurs GIFs. Le style de montage est un bottom mount pour un toucher doux, mais offre aussi la possibilité, avec une plate spéciale à imprimer ou à acheter (donc pas d'origine), de le mettre en top mount pour avoir un feeling au toucher plus dur. Sinon, si le son ne vous convient pas avec la plate en aluminium skeleton (avec beaucoup de trous), vous pourrez retrouver en aftermarket des plates sans trous (dites "full") dans différentes matières. Vous pouvez aussi l'imprimer vous-même, le design de la plate est open-source.
 
