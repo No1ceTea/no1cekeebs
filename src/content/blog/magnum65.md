@@ -52,21 +52,22 @@ Le groupbuy était du 29 mars au 28 avril, il faudra attendre la fin de la produ
 
 Les prix sont calculés avec le prix original convertie eu euros + x1.2 pour inclure la TVA.
 
-| Magnum65                                                   | Prix    |
-| ---------------------------------------------------------- | -------- |
-| Any colors + any plate + any PCB                           | ≃€423,33 |
-| PCB 1.2mm avec flex-cut [EXTRA]                            | ≃€+55,74 |
-| PCB 1.6mm sans flex-Gold side-mounted magazine [EXTRA] ≃€+ | ≃€+55,74 |
-| Flex-cut aluminium plate [EXTRA]                           | ≃€+22,29 |
-| Non flex-cut aluminium plate [EXTRA]                       | ≃€+22,29 |
-| Non flex-cut FR4 plate [EXTRA]                             | ≃€+22,29 |
-| Black weight [EXTRA]                                       | ≃€+88,05 |
-| Grey weight [EXTRA]                                        | ≃€+88,05 |
-| Brown weight [EXTRA]                                       | ≃€+88,05 |
-| Foam kit [EXTRA]                                           | ≃€+16,71 |
-| Black bullets (6pcs) [EXTRA]                               | ≃€+22,29 |
-| Silver bullets (6pcs) [EXTRA]                              | ≃€+22,29 |
-| Gold bullets (6pcs) [EXTRA]                                | ≃€+22,29 |
-| Gold side-mounted magazine [EXTRA]                         | ≃€+11,14 |
+| Magnum65                                               | Prix     |
+| ------------------------------------------------------ | -------- |
+| Any colors + any plate + any PCB                       | ≃€423,33 |
+| Magnum65 Extra                                         | Prix     |
+| PCB 1.2mm avec flex-cut [EXTRA]                        | ≃€+55,74 |
+| PCB 1.6mm sans flex-Gold side-mounted magazine [EXTRA] | ≃€+55,74 |
+| Flex-cut aluminium plate [EXTRA]                       | ≃€+22,29 |
+| Non flex-cut aluminium plate [EXTRA]                   | ≃€+22,29 |
+| Non flex-cut FR4 plate [EXTRA]                         | ≃€+22,29 |
+| Black weight [EXTRA]                                   | ≃€+88,05 |
+| Grey weight [EXTRA]                                    | ≃€+88,05 |
+| Brown weight [EXTRA]                                   | ≃€+88,05 |
+| Foam kit [EXTRA]                                       | ≃€+16,71 |
+| Black bullets (6pcs) [EXTRA]                           | ≃€+22,29 |
+| Silver bullets (6pcs) [EXTRA]                          | ≃€+22,29 |
+| Gold bullets (6pcs) [EXTRA]                            | ≃€+22,29 |
+| Gold side-mounted magazine [EXTRA]                     | ≃€+11,14 |
 
 **Toutes les photos sont créditées à CarryWorks.**
