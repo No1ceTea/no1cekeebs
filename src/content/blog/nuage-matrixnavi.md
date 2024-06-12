@@ -3,7 +3,7 @@ author: Nuage
 pubDatetime: 2024-05-18T16:44:42Z
 title: Matrix Navi by Nuage
 slug: "nuage-matrixnavi"
-featured: true
+featured: false
 tags:
   - Review
 description: "Le Matrix Navi : Une Expérience Unique de Clavier TKL FRL par Nuage."
@@ -29,7 +29,7 @@ _Voici la configuration de son clavier :_
 
 Le Matrix Navi est un TKL FRL, donc sans les touches fonctions (F1, F2, etc...) qu'on voit normalement sur les TKL. Le style de montage est un top mount isolé mais il offre la possibilité d'utiliser des embouts en caoutchouc à mettre sur les points de montage pour offrir un top mount plus doux, ou bien d'utiliser des films en PC pour une expérience plus classique et plus dure.
 
-Le Navi est livré avec un PCB 1.2mm disponible uniquement en hotswap et 2 plates en alumium, une "squelette" (avec des trous partout) et une remplie plus classique.
+Le Navi est livré avec un PCB 1.2mm disponible uniquement en Hotswap et 2 plates en alumium, une "squelette" (avec des trous partout) et une remplie plus classique.
 
 ![matrixnavi2](/review/nuage-matrixnavi/matrixnavi2.jpg)
 

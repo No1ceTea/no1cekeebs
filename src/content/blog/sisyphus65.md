@@ -34,7 +34,7 @@ Le Sysiphus65 profitera d'une monture en **gasket mount** avec des socks en sili
 
 ## Layout
 
-Un layout assez simple sans trop de modifications disponible avec un PCB avec flex-cut imprimée sur 1.2mm, en tri-mode et hotswap, tout cela dessiner en conçu par Goudan.
+Un layout assez simple sans trop de modifications disponible avec un PCB avec flex-cut imprimée sur 1.2mm, en tri-mode et Hotswap, tout cela dessiner en conçu par Goudan.
 
 ![layout](/groupbuy/sisyphus-65/layout.jpg)
 

@@ -45,7 +45,7 @@ Designer par Yiancar, le PCB se déclinera entre un **PCB Solder** ou un **PCB H
 
 ### PCB Hotswap
 
-![eventhorizonPCBHotswap](/groupbuy/eventhorizon/eventhorizonhotswap.png)
+![eventhorizonPCBHotswap](/groupbuy/eventhorizon/eventhorizonHotswap.png)
 
 - Regular backspace
 - Ansi Enter
@@ -71,7 +71,7 @@ L'angle de frappe sera de **8 degrés**, une hauteur de face de **17,5mm** (sans
 
 Les plates disponibles seront aux nombres de 2 : **aluminium** ou **FR4**. Le kit de base comprendra une plate en aluminium, libre à vous de prendre une autre plate en extra d'une autre matière pour vos envies personnelles.
 
-## Price
+## Prix
 
 La raffle étant passée, attendez-vous à voir les prix explosés, mais pour ceux qui sont intéressés par le retail, le voici: **$490** pour l'**Event Horizon** et **$890** pour le **Supermassive**.
 

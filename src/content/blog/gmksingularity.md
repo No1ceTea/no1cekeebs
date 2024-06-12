@@ -59,7 +59,7 @@ Suite à divers ajustements, y compris le changement du nom du kit en GMK Singul
 
 En outre, il convient également de mentionner les remerciements particuliers adressés à Mario pour son assistance précieuse, dotNick pour avoir contribué au confort lors du processus de conception du jeu ; SpikedSynapse, Beesley et tous les autres passionnés participant activement sur le Discord Keycap Designer ; Imperfect Link pour leur produit exceptionnel et leur support technique remarquable ; sans oublier tous ceux ayant participé via Discord avec leurs commentaires constructifs.
 
-## Price
+## Prix
 
 TBD
 

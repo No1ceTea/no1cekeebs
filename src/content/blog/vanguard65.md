@@ -33,7 +33,7 @@ Le VG65 embarque une **case en aluminium 6063** pour le top et un bottom qui ser
 **4 . Ruby Star Purple**
 ![RubyStarPurple](/groupbuy/vanguard65/RubyStarPurple.png)
 
-Il embarque une **weight en brass**, sandblasted. Le Vanguard65 pourra être monté en **gasket mount** avec des socks qui seront fournis. Le PCB sera quant à lui custom et dessiner en collaboration avec Underglow, **hotswap** avec des kailh sockets, compatible **QMK/VIA**, supportera aussi bien l'**ANSI** que l'**ISO** et sera **daughtboard** USB-C.
+Il embarque une **weight en brass**, sandblasted. Le Vanguard65 pourra être monté en **gasket mount** avec des socks qui seront fournis. Le PCB sera quant à lui custom et dessiner en collaboration avec Underglow, **Hotswap** avec des kailh sockets, compatible **QMK/VIA**, supportera aussi bien l'**ANSI** que l'**ISO** et sera **daughtboard** USB-C.
 
 Le **knob** et le _slider_ seront programmables avec **MIDI**, plus d'informations seront communiquées à leur sujet prochainement.
 

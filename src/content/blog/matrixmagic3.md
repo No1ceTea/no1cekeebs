@@ -23,11 +23,11 @@ Disponible uniquement en **WKL** mais en deux formats différents, un **80%** et
 
 ## Layout
 
-Dans un premier temps, nous allons voir le layout du **80%**. Il sera très simple avec un PCB **hotswap** (il sera aussi compatible avec le PCB du 8XV 3.0), et la possibilité uniquement d'avoir une step capslock.
+Dans un premier temps, nous allons voir le layout du **80%**. Il sera très simple avec un PCB **Hotswap** (il sera aussi compatible avec le PCB du 8XV 3.0), et la possibilité uniquement d'avoir une step capslock.
 
 ![magic3PCB80](/groupbuy/matrixmagic3/magic3PCB80.png)
 
-Enfin dans un second temps, vous pourrez retrouver ici les deux layouts disponibles pour le **60%**. Pour un PCB **hotswap**, certaines parties pourront être changées comme sur le schéma ci-dessous avec un **HHKB** et un **WKL**.
+Enfin dans un second temps, vous pourrez retrouver ici les deux layouts disponibles pour le **60%**. Pour un PCB **Hotswap**, certaines parties pourront être changées comme sur le schéma ci-dessous avec un **HHKB** et un **WKL**.
 
 ![magic3PCB60](/groupbuy/matrixmagic3/magic3PCB60.png)
 

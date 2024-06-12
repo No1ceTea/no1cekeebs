@@ -42,12 +42,12 @@ Vous pourrez choisir entre deux front pack, avec soit une inscription en anglais
 
 ## Layout
 
-Le PCB fourni sera **hotswap** et en **daughterboard**, dessiner et fabrique par **Mechlovin'Studio** et supportera **QMK/VIA**. Il comportera deux lignes de **flexcut** situé en haut de la spacebar et en dessous de la ligne R1 qui est moins prononce que la précédente que j'ai citée.
+Le PCB fourni sera **Hotswap** et en **daughterboard**, dessiner et fabrique par **Mechlovin'Studio** et supportera **QMK/VIA**. Il comportera deux lignes de **flexcut** situé en haut de la spacebar et en dessous de la ligne R1 qui est moins prononce que la précédente que j'ai citée.
 
 ![pcb66](/groupbuy/new-retro66/pcb66.jpg)
 ![pcbnearof66](/groupbuy/new-retro66/pcbnearof66.jpg)
 
-Les deux 1u à l'extrême droite peuvent être dessoudés et le bouton **EC11** peut donc être soudé après le retrait du socle hotswap, tout cela pour choisir entre une touche classique, soit mettre en place un **knob** sur deux et avoir une autre touche classique avec le knob ou directement les **deux knobs** sur ces boutons (**EC11** je le rappelle).
+Les deux 1u à l'extrême droite peuvent être dessoudés et le bouton **EC11** peut donc être soudé après le retrait du socle Hotswap, tout cela pour choisir entre une touche classique, soit mettre en place un **knob** sur deux et avoir une autre touche classique avec le knob ou directement les **deux knobs** sur ces boutons (**EC11** je le rappelle).
 
 ![knob2](/groupbuy/new-retro66/knob2.jpg)
 

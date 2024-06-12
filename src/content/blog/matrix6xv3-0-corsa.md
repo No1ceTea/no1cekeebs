@@ -52,7 +52,7 @@ Enfin, le Corsa profitera d'un écran LCD de **128 par 128** avec une luminosit�
 
 ## Layout
 
-Le Corsa proposera dans son kit un **PCB hotswap** avec seulement la possibilité de pouvoir mettre une step caps ici en rouge.
+Le Corsa proposera dans son kit un **PCB Hotswap** avec seulement la possibilité de pouvoir mettre une step caps ici en rouge.
 
 ![matrix6xv3.0corsaLayout](/groupbuy/matrix6xv3.0corsa/matrix6xv3.0corsaLayout.png)
 

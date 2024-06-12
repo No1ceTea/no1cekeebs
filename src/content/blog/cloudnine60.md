@@ -51,13 +51,13 @@ L'angle de frappe sera de **7 degrés** et une hauteur de face de **18mm** (sans
 
 Seulement une plate en **aluminium** a été prévue. Mais vous pouvez prendre en extra pour €30 une plate en **PC**, **FR4**, **PP** ou **POM** et pour €36 une plate en **aluminum** ou en **CF**.
 
-## Price
+## Prix
 
 Le groupbuy commencera le 4 mai.
 
 Ces prix sont extraits directement de la source. À noter qu'une plate en aluminium et un wire 6u seront fournis dans le kit.
 
-| Cloudnine60                                                | Price |
+| Cloudnine60                                                | Prix |
 | ---------------------------------------------------------- | ----- |
 | Anodized Top Case + Full Brass Bottom Case (clear coated)  | €435  |
 | Anodized Top Case + Full Copper Bottom Case (clear coated) | €485  |

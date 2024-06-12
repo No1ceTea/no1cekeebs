@@ -50,9 +50,9 @@ GMK Nerve présente un design novateur inspiré par les dernières avancées tec
 ![gmknerveartisan5](/groupbuy/gmknerve/gmknerveartisan5.png)
 ![gmknerveartisan6](/groupbuy/gmknerve/gmknerveartisan6.png)
 
-## Price
+## Prix
 
-| Item      | Price |
+| Item      | Prix |
 | --------- | ----- |
 | Base kit  | $125  |
 | Novelties | $65   |

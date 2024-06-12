@@ -59,7 +59,7 @@ Deux coloris seront disponible : **Order** et **Liberty**
 
 ## Layout
 
-Le PCB sera uniquement **hotswap** et sera compatible avec Vial. Le microcontrôleur haute vitesse prend en charge un taux de retour pouvant atteindre 8 kHz. Par défaut, le firmware est en mode basse vitesse, mais vous avez la possibilité de le mettre à jour vous-même vers le mode haute vitesse si nécessaire. Pour ce faire, vous devrez utiliser un câble de données USB 3.0.
+Le PCB sera uniquement **Hotswap** et sera compatible avec Vial. Le microcontrôleur haute vitesse prend en charge un taux de retour pouvant atteindre 8 kHz. Par défaut, le firmware est en mode basse vitesse, mais vous avez la possibilité de le mettre à jour vous-même vers le mode haute vitesse si nécessaire. Pour ce faire, vous devrez utiliser un câble de données USB 3.0.
 
 ### PCB
 
@@ -75,11 +75,11 @@ L'angle de frappe sera de **8 degrés**, une hauteur de face de **18.6mm** et fe
 
 Deux plates en **aluminium** seront disponibles, une avec et l'autre sans flex cut.
 
-## Price
+## Prix
 
 Le groupbuy était du 3 au 5 novembre, mais vous pouvez d'ores et déjà le retrouver en aftermarket. Le faukwaa était uniquement disponible sur le site officiel de Matrix Lab, les prix sont calculés avec le prix original convertie en euros + x1.2 pour inclure la TVA.
 
-| Faukwaa                                 | Price    |
+| Faukwaa                                 | Prix    |
 | --------------------------------------- | -------- |
 | ORDER (black) with flex cut plate       | ≃€771,93 |
 | ORDER (black) with non flex cut plate   | ≃€771,93 |

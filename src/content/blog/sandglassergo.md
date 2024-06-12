@@ -54,9 +54,9 @@ Il sera disponible sous **6 coloris** differents :
 
 ## Layout
 
-Nous aborderons ici un format **alice** contre toute attente, avec un **PCB hotswap** en **ANSI** qui n'aura pas énormément de swap possible voir pas du tout et compatible QMK/VIA.
+Nous aborderons ici un format **alice** contre toute attente, avec un **PCB Hotswap** en **ANSI** qui n'aura pas énormément de swap possible voir pas du tout et compatible QMK/VIA.
 
-![sandglassergoPCBhotswap](/groupbuy/sandglassergo/sandglassergoPCBhotswap.jpg)
+![sandglassergoPCBHotswap](/groupbuy/sandglassergo/sandglassergoPCBHotswap.jpg)
 
 Et enfin un **PCB solder** et est aussi en **ANSI**. Elle possèdera plus de swap si l'envie vous prend et si vous avez le courage de faire de la soudure. Les touches que vous pourrez modifier sont d'un coloris plus foncé. Il sera évidemment compatible QMK/VIA lui aussi.
 
