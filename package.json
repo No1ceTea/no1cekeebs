@@ -45,10 +45,10 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.57.0",
     "eslint-plugin-astro": "^1.2.2",
-    "lint-staged": "^15.2.6",
+    "lint-staged": "^15.2.7",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0",
-    "prettier-plugin-tailwindcss": "^0.6.3",
+    "prettier-plugin-tailwindcss": "^0.6.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
