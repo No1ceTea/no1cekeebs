@@ -14,8 +14,7 @@ Moi c'est Kase ! Cela fait assez peu de temps que je suis dans le hobby, mais je
 
 _Le clavier que Kase nous présente est le Neo65 de QwertyKeys, sont premier clavier custom de qualité._
 
-
-_Le Neo65 est un clavier de 65% bénéficiant d'un design très minimaliste et doté d'un boîtier aux bords ultra fins. Il est équipé d'une weight arborant un logo Orbit gravéo._ 
+_Le Neo65 est un clavier de 65% bénéficiant d'un design très minimaliste et doté d'un boîtier aux bords ultra fins. Il est équipé d'une weight arborant un logo Orbit gravéo._
 
 ![matrixnavi1](/review/kase-neo65/neo651.jpg)
 
