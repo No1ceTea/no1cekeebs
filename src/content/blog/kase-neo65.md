@@ -1,6 +1,6 @@
 ---
 author: Kase
-pubDatetime: 2024-06-13T11:48:22Z
+pubDatetime: 2024-06-16T20:29:16Z
 title: Neo65 by Kase
 slug: "kase-neo65"
 featured: true
