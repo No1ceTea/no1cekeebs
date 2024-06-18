@@ -1,30 +1,35 @@
 ---
-author: No1ceTea
-pubDatetime: 2024-06-12T20:45:29Z
-title: Matrix 6XV 3.0 Corsa by No1ceTea
-slug: "no1cetea-matrixcorsa"
+author: Zary
+pubDatetime: 2024-06-18T10:44:51Z
+title: F1-8X V2 by Zary
+slug: "zary-f1-8xv2"
 featured: true
 tags:
 - Review
 description: "Tout simplement sublimé."
-heroImage: /review/no1cetea-matrixcorsa/matrixcorsaHero.jpg
+heroImage: /review/zary-f1-8xv2/f1-8xv2Hero.jpg
 ---
 
-Peux-tu te présenter en quelque ligne ? Depuis combien de temps tu es dans le hobby ? (Tu n'es pas obligé de te présenter, un pseudo est par contre apprécié)
-*
-Je m’appelle Ryan (Zary), ça fait bientôt 3 ans que je suis dans le hobby
-Quels sont le(s) modèle(s) de clavier que vous souhaitiez ?
-*
-F1-8X V2 (acquis), TGR Jane (non acquis)
-Quelle est la configuration de ton clavier ?
-*
-F1-8X V2, Alu plate, Cherry Mx Nixies (2023), GMK Olivia R3
-Peux-tu me faire une description de ton clavier ? (Mounting-style, Layout, Format, etc...)
-*
-C’est un TKL [meilleur layout haha], le mounting c’est propre au F1, un o-ring gasket mount, le point fort c’est aussi le choix de pcb et de plates (je peux pas les lister il y en a vraiment trop), pour renforcer la sonorité du clavier, il y a 6 poids en cuivre sur le bottom case.
-Qu'est ce qui t'a fais acheter ce clavier ?
-*
-son design super minimaliste, mais surtout la qualité.
-Sur une échelle de 1 à 10, comment évaluerais-tu ton clavier et en fonction de quels critères tu te base ?
-*
-9,5/10, je met pas 10 car j’ai des TOUT PETITS nit picks mais sinon je trouve que le F1 est quasi parfait 
+Je m’appelle Ryan (Zary)  ça fait bientôt 3 ans que je suis dans le hobby
+
+_Aujourd'hui, Zary va nous présenter son F1-8X V2 (et dans un futur proche, le TGR Jane v3)._
+
+![f1-8xv21](/review/zary-f1-8xv2/f1-8xv21.jpg)
+
+_Voici en détail la configuration de son F1-8X V2:_
+
+- Couleur : Silver - Silver
+- Plate : Aluminium
+- Switches : Cherry Mx Nixies (2023)
+- Stabilisateurs : Durock V2 et C3 V3 pour la spacebar
+- Keycaps : GMK Olivia R3
+
+C’est un TKL [meilleur layout haha], le mounting c’est propre au F1, un o-ring gasket mount, le point fort c’est aussi le choix du pcb et de la plate (je peux pas les lister il y en a vraiment trop. _Si vous souahitez, vous pouvez voir tous les extras [ici](https://eloquentclicks.com/products/f1-8x-v2-add-ons)_), pour renforcer la sonorité du clavier, il y a 6 poids en cuivre sur le bottom case.
+
+_Qu'est ce qui t'a fais acheter ce clavier ?_
+
+Son design super minimaliste, mais surtout la qualité.
+
+_Sur une échelle de 1 à 10, comment évaluerais-tu ton clavier et en fonction de quels critères tu te base ?_
+
+9,5/10, je met pas 10 car j’ai des TOUT PETITS nit picks mais sinon je trouve que le F1 est quasi parfait.
