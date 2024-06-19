@@ -1,6 +1,6 @@
 ---
 author: Zary
-pubDatetime: 2024-06-18T10:44:51Z
+pubDatetime: 2024-06-19T20:56:51Z
 title: F1-8X V2 by Zary
 slug: "zary-f1-8xv2"
 featured: true
@@ -10,7 +10,7 @@ description: "Tout simplement sublimé."
 heroImage: /review/zary-f1-8xv2/f1-8xv2Hero.jpg
 ---
 
-Je m’appelle Ryan (Zary)  ça fait bientôt 3 ans que je suis dans le hobby
+Je m’appelle Ryan (Zary) et cela va faire bientôt 3 ans que je suis dans le hobby.
 
 _Aujourd'hui, Zary va nous présenter son F1-8X V2 (et dans un futur proche, le TGR Jane v3)._
 
@@ -24,7 +24,7 @@ _Voici en détail la configuration de son F1-8X V2:_
 - Stabilisateurs : Durock V2 et C3 V3 pour la spacebar
 - Keycaps : GMK Olivia R3
 
-C’est un TKL [meilleur layout haha], le mounting c’est propre au F1, un o-ring gasket mount, le point fort c’est aussi le choix du pcb et de la plate (je peux pas les lister il y en a vraiment trop. _Si vous souahitez, vous pouvez voir tous les extras [ici](https://eloquentclicks.com/products/f1-8x-v2-add-ons)_), pour renforcer la sonorité du clavier, il y a 6 poids en cuivre sur le bottom case.
+C’est un TKL (meilleur layout, haha), le montage est propre au F1, un montage par o-ring gasket mount, le point fort est aussi le choix du PCB et de la plate (je ne peux pas tous les lister, il y en a vraiment trop. _Si vous souhaitez, vous pouvez voir tous les extras [ici](https://eloquentclicks.com/products/f1-8x-v2-add-ons)_). Pour renforcer la sonorité du clavier, il y a 6 poids en cuivre sur le fond du boîtier.
 
 _Qu'est ce qui t'a fais acheter ce clavier ?_
 
