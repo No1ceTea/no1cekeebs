@@ -16,7 +16,7 @@ _Le clavier que Kase nous présente est le Neo65 de QwertyKeys, sont premier cla
 
 _Le Neo65 est un clavier de 65% bénéficiant d'un design très minimaliste et doté d'un boîtier aux bords ultra fins. Il est équipé d'une weight arborant un logo Orbit gravéo._
 
-![matrixnavi1](/review/kase-neo65/neo651.jpg)
+![neo651](/review/kase-neo65/neo651.jpg)
 
 _Voici la configuration de son clavier :_
 
@@ -28,7 +28,7 @@ _Voici la configuration de son clavier :_
 
 Ha, et j'ai gardé le film plastique sur la weight le temps que je trouve un meilleur deskmat, je ne voudrais pas la rayer ! J'ai craqué pour les bord ultra fins !
 
-![matrixnavi1](/review/kase-neo65/neo652.jpg)
+![neo652](/review/kase-neo65/neo652.jpg)
 
 _Quelle note donnerais-tu à ton clavier et selon quels critères ?_
 
