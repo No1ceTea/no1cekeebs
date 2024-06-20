@@ -1,6 +1,6 @@
 ---
 author: Taner
-pubDatetime: 2024-06-20T19:21:04Z
+pubDatetime: 2024-06-20T22:24:58Z
 title: Neo80 by Taner
 slug: "taner-neo80"
 featured: true
@@ -39,3 +39,5 @@ Et bien sûr en temps que reviewer, cela était important pour moi de l'obtenir 
 - Faciliter de construction : 10 sur 10 (Connecteur magnétique, système catch ball, hotswap de dispo)
 - Esthétisme : 10 sur 10 (Logo Neo rgb sur le côté, sobre et élégant avec pleins de choix de couleurs à l'achat, impossible de ne pas trouver une configuration à son gout)
 - Option : 9 sur 10 (possibilité de l'avoir en sans-fil, hotswap, solder, ISO ou ANSI, mais malheureusement pas de gravure à l'arrière)
+
+_Je remercie Taner de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Submit Review" !_

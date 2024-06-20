@@ -33,3 +33,5 @@ Son design super minimaliste, mais surtout la qualité.
 _Sur une échelle de 1 à 10, comment évaluerais-tu ton clavier et en fonction de quels critères tu te base ?_
 
 9,5/10, je met pas 10 car j’ai des TOUT PETITS nit picks mais sinon je trouve que le F1 est quasi parfait.
+
+_Je remercie Zary de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Submit Review" !_
