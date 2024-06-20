@@ -25,7 +25,7 @@ _Voici la configuration de son clavier:_
 
 Il s'agit d'un clavier TKL de chez Neo en couleur champagane. Il est actuellement construit avec des HMX Hyacinth de chez DeltaKeyCo et par dessus un set GMK Rouge offert par un ami !
 
-Le Neo80 est un clavier TKL avec 4 types de montage à sa disposition, gasket jackets, gasket dumbells, O-ring et sandwich mount. J'ai opté pour le sandwich mount sans foams pour une expérience plus clacky.Tous ça combiné avec une plate fibre de carbone, le tout est vraiment bruyant comme je l'aime ! 
+Le Neo80 est un clavier TKL avec 4 types de montage à sa disposition, gasket jackets, gasket dumbells, O-ring et sandwich mount. J'ai opté pour le sandwich mount sans foams pour une expérience plus clacky.Tous ça combiné avec une plate fibre de carbone, le tout est vraiment bruyant comme je l'aime !
 
 ![neo802](/review/taner-neo80/neo802.jpg)
 
