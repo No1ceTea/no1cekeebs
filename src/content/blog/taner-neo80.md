@@ -30,7 +30,7 @@ Le Neo80 est un clavier TKL avec 4 types de montage à sa disposition, gasket ja
 ![neo802](/review/taner-neo80/neo802.jpg)
 
 Le prix tout d'abord, à 170 pour un clavier de cette qualité, on ne refuse pas. La couleur champagne aussi, super originale (et je ne suis pas déçus du résultat). Et pour finir je veux compléter la famille des claviers Neo, ayant le 70 et le 65 (toujours pas construit), je ne pouvais pas manquer celui là !
-
+1
 ![neo803](/review/taner-neo80/neo803.jpg)
 
 Et bien sûr en temps que reviewer, cela était important pour moi de l'obtenir pour conseiller plus tard d'autres personnes.
