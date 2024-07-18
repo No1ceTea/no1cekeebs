@@ -3,7 +3,7 @@ author: No1ceTea
 pubDatetime: 2024-06-12T12:36:06Z
 title: Magnum65
 slug: "magnum65"
-featured: true
+featured: false
 tags: 
 - GroupBuy-InterestCheck
 description: "Piou piou."
