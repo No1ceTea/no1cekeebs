@@ -10,7 +10,6 @@
     "astro": "astro",
     "format:check": "prettier --check . --plugin=prettier-plugin-astro",
     "format": "prettier --write . --plugin=prettier-plugin-astro",
-    "jampack": "jampack ./dist",
     "cz": "cz",
     "lint": "eslint ."
   },
@@ -35,7 +34,6 @@
     "@astrojs/react": "^3.6.2",
     "@astrojs/sitemap": "^3.1.6",
     "@astrojs/tailwind": "^5.1.1",
-    "@divriots/jampack": "^0.28.0",
     "@tailwindcss/typography": "^0.5.15",
     "@types/github-slugger": "^2.0.0",
     "@types/react": "^18.3.9",
