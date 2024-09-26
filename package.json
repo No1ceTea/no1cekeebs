@@ -51,15 +51,5 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "typescript-eslint": "^8.7.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx,md,mdx,json,astro}": [
-      "prettier --write --plugin=prettier-plugin-astro"
-    ]
   }
 }
