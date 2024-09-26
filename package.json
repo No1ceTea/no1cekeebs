@@ -1,6 +1,6 @@
 {
   "name": "no1cetea-keebs",
-  "version": "4.15.5",
+  "version": "4.15.9",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
