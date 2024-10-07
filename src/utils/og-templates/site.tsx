@@ -64,7 +64,7 @@ export default () => {
             }}
           >
             <p style={{ fontSize: 72, fontWeight: "bold" }}>{SITE.title}</p>
-            <p style={{ fontSize: 28 }}>{SITE.desc}</p>
+            <p style={{ fontSize: 28 }}>{SITE.description}</p>
           </div>
 
           <div

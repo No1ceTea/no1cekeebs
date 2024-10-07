@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
+  title: "No1ceKeebs",
+  description: "Petit site autour des claviers customs.",
   website: "https://no1cekeebs.live/", // replace this with your deployed domain
   author: "No1ceTea",
-  desc: "Petit site autour des claviers customs.",
-  title: "No1ceKeebs",
   lightAndDarkMode: true,
   postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
