@@ -8,6 +8,7 @@ export const SITE: Site = {
   lightAndDarkMode: true,
   postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  showArchives: true,
 };
 
 export const LOCALE = {

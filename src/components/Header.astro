@@ -5,7 +5,7 @@ import LinkButton from "./LinkButton.astro";
 import { Image } from "astro:assets";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "submitreview" | "search";
+  activeNav?: "posts" | "tags" | "about" | "submitreview" | "archives" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -78,6 +78,18 @@ const { activeNav } = Astro.props;
               Submit review
             </a>
           </li>
+          {
+            SITE.showArchives && (
+              <li>
+                <a
+                  href="/archives/"
+                  class={activeNav === "archives" ? "active" : ""}
+                >
+                  Archives
+                </a>
+              </li>
+            )
+          }
           <li>
             <LinkButton
               href="/search/"
