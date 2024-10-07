@@ -15,7 +15,6 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
     modDatetime,
     description,
     heroImage,
-    readingTime,
   } = frontmatter;
 
   const headerProps = {
@@ -48,7 +47,6 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
       <Datetime
         pubDatetime={pubDatetime}
         modDatetime={modDatetime}
-        readingTime={readingTime}
       />
       <p>{description}</p>
     </li>

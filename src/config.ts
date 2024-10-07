@@ -8,6 +8,11 @@ export const SITE: Site = {
   lightAndDarkMode: true,
   postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  editPost: {
+    url: "https://github.com/No1ceTea/no1cekeebs/edit/master/src/content/blog/",
+    text: "Suggérer des changements",
+    appendFilePath: true,
+  },
   showArchives: true,
 };
 

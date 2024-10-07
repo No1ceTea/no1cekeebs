@@ -20,7 +20,6 @@ const {
   author,
   description,
   ogImage,
-  readingTime,
   canonicalURL,
   pubDatetime,
   modDatetime,
@@ -80,7 +79,6 @@ const nextPost =
       modDatetime={modDatetime}
       size="lg"
       className="my-2"
-      readingTime={readingTime}
     />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
@@ -232,7 +230,7 @@ const nextPost =
     const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
     for (const heading of headings) {
       heading.classList.add("group");
-      let link = document.createElement("a");
+      const link = document.createElement("a");
       link.innerText = "#";
       link.className = "heading-link hidden group-hover:inline-block ml-2";
       link.href = "#" + heading.id;

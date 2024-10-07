@@ -70,8 +70,6 @@ All commands are run from the root of the project, from a terminal:
 | `docker compose up -d`               | Run it on docker, You can access with the same hostname and port informed on `dev` command.                                      |
 | `docker compose run app npm install` | You can run any command above into the docker container.                                                                         |
 
-> **_Warning!_** Windows PowerShell users may need to install the [concurrently package](https://www.npmjs.com/package/concurrently) if they want to [run diagnostics](https://docs.astro.build/en/reference/cli-reference/#astro-check) during development (`astro check --watch & astro dev`). For more info, see [this issue](https://github.com/satnaing/astro-paper/issues/113).
-
 ## ✨ Feedback & Suggestions
 
 If you have any suggestions/feedback, you can contact me via [my email](mailto:jacquot.thai@gmail.com). Alternatively, feel free to open an issue if you find bugs or want to request new features or new article.

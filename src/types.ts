@@ -9,6 +9,11 @@ export type Site = {
   lightAndDarkMode: boolean;
   postPerPage: number;
   scheduledPostMargin: number;
+  editPost?: {
+    url?: URL["href"];
+    text?: string;
+    appendFilePath?: boolean;
+  };
   showArchives?: boolean;
 };
 
