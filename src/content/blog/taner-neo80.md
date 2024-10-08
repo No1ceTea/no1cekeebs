@@ -23,9 +23,13 @@ _Voici la configuration de son clavier:_
 - Switches : HMX Hyacinth
 - Keycaps : GMK Rouge
 
+_Le Neo80 est un clavier conçu par QwertyKeys dans la gamme des Neo. Ce clavier au format TLK conserve des traits simples, avec des bords très fins et un profil de côté élégant et minimaliste._
+
 Il s'agit d'un clavier TKL de chez Neo en couleur champagane. Il est actuellement construit avec des HMX Hyacinth de chez DeltaKeyCo et par dessus un set GMK Rouge offert par un ami !
 
 Le Neo80 est un clavier TKL avec 4 types de montage à sa disposition, gasket jackets, gasket dumbells, O-ring et sandwich mount. J'ai opté pour le sandwich mount sans foams pour une expérience plus clacky.Tous ça combiné avec une plate fibre de carbone, le tout est vraiment bruyant comme je l'aime !
+
+_Le Neo80 présente une hauteur de face de 18mm et dispose de LED circulaire en haut pour lui donner un peu de caractère._
 
 ![neo802](/review/taner-neo80/neo802.jpg)
 
@@ -40,4 +44,4 @@ Et bien sûr en temps que reviewer, cela était important pour moi de l'obtenir 
 - Esthétisme : 10 sur 10 (Logo Neo rgb sur le côté, sobre et élégant avec pleins de choix de couleurs à l'achat, impossible de ne pas trouver une configuration à son gout)
 - Option : 9 sur 10 (possibilité de l'avoir en sans-fil, hotswap, solder, ISO ou ANSI, mais malheureusement pas de gravure à l'arrière)
 
-_Je remercie Taner de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Submit Review" !_
+_Je remercie Taner de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Review" !_

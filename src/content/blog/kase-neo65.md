@@ -34,4 +34,4 @@ _Quelle note donnerais-tu à ton clavier et selon quels critères ?_
 
 9/10 : physiquement, j'aurais aimé avoir un peu plus de choix de weight. Fonctionnellement parlant, j'aurai aimé avoir un layout iso sur pcb hotswap filaire, mais rien de réellement important. Question son, j'ai quasiment réussi á obtenir le son que je souhaitais !
 
-_Je remercie Kase de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Submit Review" !_
+_Je remercie Kase de m'avoir accordé son temps pour avoir fait cette review, vous pouvez faire de même dans l'onglet "Review" !_
