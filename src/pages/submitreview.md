@@ -9,7 +9,7 @@ title: "Soumettre une review"
 
 ## Cliquez ici pour accéder au formulaire de review
 
-En seulement quelques minutes, vous pourrez exprimer vos impressions sur votre clavier en répondant à quelques questions simples. Vous aurez l'opportunité d'évaluer des aspects essentiels tels que la qualité de fabrication, le ressenti de frappe, le son, l'esthétique, et bien plus encore.
+En seulement quelques minutes, vous pourrez exprimer vos impressions sur votre clavier en répondant à quelques questions simples. Vous aurez l'opportunité d'évaluer des aspects essentiels tels que la qualité de fabrication, le ressenti de frappe, le son, l'esthétique, et bien plus encore. Le seul pré-requis est d'avoir de belle photos pour mettre en valeur ton clavier.
 
 ## Des remarques supplémentaires ?
 

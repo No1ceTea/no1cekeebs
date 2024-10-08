@@ -2,14 +2,13 @@ import React, { useState } from 'react';
 
 export default function KeyboardReviewForm() {
   const [formData, setFormData] = useState({
-    name: '',
+    pseudo: '',
     email: '',
-    keyboardModel: '',
-    experience: '',
-    reason: ''
+    profileDescription: '',
+    keyboardToReview: ''
   });
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setFormData(prevState => ({
       ...prevState,
@@ -20,7 +19,7 @@ export default function KeyboardReviewForm() {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     try {
-      const response = await fetch('/api/submit-review', {
+      const response = await fetch('./api/submit-review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -31,11 +30,10 @@ export default function KeyboardReviewForm() {
       if (response.ok) {
         alert('Votre candidature a été soumise avec succès !');
         setFormData({
-          name: '',
+          pseudo: '',
           email: '',
-          keyboardModel: '',
-          experience: '',
-          reason: ''
+          profileDescription: '',
+          keyboardToReview: ''
         });
       } else {
         alert('Une erreur est survenue lors de la soumission. Veuillez réessayer.');
@@ -51,12 +49,12 @@ export default function KeyboardReviewForm() {
       <h2 className="text-2xl font-medium mb-6 text-center">Formulaire de review</h2>
       
       <div className="mb-4">
-        <label htmlFor="name" className="block mb-2 font-medium text-orange-500">Nom</label>
+        <label htmlFor="pseudo" className="block mb-2 font-medium text-orange-500">Pseudo</label>
         <input
           type="text"
-          id="name"
-          name="name"
-          value={formData.name}
+          id="pseudo"
+          name="pseudo"
+          value={formData.pseudo}
           onChange={handleChange}
           required
           className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
@@ -77,41 +75,11 @@ export default function KeyboardReviewForm() {
       </div>
 
       <div className="mb-4">
-        <label htmlFor="keyboardModel" className="block mb-2 font-medium text-orange-500">Modèle de clavier</label>
-        <input
-          type="text"
-          id="keyboardModel"
-          name="keyboardModel"
-          value={formData.keyboardModel}
-          onChange={handleChange}
-          required
-          className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
-        />
-      </div>
-
-      <div className="mb-4">
-        <label htmlFor="experience" className="block mb-2 font-medium text-orange-500">Expérience avec les claviers</label>
-        <select
-          id="experience"
-          name="experience"
-          value={formData.experience}
-          onChange={handleChange}
-          required
-          className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
-        >
-          <option value="">Sélectionnez votre niveau d'expérience</option>
-          <option value="débutant">Débutant</option>
-          <option value="intermédiaire">Intermédiaire</option>
-          <option value="expert">Expert</option>
-        </select>
-      </div>
-
-      <div className="mb-4">
-        <label htmlFor="reason" className="block mb-2 font-medium text-orange-500">Pourquoi voulez-vous faire cette review ?</label>
+        <label htmlFor="profileDescription" className="block mb-2 font-medium text-orange-500">Rapide description de ton profile</label>
         <textarea
-          id="reason"
-          name="reason"
-          value={formData.reason}
+          id="profileDescription"
+          name="profileDescription"
+          value={formData.profileDescription}
           onChange={handleChange}
           required
           className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
@@ -119,9 +87,22 @@ export default function KeyboardReviewForm() {
         ></textarea>
       </div>
 
+      <div className="mb-4">
+        <label htmlFor="keyboardToReview" className="block mb-2 font-medium text-orange-500">Clavier que tu aimerais review</label>
+        <input
+          type="text"
+          id="keyboardToReview"
+          name="keyboardToReview"
+          value={formData.keyboardToReview}
+          onChange={handleChange}
+          required
+          className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
+        />
+      </div>
+
       <button
         type="submit"
-        className="w-full py-2 px-4 bg-orange-500 hover:bg-orange-700 text-white font-semibold rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
+        className="w-full py-4 px-4 bg-orange-500 hover:bg-orange-700 text-white font-semibold rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
       >
         Soumettre la candidature
       </button>
