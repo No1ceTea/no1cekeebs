@@ -11,8 +11,6 @@ title: "Soumettre une review"
 
 En seulement quelques minutes, vous pourrez exprimer vos impressions sur votre clavier en répondant à quelques questions simples. Vous aurez l'opportunité d'évaluer des aspects essentiels tels que la qualité de fabrication, le ressenti de frappe, le son, l'esthétique, et bien plus encore.
 
-[Formulaire](https://forms.gle/uGmSdY17oEi84P4h8)
-
 ## Des remarques supplémentaires ?
 
 Si vous avez des questions ou des commentaires qui ne sont pas abordés dans le formulaire, n'hésitez pas à me contacter sur Discord (No1ceTea). Notre communauté de passionnés est impatiente de découvrir vos retours et de s'en inspirer pour améliorer l'expérience de chacun !
