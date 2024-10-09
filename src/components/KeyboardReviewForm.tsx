@@ -7,6 +7,8 @@ export default function KeyboardReviewForm() {
     profileDescription: '',
     keyboardToReview: ''
   });
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitMessage, setSubmitMessage] = useState('');
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
@@ -18,8 +20,11 @@ export default function KeyboardReviewForm() {
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    setIsSubmitting(true);
+    setSubmitMessage('');
+
     try {
-      const response = await fetch('./api/submit-review', {
+      const response = await fetch('/api/submit-review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -27,8 +32,10 @@ export default function KeyboardReviewForm() {
         body: JSON.stringify(formData),
       });
       
+      const data = await response.json();
+      
       if (response.ok) {
-        alert('Votre candidature a été soumise avec succès !');
+        setSubmitMessage(data.message);
         setFormData({
           pseudo: '',
           email: '',
@@ -36,11 +43,13 @@ export default function KeyboardReviewForm() {
           keyboardToReview: ''
         });
       } else {
-        alert('Une erreur est survenue lors de la soumission. Veuillez réessayer.');
+        setSubmitMessage(data.message || 'Une erreur est survenue lors de la soumission. Veuillez réessayer.');
       }
     } catch (error) {
       console.error('Erreur:', error);
-      alert('Une erreur est survenue. Veuillez réessayer plus tard.');
+      setSubmitMessage('Une erreur est survenue. Veuillez réessayer plus tard.');
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -75,7 +84,7 @@ export default function KeyboardReviewForm() {
       </div>
 
       <div className="mb-4">
-        <label htmlFor="profileDescription" className="block mb-2 font-medium text-orange-500">Rapide description de ton profile</label>
+        <label htmlFor="profileDescription" className="block mb-2 font-medium text-orange-500">Description rapide de ton profile</label>
         <textarea
           id="profileDescription"
           name="profileDescription"
@@ -102,10 +111,17 @@ export default function KeyboardReviewForm() {
 
       <button
         type="submit"
-        className="w-full py-4 px-4 bg-orange-500 hover:bg-orange-700 text-white font-semibold rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
+        disabled={isSubmitting}
+        className="w-full py-2 px-4 bg-orange-500 hover:bg-orange-700 text-white font-semibold rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 disabled:opacity-50"
       >
-        Soumettre la candidature
+        {isSubmitting ? 'Envoi en cours...' : 'Soumettre la candidature'}
       </button>
+
+      {submitMessage && (
+        <p className={`mt-4 text-center ${submitMessage.includes('succès') ? 'text-green-600' : 'text-red-600'}`}>
+          {submitMessage}
+        </p>
+      )}
     </form>
   );
 }
