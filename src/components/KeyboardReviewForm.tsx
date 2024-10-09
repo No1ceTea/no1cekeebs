@@ -19,7 +19,7 @@ export default function KeyboardReviewForm() {
   };
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
+    e.preventDefault(); // This line is crucial
     setIsSubmitting(true);
     setSubmitMessage('');
 
@@ -35,7 +35,7 @@ export default function KeyboardReviewForm() {
       const data = await response.json();
       
       if (response.ok) {
-        setSubmitMessage(data.message);
+        setSubmitMessage(data.message || 'Votre candidature a été soumise avec succès !');
         setFormData({
           pseudo: '',
           email: '',

@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { sql } from '@vercel/postgres';
 
-export const post: APIRoute = async ({ request }) => {
+export const POST: APIRoute = async ({ request }) => {
   try {
     const body = await request.json();
     const { pseudo, email, profileDescription, keyboardToReview } = body;
