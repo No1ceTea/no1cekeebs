@@ -5,7 +5,7 @@ import LinkButton from "./LinkButton.astro";
 import { Image } from "astro:assets";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "submitreview" | "archives" | "search";
+  activeNav?: "posts" | "tags" | "submitreview" | "archives" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -63,11 +63,6 @@ const { activeNav } = Astro.props;
           <li>
             <a href="/tags/" class={activeNav === "tags" ? "active" : ""}>
               Tags
-            </a>
-          </li>
-          <li>
-            <a href="/about/" class={activeNav === "about" ? "active" : ""}>
-              About
             </a>
           </li>
           <li>
