@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
+import { GoogleReCaptchaProvider, useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
-export default function KeyboardReviewForm() {
+const RecaptchaForm = () => {
   const [formData, setFormData] = useState({
     pseudo: '',
     email: '',
@@ -8,6 +9,7 @@ export default function KeyboardReviewForm() {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitMessage, setSubmitMessage] = useState('');
+  const { executeRecaptcha } = useGoogleReCaptcha();
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
@@ -18,17 +20,23 @@ export default function KeyboardReviewForm() {
   };
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault(); // This line is crucial
+    e.preventDefault();
+    if (!executeRecaptcha) {
+      console.error("executeRecaptcha not available");
+      return;
+    }
+
     setIsSubmitting(true);
     setSubmitMessage('');
 
     try {
+      const token = await executeRecaptcha('submit_review');
       const response = await fetch('/api/submit-review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, recaptchaToken: token }),
       });
       
       const data = await response.json();
@@ -109,4 +117,14 @@ export default function KeyboardReviewForm() {
       )}
     </form>
   );
-}
+};
+
+const KeyboardReviewForm = () => {
+  return (
+    <GoogleReCaptchaProvider reCaptchaKey="6LeHal0qAAAAAKGfaOWVzPBjyCcnE0oL5jemKi-4">
+      <RecaptchaForm />
+    </GoogleReCaptchaProvider>
+  );
+};
+
+export default KeyboardReviewForm;
