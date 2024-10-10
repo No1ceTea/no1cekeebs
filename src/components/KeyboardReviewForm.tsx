@@ -4,7 +4,6 @@ export default function KeyboardReviewForm() {
   const [formData, setFormData] = useState({
     pseudo: '',
     email: '',
-    profileDescription: '',
     keyboardToReview: ''
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -39,7 +38,6 @@ export default function KeyboardReviewForm() {
         setFormData({
           pseudo: '',
           email: '',
-          profileDescription: '',
           keyboardToReview: ''
         });
       } else {
@@ -84,20 +82,7 @@ export default function KeyboardReviewForm() {
       </div>
 
       <div className="mb-4">
-        <label htmlFor="profileDescription" className="block mb-2 font-medium text-orange-500">Description rapide de ton profile</label>
-        <textarea
-          id="profileDescription"
-          name="profileDescription"
-          value={formData.profileDescription}
-          onChange={handleChange}
-          required
-          className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
-          rows={4}
-        ></textarea>
-      </div>
-
-      <div className="mb-4">
-        <label htmlFor="keyboardToReview" className="block mb-2 font-medium text-orange-500">Clavier que tu aimerais review</label>
+        <label htmlFor="keyboardToReview" className="block mb-2 font-medium text-orange-500">Quel est le modèle de clavier que tu aimerais faire review?</label>
         <input
           type="text"
           id="keyboardToReview"

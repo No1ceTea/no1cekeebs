@@ -5,11 +5,11 @@ title: "Soumettre une review"
 
 ## Partagez votre passion avec notre communauté de passionnés
 
-Êtes-vous un adepte des claviers customs ? Que vous soyez enchanté par votre clavier actuel ou légèrement déçu, nous aimerions beaucoup connaître votre expérience ! En partageant votre avis, vous contribuez à enrichir notre communauté spécialisée et à aider les autres passionnés à faire les meilleurs choix.
+Êtes-vous un adepte des claviers customs ? Que vous soyez enchanté par votre clavier actuel ou légèrement déçu, nous aimerions beaucoup connaître votre expérience ! En partageant votre avis, vous contribuez à enrichir notre communauté spécialisée et à aider les autres passionnés à faire les meilleurs choix (même si tout est une question de goût et de couleur).
 
-## Cliquez ici pour accéder au formulaire de review
+## Remplissez le petit formulaire en bas de page !
 
-En seulement quelques minutes, vous pourrez exprimer vos impressions sur votre clavier en répondant à quelques questions simples. Vous aurez l'opportunité d'évaluer des aspects essentiels tels que la qualité de fabrication, le ressenti de frappe, le son, l'esthétique, et bien plus encore. Le seul pré-requis est d'avoir de belle photos pour mettre en valeur ton clavier.
+Ce petit formulaire me permettra de vous recontacter par mail pour qu'on en discute plus profondément et en détail. Vous pourrez exprimer vos impressions sur votre clavier en répondant à quelques questions simples et en évaluant des aspects essentiels tels que la qualité de fabrication, le ressenti de frappe, le son, l'esthétique, et bien plus encore. Le seul pré-requis est d'avoir de belles photos pour mettre en valeur votre clavier. Ces détails me permettront de faire une review détaillée à votre image.
 
 ## Des remarques supplémentaires ?
 

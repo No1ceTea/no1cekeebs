@@ -4,10 +4,10 @@ import { sql } from '@vercel/postgres';
 export const POST: APIRoute = async ({ request }) => {
   try {
     const body = await request.json();
-    const { pseudo, email, profileDescription, keyboardToReview } = body;
+    const { pseudo, email, keyboardToReview } = body;
 
     // Validation des données
-    if (!pseudo || !email || !profileDescription || !keyboardToReview) {
+    if (!pseudo || !email || !keyboardToReview) {
       return new Response(JSON.stringify({ message: 'Tous les champs sont requis.' }), { 
         status: 400,
         headers: { 'Content-Type': 'application/json' }
@@ -16,8 +16,8 @@ export const POST: APIRoute = async ({ request }) => {
 
     // Insérer les données dans Vercel Postgres
     await sql`
-      INSERT INTO keyboard_reviews (pseudo, email, profile_description, keyboard_to_review)
-      VALUES (${pseudo}, ${email}, ${profileDescription}, ${keyboardToReview})
+      INSERT INTO keyboard_reviews (pseudo, email, keyboard_to_review)
+      VALUES (${pseudo}, ${email}, ${keyboardToReview})
     `;
 
     return new Response(JSON.stringify({ message: 'Votre candidature a été soumise avec succès !' }), { 

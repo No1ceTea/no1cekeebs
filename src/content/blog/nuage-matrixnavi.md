@@ -25,7 +25,7 @@ _Voici la configuration de son clavier :_
 - Stabilisateurs : TX AP 1.2mm
 - Keycaps : GMK Seafarer
 
-![matrixnavi1](/review/nuage-matrixnavi/matrixnavi1.jpg)
+![matrixnavi1](/review/nuage-matrixnavi/matrixnavi3.jpg)
 
 Le Matrix Navi est un TKL FRL, donc sans les touches fonctions (F1, F2, etc...) qu'on voit normalement sur les TKL. Le style de montage est un top mount isolé mais il offre la possibilité d'utiliser des embouts en caoutchouc à mettre sur les points de montage pour offrir un top mount plus doux, ou bien d'utiliser des films en PC pour une expérience plus classique et plus dure.
 
