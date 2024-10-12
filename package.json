@@ -1,6 +1,6 @@
 {
   "name": "no1cetea-keebs",
-  "version": "4.15.12",
+  "version": "4.16.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -15,18 +15,19 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/rss": "^4.0.7",
+    "@astrojs/rss": "^4.0.8",
     "@astrojs/vercel": "^7.8.1",
     "@resvg/resvg-js": "^2.6.2",
     "@vercel/node": "^2.10.3",
     "@vercel/postgres": "^0.10.0",
     "@vercel/speed-insights": "^1.0.12",
-    "astro": "^4.15.12",
+    "astro": "^4.16.1",
     "dotenv": "^16.4.5",
     "fuse.js": "^7.0.0",
     "lodash.kebabcase": "^4.1.1",
     "mdast-util-to-string": "^4.0.0",
     "react-google-recaptcha-v3": "^1.10.1",
+    "react-masonry-css": "^1.0.16",
     "reading-time": "^1.5.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^9.0.0",
@@ -37,7 +38,7 @@
   "devDependencies": {
     "@astrojs/react": "^3.6.2",
     "@astrojs/sitemap": "^3.2.0",
-    "@astrojs/tailwind": "^5.1.1",
+    "@astrojs/tailwind": "^5.1.2",
     "@tailwindcss/typography": "^0.5.15",
     "@types/lodash.kebabcase": "^4.1.9",
     "@types/react": "^18.3.11",
