@@ -10,7 +10,7 @@ import vercel from "@astrojs/vercel/serverless";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  output: "server", // Changé de "static" à "server"
+  output: "server",
   adapter: vercel({
     imageService: true,
     webAnalytics: {
