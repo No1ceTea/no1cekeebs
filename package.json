@@ -1,6 +1,6 @@
 {
   "name": "no1cetea-keebs",
-  "version": "4.16.7",
+  "version": "4.16.13",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -20,8 +20,8 @@
     "@resvg/resvg-js": "^2.6.2",
     "@vercel/node": "^2.10.3",
     "@vercel/postgres": "^0.10.0",
-    "@vercel/speed-insights": "^1.0.13",
-    "astro": "^4.16.7",
+    "@vercel/speed-insights": "^1.1.0",
+    "astro": "^4.16.13",
     "dotenv": "^16.4.5",
     "fuse.js": "^7.0.0",
     "lodash.kebabcase": "^4.1.1",
