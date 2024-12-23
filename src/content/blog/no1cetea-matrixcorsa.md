@@ -5,7 +5,7 @@ title: Matrix 6XV 3.0 Corsa by No1ceTea
 slug: "no1cetea-matrixcorsa"
 featured: false
 tags:
-- Review
+  - Review
 description: "Tout simplement sublimé."
 heroImage: /review/no1cetea-matrixcorsa/matrixcorsaHero.jpg
 ---

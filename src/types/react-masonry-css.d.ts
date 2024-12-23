@@ -1,5 +1,5 @@
-declare module 'react-masonry-css' {
-  import React from 'react';
+declare module "react-masonry-css" {
+  import React from "react";
 
   export interface MasonryProps {
     breakpointCols?: number | { [key: number]: number };

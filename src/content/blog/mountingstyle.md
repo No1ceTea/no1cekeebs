@@ -5,7 +5,7 @@ title: Le style de montage
 slug: "mountingstyle"
 featured: true
 tags:
-- Ressource
+  - Ressource
 description: "Exploration des différents styles de montage de clavier custom."
 heroImage: /posts/mountingstyleHero.jpg
 ---

@@ -6,7 +6,7 @@ title: Lily HHKB
 slug: "lilyhhkb"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Élégance."
 heroImage: /groupbuy/lilyhhkb/lilyhhkbHero.jpeg
 ---
@@ -61,7 +61,7 @@ Dans ce build, il n'y a pas de plate ; il s'agit d'une configuration dites plate
 
 Malgré la fin du groupbuy, les prix retail sont de :
 
-| Lily                                  | Prix   |
+| Lily                                  | Prix    |
 | ------------------------------------- | ------- |
 | Base kit                              | €503,20 |
 | Base kit + upgrade to polished weight | €593,95 |

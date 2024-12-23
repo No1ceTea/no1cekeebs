@@ -5,7 +5,7 @@ title: Diaphorá
 slug: "diaphorá"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Une aventure maison."
 heroImage: /groupbuy/diaphorá/diaphoraHero.png
 ---

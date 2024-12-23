@@ -5,7 +5,7 @@ title: Sisyphus 65
 slug: "sisyphus65"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Sisyphe, le roi de Corinthe."
 heroImage: /groupbuy/sisyphus-65/sisyphus-65Hero.jpg
 ---

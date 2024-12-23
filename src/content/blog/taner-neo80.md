@@ -5,7 +5,7 @@ title: Neo80 by Taner
 slug: "taner-neo80"
 featured: true
 tags:
-- Review
+  - Review
 description: "Champagne!"
 heroImage: /review/taner-neo80/neo80Hero.jpg
 ---
@@ -39,7 +39,7 @@ Le prix tout d'abord, à 170 pour un clavier de cette qualité, on ne refuse pas
 
 Et bien sûr en temps que reviewer, cela était important pour moi de l'obtenir pour conseiller plus tard d'autres personnes.
 
-- Prix : 10 sur 10 (le clavier est de très bonne manufacture, le coating impeccable, vient avec des stabilisateurs très bons et de la mousse, avec un câble et une case de rangement)  
+- Prix : 10 sur 10 (le clavier est de très bonne manufacture, le coating impeccable, vient avec des stabilisateurs très bons et de la mousse, avec un câble et une case de rangement)
 - Faciliter de construction : 10 sur 10 (Connecteur magnétique, système catch ball, hotswap de dispo)
 - Esthétisme : 10 sur 10 (Logo Neo rgb sur le côté, sobre et élégant avec pleins de choix de couleurs à l'achat, impossible de ne pas trouver une configuration à son gout)
 - Option : 9 sur 10 (possibilité de l'avoir en sans-fil, hotswap, solder, ISO ou ANSI, mais malheureusement pas de gravure à l'arrière)

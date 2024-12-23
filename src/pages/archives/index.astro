@@ -29,9 +29,9 @@ const MonthMap: Record<string, string> = {
   <Main pageTitle="Archives" pageDesc="Tous les articles archivés.">
     {
       Object.entries(
-        getPostsByGroupCondition(posts, post =>
-          post.data.pubDatetime.getFullYear()
-        )
+        getPostsByGroupCondition(posts, (post) =>
+          post.data.pubDatetime.getFullYear(),
+        ),
       )
         .sort(([yearA], [yearB]) => Number(yearB) - Number(yearA))
         .map(([year, yearGroup]) => (
@@ -41,8 +41,8 @@ const MonthMap: Record<string, string> = {
             {Object.entries(
               getPostsByGroupCondition(
                 yearGroup,
-                post => post.data.pubDatetime.getMonth() + 1
-              )
+                (post) => post.data.pubDatetime.getMonth() + 1,
+              ),
             )
               .sort(([monthA], [monthB]) => Number(monthB) - Number(monthA))
               .map(([month, monthGroup]) => (

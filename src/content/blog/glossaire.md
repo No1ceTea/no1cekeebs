@@ -6,7 +6,7 @@ title: Le lexique du clavier mécanique
 slug: "glossaire"
 featured: true
 tags:
-- Ressource
+  - Ressource
 description: "Pour mieux comprendre le monde fascinant des claviers mécaniques custom, voici un lexique des termes les plus importants."
 ---
 

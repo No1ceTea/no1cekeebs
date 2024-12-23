@@ -6,7 +6,7 @@ title: Cloudnine 60%
 slug: "cloudnine60"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Comme sur un Nuage :)."
 heroImage: /groupbuy/cloudnine60/cloudnine60Hero.jpg
 ---
@@ -58,17 +58,17 @@ Le groupbuy commencera le 4 mai.
 Ces prix sont extraits directement de la source. À noter qu'une plate en aluminium et un wire 6u seront fournis dans le kit.
 
 | Cloudnine60                                                | Prix |
-| ---------------------------------------------------------- | ----- |
-| Anodized Top Case + Full Brass Bottom Case (clear coated)  | €435  |
-| Anodized Top Case + Full Copper Bottom Case (clear coated) | €485  |
-| Anodized Top Case + Full Stainless Steel Bottom Case (RAW) | €590  |
-| E-Coated Top Case + Full Brass Bottom Case (clear coated)  | €460  |
-| E-Coated Top Case + Full Copper Bottom Case (clear coated) | €510  |
-| E-Coated Top Case + Full Stainless Steel Bottom Case (RAW) | €510  |
-| Extra PCB Hotswap                                          | €60   |
-| Extra PCB Solder                                           | €48   |
-| Extra plate (PC or FR4 or PP or POM)                       | €30   |
-| Extra plate (Aluminium or CF)                              | €36   |
+| ---------------------------------------------------------- | ---- |
+| Anodized Top Case + Full Brass Bottom Case (clear coated)  | €435 |
+| Anodized Top Case + Full Copper Bottom Case (clear coated) | €485 |
+| Anodized Top Case + Full Stainless Steel Bottom Case (RAW) | €590 |
+| E-Coated Top Case + Full Brass Bottom Case (clear coated)  | €460 |
+| E-Coated Top Case + Full Copper Bottom Case (clear coated) | €510 |
+| E-Coated Top Case + Full Stainless Steel Bottom Case (RAW) | €510 |
+| Extra PCB Hotswap                                          | €60  |
+| Extra PCB Solder                                           | €48  |
+| Extra plate (PC or FR4 or PP or POM)                       | €30  |
+| Extra plate (Aluminium or CF)                              | €36  |
 
 ### Vendor list
 

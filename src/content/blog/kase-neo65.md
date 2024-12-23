@@ -5,7 +5,7 @@ title: Neo65 by Kase
 slug: "kase-neo65"
 featured: true
 tags:
-- Review
+  - Review
 description: "Tout simplement sublimé."
 heroImage: /review/kase-neo65/neo65Hero.jpg
 ---

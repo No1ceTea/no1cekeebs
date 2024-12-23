@@ -5,7 +5,7 @@ title: Matrix Faukwaa
 slug: "matrixfaukwaa"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Dans la démesure."
 heroImage: /groupbuy/faukwaa/faukwaaHero.jpg
 ---
@@ -79,7 +79,7 @@ Deux plates en **aluminium** seront disponibles, une avec et l'autre sans flex c
 
 Le groupbuy était du 3 au 5 novembre, mais vous pouvez d'ores et déjà le retrouver en aftermarket. Le faukwaa était uniquement disponible sur le site officiel de Matrix Lab, les prix sont calculés avec le prix original convertie en euros + x1.2 pour inclure la TVA.
 
-| Faukwaa                                 | Prix    |
+| Faukwaa                                 | Prix     |
 | --------------------------------------- | -------- |
 | ORDER (black) with flex cut plate       | ≃€771,93 |
 | ORDER (black) with non flex cut plate   | ≃€771,93 |

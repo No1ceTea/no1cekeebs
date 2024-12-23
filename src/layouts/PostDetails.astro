@@ -13,7 +13,7 @@ export interface Props {
   posts: CollectionEntry<"blog">[];
 }
 
-const { post,posts } = Astro.props;
+const { post, posts } = Astro.props;
 
 const {
   title,
@@ -50,7 +50,7 @@ const allPosts = posts.map(({ data: { title }, slug }) => ({
   slug,
   title,
 }));
-const currentPostIndex = allPosts.findIndex(a => a.slug === post.slug);
+const currentPostIndex = allPosts.findIndex((a) => a.slug === post.slug);
 const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
   currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
@@ -292,8 +292,8 @@ const nextPost =
   }
   backToTop();
 
-    /* Go to page start after page swap */
+  /* Go to page start after page swap */
   document.addEventListener("astro:after-swap", () =>
-    window.scrollTo({ left: 0, top: 0, behavior: "instant" })
+    window.scrollTo({ left: 0, top: 0, behavior: "instant" }),
   );
 </script>

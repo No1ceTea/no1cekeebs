@@ -5,7 +5,7 @@ title: Holy60
 slug: "holy60"
 featured: false
 tags:
-- GroupBuy-InterestCheck
+  - GroupBuy-InterestCheck
 description: "Symbiote keebs."
 heroImage: /groupbuy/holy60/holy60Hero.jpg
 ---
@@ -56,7 +56,7 @@ Vous pourrez choisir en option parmis 3 plates : **FR4**, **aluminium** et **CF*
 
 Vous pouvez encore précommander le vôtre sur [Keygem](https://keygem.com/products/holy-60-pre-order), voici les prix :
 
-| Holy60                               | Prix  |
+| Holy60                               | Prix   |
 | ------------------------------------ | ------ |
 | Kit e-white                          | €320   |
 | Kit anodized black                   | €320   |
